@@ -1,0 +1,68 @@
+// reset
+* {
+	outline: none !important;
+
+	&:focus {
+		outline: none !important;
+	}
+}
+a {
+	text-decoration: none;
+	@include transition( all 0.4s );
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+// container
+.container {
+	@include clearfix;
+	position: relative;
+}
+
+// heading
+h1 {
+	font-size: 38px;
+	line-height: 3.2rem;
+	font-weight: 700;
+	.green {
+		color: $accent-first-color;
+		font-style: italic;
+	}
+}
+h2 {
+	font-size: 26px;
+	line-height: 2.5rem;
+	font-weight: 600;
+	.green {
+		color: $accent-first-color;
+		font-style: italic;
+	}
+}
+h3 {
+	font-size: 18px;
+	font-weight: 600;
+}
+h4 {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+// dropdown menu
+.dropdown-menu {
+	padding: 0;
+	background: $accent-first-color;
+	color: #fff;
+	font-size: 0.875rem;
+	border: 0;
+}
+.dropdown-item {
+	color: #fff !important;
+	text-decoration: none !important;
+	&:hover {
+		background: lighten($accent-first-color,10%);
+		text-decoration: none;
+	}
+	
+}

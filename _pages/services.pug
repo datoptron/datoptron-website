@@ -1,0 +1,140 @@
+//- index.jade
+- var title = "DATOPTRON - Services"
+- var page = "Services"
+
+doctype html
+html(lang="en")
+
+	// html head
+	head
+		include ./includes/head.pug
+
+	// body
+	body
+
+		// header
+		include ./includes/header.pug
+
+		// page main
+		main(role="main")
+
+			// generic layout
+			section.twocolumns
+				.container 
+
+					// row
+					.row 
+
+						// left
+						.col-xl-4.col-lg-4.col-md-12.left
+
+							// heading
+							.text
+								// oval
+								img.oval( src="img/ic-oval-6.png" ) 
+
+								// heads
+								h2 
+									| What is 
+									span.green Datoptron 
+									| doing
+								p Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+							// character
+							img.character( src="img/img-character-5.png" )
+
+							// banner
+							.banner-wrap
+								.banner 
+									// oval
+									img.oval( src="img/ic-oval-6.png" ) 
+
+									// text
+									h2 Successful Data Strategy
+									p Discover how Datoptron can help organisation to enhance the value of their data and become partner in their data journey.
+									a(href="#") Learn More
+						
+						// right
+						.col-xl-8.col-lg-8.col-md-12.right
+
+							// pills services
+							ul.services 
+
+								// li
+								li.sideleft
+									.wrap 
+										span.title DATA TRANSFORMATION 
+										span.num 01
+									.text 
+										p Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.
+										a(href="datatransformation.html") Learn More
+								
+								// li
+								li.sideright
+									.wrap
+										span.title LINKED DATA INTEGRATION 
+										span.num 02
+									.text 
+										p With many years of experience in linked data integration, we are able to semantically link and fuse your data. We use all leading technologies with a particular focus across the semantic web stack, elasticsearch and much more to develop the best software.
+										a(href="#") Learn More
+								
+								// li
+								li.sideleft 
+									.wrap 
+										span.title LINKED DATA PUBLICATION 
+										span.num 03
+									.text 
+										p Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.
+										a(href="#") Learn More
+								
+								// li
+								li.sideright 
+									.wrap
+										span.title PLATFORM DEVELOPMENT 
+										span.num 04
+									.text 
+										p We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. Do you want to boost the discoverability of your vast amounts of data? Do you want to enhance access to the right information? Is the ever-growing amount of data in your company getting out of hand?
+										a(href="#") Learn More
+								
+								// li
+								li.sideleft
+									.wrap  
+										span.title USER ENGAGEMENT 
+										span.num 05
+									.text 
+										p Efficient semantic assets as in data structures provide clear contextual meaning. That properly validate your data. That gives structure to your data and promote search and retrieval. That integrates data and information stored in various formats and different silos.
+										a(href="#") Learn More
+								
+								// li
+								li.sideright
+									.wrap 
+										span.title USE OF STANDARDS &amp; VOCABULARIES
+										span.num 06
+									.text
+										p How can data be published as Linked Data? What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? Datoptron introduces basics procedures of this transformation process. 
+										a(href="#") Learn More
+
+
+			// call to action
+			section.home-calltoaction
+				.container
+
+					// heading
+					.text
+						h2
+							| Discover how you can embrace your data, explore 
+							span.green new insights 
+							| and drive 
+							span.green new value 
+							| for your organization
+						p We are a group of talented people including researchers, project managers, software developers, ontology engineers and machine learning experts with long experience working with standards and have contributed in the RDF, OWL and SKOS Working Groups of W3C. 
+						a( href="contact.html") Let's Work Together
+					
+					// character
+					img.character( src="img/img-character-3.png" )
+
+		// footer
+		include ./includes/footer.pug
+
+	// javascript
+	include ./includes/script.pug

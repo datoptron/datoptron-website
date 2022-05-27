@@ -1,0 +1,67 @@
+@mixin clearfix() {
+    &::after {
+        display: block;
+        clear: both;
+        content: "";
+    }
+}
+
+// stylelint-disable declaration-no-important
+@mixin float-left {
+    float: left !important;
+}
+@mixin float-right {
+    float: right !important;
+}
+@mixin float-none {
+    float: none !important;
+}
+
+@mixin transition($args...) {
+    -webkit-transition: $args;
+    -moz-transition: $args;
+    -ms-transition: $args;
+    -o-transition: $args;
+    transition: $args;
+}
+
+@mixin list-inline() {
+    margin: 0;
+    padding: 0;
+
+    // li
+    li {
+        list-style: none;
+        display: inline-block;
+    }
+}
+
+@mixin simple-anchor($textcolor,$decoration) {
+    color: $textcolor;
+    text-decoration: $decoration;
+
+    // hover
+    &:hover {
+        text-decoration: $decoration;
+        color: $accent-first-color;
+    }
+}
+@mixin button-anchor($bgcolor, $textcolor) {
+    display: inline-block;
+    padding: 4px 36px;
+    background-color: $bgcolor;
+    color: $textcolor;
+    border-radius: 20px;
+
+    // hover
+    &:hover {
+        text-decoration: none;
+        background-color: $accent-first-color;
+    }
+}
+@mixin section-labeling {
+    font-size: 12px;
+    color: #8C8C8C;
+    letter-spacing: 2px;
+    font-weight: bold;
+}

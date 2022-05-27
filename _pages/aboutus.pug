@@ -1,0 +1,137 @@
+---
+permalink: /aboutus/
+---
+//- index.jade
+- var title = "DATOPTRON - About Us"
+- var page = "About Us"
+
+doctype html
+html(lang="en")
+
+	// html head
+	head
+		include ./includes/head.pug
+
+	// body
+	body
+
+		// header
+		include ./includes/header.pug
+
+		// page main
+		main(role="main")
+
+			// main heading
+			section.mainheading
+				.container
+
+					// wrap
+					.wrap
+						h1 Meet the minds behind
+							span.green Datoptron
+						p We are a group of talented people including researchers, project managers, software developers, ontology engineers and machine learning experts with long experience working with standards and have contributed in the RDF, OWL and SKOS Working Groups of W3C. Experience in R&D projects  through our participation in more than 20 EU funded projects.
+
+			// about us narrative
+			section.about-narrative
+				.container
+
+					// img
+					img.character(src="img/img-character-all.png")
+
+					// description
+					.description
+						h3
+							| We are a group of talented people including
+							span.green researchers
+							| ,
+							span.green project managers
+							| ,
+							span.green software developers
+							| ,
+							span.green ontology engineers
+							| and
+							span.green machine learning
+							| experts.
+
+
+			// our teams
+			section.about-team
+				.container
+
+					// row
+					.row
+						.col-xl-4.col-lg-4.col-md-6.col-sm-6
+							.profile
+								a(href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank")
+									.wrap
+										img.thumb(src="img/img-user-1.png")
+									.text
+										h3 Kasey Taylor
+										p Co-Founder &amp; CEO
+						.col-xl-4.col-lg-4.col-md-6.col-sm-6
+							.profile
+								a(href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank")
+									.wrap
+										img.thumb(src="img/img-user-2.png")
+									.text
+										h3 Alysha Kimber
+										p Co-Founder &amp; Principal Data Architect
+						.col-xl-4.col-lg-4.col-md-6.col-sm-6
+							.profile
+								a(href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank")
+									.wrap
+										img.thumb(src="img/img-user-3.png")
+									.text
+										h3 Dora Lindsey
+										p Senior Data Engineer
+
+						.col-xl-4.col-lg-4.col-md-6.col-sm-6
+							.profile
+								a(href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank")
+									.wrap
+										img.thumb(src="img/img-user-4.png")
+									.text
+										h3 Norm Duff
+										p Senior Data Engineer
+						.col-xl-4.col-lg-4.col-md-6.col-sm-6
+							.profile
+								a(href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank")
+									.wrap
+										img.thumb(src="img/img-user-5.png")
+									.text
+										h3 Blair Marvyn
+										p AI/ML Engineer
+						.col-xl-4.col-lg-4.col-md-6.col-sm-6
+							.profile
+								a(href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank")
+									.wrap
+										img.thumb(src="img/img-user-6.png")
+									.text
+										h3 Sydney Edric
+										p AI/ML Engineer
+
+
+
+			// call to action
+			section.home-calltoaction
+				.container
+
+					// heading
+					.text
+						h2
+							| Discover how you can embrace your data, explore
+							span.green new insights
+							| and drive
+							span.green new value
+							| for your organization
+						p We are a group of talented people including researchers, project managers, software developers, ontology engineers and machine learning experts with long experience working with standards and have contributed in the RDF, OWL and SKOS Working Groups of W3C.
+						a( href="contact.html") Let's Work Together
+
+					// character
+					img.character( src="img/img-character-3.png" )
+
+		// footer
+		include ./includes/footer.pug
+
+	// javascript
+	include ./includes/script.pug

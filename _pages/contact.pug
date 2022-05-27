@@ -1,0 +1,172 @@
+//- index.jade
+- var title = "DATOPTRON - Contact"
+- var page = "Contact"
+
+doctype html
+html(lang="en")
+
+	// html head
+	head
+		include ./includes/head.pug
+
+	// body
+	body
+
+		// header
+		include ./includes/header.pug
+
+		// page main
+		main(role="main")
+
+			// main heading
+			section.mainheading
+				.container
+
+					// wrap
+					.wrap 
+						h1 Contact 
+							span.green Us
+						p Get to know each other and start planning for your Successful Data Strategy with Datoptron. You can contact us on the below location or use the following form below.
+
+			// generic layout
+			section.twocolumns.contactus
+				.container 
+
+					// row
+					.row 
+
+						// left
+						.col-xl-4.col-lg-4.col-md-4.col-sm-12.left
+
+							// location
+							.contact-location
+
+								// oval
+								img.oval( src="img/ic-oval-6.png" ) 
+
+								.detail
+									.lbl OUR LOCATION 
+									h3 
+										| Zografou Campus 9, 
+										br
+										| Iroon Polytechniou str 15780 
+										br
+										| Zografou Greece
+								.detail
+									.lbl GIVE US A CALL 
+									h3
+										a(href="tel:+302107721000") 210-772-1000
+								.detail
+									.lbl EMAIL US 
+									h3 
+										a(href="mailto:info@datoptron.gr") info@datoptron.gr
+
+						// right
+						.col-xl-8.col-lg-8.col-md-8.col-sm-12.right 
+
+							// form
+							.contact-form.form 
+
+								// row
+								.row 
+
+									// col
+									.col-xl-6.col-lg-6.col-md-12.col-sm-12.leftform 
+
+										// label
+										.input
+											label(for="form-fullname" class="form-label") 
+												| FULLNAME 
+												span.mandatory *
+											input#form-fullname(type="text" class="form-control" placeholder="Please fill your fullname")
+
+										// label
+										.input
+											label(for="form-email" class="form-label") 
+												| EMAIL 
+												span.mandatory *
+											input#form-email(type="text" class="form-control" placeholder="Please fill your email") 
+										
+										// label
+										.input 	
+											label(for="form-company" class="form-label") 
+												| COMPANY 
+												span.mandatory
+											input#form-company(type="text" class="form-control" placeholder="Please fill your organisation") 
+
+									// col
+									.col-xl-6.col-lg-6.col-md-12.col-sm-12.rightform 
+
+										// label
+										.input 
+											label(for="form-country" class="form-label") 
+												| COUNTRY
+												span.mandatory
+											select.form-select#form-country(aria-label="Default select example" )
+												option(value="austria") Austria
+
+										// label
+										.input 
+											label(for="form-phone" class="form-label") 
+												| PHONE 
+												span.mandatory
+											input#form-phone(type="text" class="form-control" placeholder="Please fill your phone number") 
+
+										// label
+										.input 
+											label(for="form-phone" class="form-label") 
+												| JOB TITLE 
+												span.mandatory
+											input#form-phone(type="text" class="form-control" placeholder="Please fill your job title")
+								
+								// row
+								.row 
+
+									// col
+									.col-xl-12 
+
+										// label
+										.input 
+											label(for="form-phone" class="form-label") 
+												| WHAT CAN WE DO FOR YOU
+												span.mandatory *
+											textarea(rows="5" class="form-control" placeholder="Please fill your inquiries here.")
+
+										// input
+										.input
+											input.form-check-input(type="checkbox" value="" id="form-privacy")
+											label.form-check-label(for="form-privacy")
+												| I agree to send my information with you and understand that it will be used as described in the 
+												a(href="privacy.html") Privacy Policy
+
+										// input
+										.input
+											button(type="button" class="btn btn-dark") Send Message
+										
+
+
+
+
+			// call to action
+			section.home-calltoaction
+				.container
+
+					// heading
+					.text
+						h2
+							| Discover how you can embrace your data, explore 
+							span.green new insights 
+							| and drive 
+							span.green new value 
+							| for your organization
+						p We are a group of talented people including researchers, project managers, software developers, ontology engineers and machine learning experts with long experience working with standards and have contributed in the RDF, OWL and SKOS Working Groups of W3C. 
+						a( href="contact.html") Let's Work Together
+					
+					// character
+					img.character( src="img/img-character-3.png" )
+
+		// footer
+		include ./includes/footer.pug
+
+	// javascript
+	include ./includes/script.pug
