@@ -13,6 +13,9 @@ body {
 	font-size: 14px;
 	line-height: 28px;
 	color: $text-first-color;
+	min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 
 	// header
 	header {
@@ -1567,6 +1570,7 @@ body {
 		margin: 0px 0 0 0;
 		background-color: #000000;
 		color: #fff;
+		margin-top: auto;
 
 		// top
 		.top {
