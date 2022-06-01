@@ -19,7 +19,7 @@ permalink: /
           Athens in the area of Artificial Intelligence. We leverage 20 years
           experience in Semantic Technologies, Machine Learning and Crowdsourcing.
         </p>
-        <a href="/aboutus">Learn More</a>
+        <a href="{{ site.baseurl }}/aboutus">Learn More</a>
       </div>
       <!-- right-->
       <div class="right">
@@ -29,7 +29,7 @@ permalink: /
           <div class="line connectleft"><span class="connect">LINKED </span><span class="invert">DATA </span></div>
           <div class="line connectright"><span class="invert">INTEGRATION </span></div>
           <div class="line"><span>PUBLICATION</span></div>
-          <div class="comment"><img src="/assets/img/ic-comment.png"></div>
+          <div class="comment"><img src="{{ site.baseurl }}/assets/img/ic-comment.png"></div>
         </div>
       </div>
     </div>
@@ -38,7 +38,7 @@ permalink: /
   <section class="home-services">
     <div class="container">
       <!-- character-->
-      <img class="character" src="/assets/img/img-character-1.png">
+      <img class="character" src="{{ site.baseurl }}/assets/img/img-character-1.png">
       <!-- label-->
       <div class="lbl">OUR SERVICES</div>
       <h2> <span class="green">Organised Data </span>driven by experiences in Semantic Technologies and Machine Learning</h2>
@@ -77,7 +77,7 @@ permalink: /
   <!-- projects-->
   <section class="home-projects">
     <!-- character-->
-    <img class="oval" src="/assets/img/ic-oval-2.png">
+    <img class="oval" src="{{ site.baseurl }}/assets/img/ic-oval-2.png">
     <!-- container-->
     <div class="container">
       <!-- row-->
@@ -85,11 +85,11 @@ permalink: /
         <!-- left-->
         <div class="col-xl-5 col-lg-5 left">
           <!-- character-->
-          <img class="character" src="/assets/img/img-character-2.png">
+          <img class="character" src="{{ site.baseurl }}/assets/img/img-character-2.png">
           <h2>Datoptron <span class="green">Tools</span></h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
           <!-- navigation-->
-          <a href="/tools">View More</a>
+          <a href="{{ site.baseurl }}/tools">View More</a>
         </div>
         <!-- right-->
         <div class="col-xl-7 col-lg-7 right">
@@ -97,7 +97,7 @@ permalink: /
           <ul>
             <li>
               <a href="#">
-                <img src="/assets/img/ic-logo-with.png">
+                <img src="{{ site.baseurl }}/assets/img/ic-logo-with.png">
                 <div class="text">
                   <h3>MINT </h3>
                   <p>
@@ -110,7 +110,7 @@ permalink: /
             </li>
             <li>
               <a href="#">
-                <img src="/assets/img/ic-logo-sage.png">
+                <img src="{{ site.baseurl }}/assets/img/ic-logo-sage.png">
                 <div class="text">
                   <h3>SAGE </h3>
                   <p>
@@ -122,7 +122,7 @@ permalink: /
             </li>
             <li>
               <a href="#">
-                <img src="/assets/img/ic-logo-d2.png">
+                <img src="{{ site.baseurl }}/assets/img/ic-logo-d2.png">
                 <div class="text">
                   <h3>D2RML </h3>
                   <p>
@@ -134,7 +134,7 @@ permalink: /
             </li>
             <li>
               <a href="#">
-                <img src="/assets/img/ic-logo-crowd.png">
+                <img src="{{ site.baseurl }}/assets/img/ic-logo-crowd.png">
                 <div class="text">
                   <h3>CrowdHeritage </h3>
                   <p>
@@ -160,10 +160,10 @@ permalink: /
           ontology engineers and machine learning experts with long experience working with standards
           and have contributed in the RDF, OWL and SKOS Working Groups of W3C.
         </p>
-        <a href="/contact">Let's Work Together</a>
+        <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
       <!-- character-->
-      <img class="character" src="/assets/img/img-character-3.png">
+      <img class="character" src="{{ site.baseurl }}/assets/img/img-character-3.png">
     </div>
   </section>
 </main>

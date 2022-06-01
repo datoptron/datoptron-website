@@ -24,7 +24,7 @@ permalink: /aboutus
   <section class="about-narrative">
     <div class="container">
       <!-- img-->
-      <img class="character" src="/assets/img/img-character-all.png">
+      <img class="character" src="{{ site.baseurl }}/assets/img/img-character-all.png">
       <!-- description-->
       <div class="description">
         <h3>
@@ -44,7 +44,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="/assets/img/img-user-1.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-1.png">
               </div>
               <div class="text">
                 <h3>Kasey Taylor</h3>
@@ -57,7 +57,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="/assets/img/img-user-2.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-2.png">
               </div>
               <div class="text">
                 <h3>Alysha Kimber</h3>
@@ -70,7 +70,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="/assets/img/img-user-3.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-3.png">
               </div>
               <div class="text">
                 <h3>Dora Lindsey</h3>
@@ -83,7 +83,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="/assets/img/img-user-4.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-4.png">
               </div>
               <div class="text">
                 <h3>Norm Duff</h3>
@@ -96,7 +96,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="/assets/img/img-user-5.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-5.png">
               </div>
               <div class="text">
                 <h3>Blair Marvyn</h3>
@@ -109,7 +109,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="/assets/img/img-user-6.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-6.png">
               </div>
               <div class="text">
                 <h3>Sydney Edric</h3>
@@ -136,10 +136,10 @@ permalink: /aboutus
           long experience working with standards and have contributed in the RDF,
           OWL and SKOS Working Groups of W3C.
         </p>
-        <a href="/contact">Let's Work Together</a>
+        <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
       <!-- character-->
-      <img class="character" src="/assets/img/img-character-3.png">
+      <img class="character" src="{{ site.baseurl }}/assets/img/img-character-3.png">
     </div>
   </section>
 </main>
