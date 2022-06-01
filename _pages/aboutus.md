@@ -7,7 +7,6 @@ permalink: /aboutus
   <!-- main heading-->
   <section class="mainheading">
     <div class="container">
-      <!-- wrap-->
       <div class="wrap">
         <h1>Meet the minds behind <span class="green">Datoptron</span></h1>
         <p>
