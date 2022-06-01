@@ -1,3 +1,6 @@
+@import 'variables';
+@import 'mixin';
+
 // reset
 * {
 	outline: none !important;
@@ -64,5 +67,5 @@ h4 {
 		background: lighten($accent-first-color,10%);
 		text-decoration: none;
 	}
-	
+
 }

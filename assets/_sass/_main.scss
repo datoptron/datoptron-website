@@ -1,7 +1,8 @@
 // import
-@import "variables.scss";
-@import "mixin.scss";
-@import "default.scss";
+@import 'variables';
+@import 'mixin';
+@import 'default';
+@import 'responsive';
 
 // body
 body {
@@ -37,7 +38,7 @@ body {
 
 			// main nav
 			nav {
-				
+
 				&.collapse {
 					display: block;
 				}
@@ -174,9 +175,9 @@ body {
 
 		// anticipate page that has very few content ( short height ) to avoid hanging footer
 		min-height: calc(100vh - 636px);
-		
+
 		/************************************************
-			PAGE SPECIFIC STYLING 
+			PAGE SPECIFIC STYLING
 		*********************************************** */
 		// home banner
 		section.home-banner {
@@ -262,7 +263,7 @@ body {
 						font-size: 13px;
 						background: #fff;
 						position: relative;
-						
+
 						// invert
 						&.invert {
 							background: #000;
@@ -282,7 +283,7 @@ body {
 							}
 						}
 					}
-					
+
 					// after
 					&::after {
 						content: "";
@@ -320,7 +321,7 @@ body {
 				position: absolute;
 				top: -60px;
 				right: -80px;
-				
+
 			}
 
 			// label
@@ -361,7 +362,7 @@ body {
 				}
 			}
 		}
-		
+
 		// home projects
 		section.home-projects {
 			background: #F2F2F2;
@@ -377,7 +378,7 @@ body {
 					width: 350px;
 				}
 
-				// h2 
+				// h2
 				h2 {
 					margin: 40px 0 15px 0;
 				}
@@ -481,7 +482,7 @@ body {
 		// call to action
 		section.home-calltoaction {
 			position: relative;
-		
+
 
 			// text
 			.text {
@@ -512,7 +513,7 @@ body {
 		// successful-banner
 		section.successful-banner {
 			padding: 0 0 60px 0;
-			
+
 			// label
 			.lbl {
 				@include section-labeling();
@@ -565,7 +566,7 @@ body {
 
 			// row
 			.row {
-				
+
 				// left
 				.left {
 					padding-right: 30px;
@@ -581,7 +582,7 @@ body {
 				}
 
 			}
-			
+
 		}
 
 		// successful approach
@@ -886,7 +887,7 @@ body {
 
 		// main heading
 		section.mainheading {
-			
+
 
 			// wrap
 			.wrap {
@@ -955,7 +956,7 @@ body {
 
 			// row
 			.row {
-				
+
 				// left
 				.left {
 					padding-right: 30px;
@@ -1021,7 +1022,7 @@ body {
 					.line {
 						float: left;
 						width: 7%;
-						
+
 					}
 					.description {
 						width: 93%;
@@ -1040,7 +1041,7 @@ body {
 						}
 					}
 
-				
+
 				}
 			}
 		}
@@ -1071,7 +1072,7 @@ body {
 				}
 			}
 		}
-		
+
 		// teams
 		section.about-team {
 
@@ -1081,7 +1082,7 @@ body {
 				// profile
 				.profile {
 					padding: 40px;
-					
+
 
 					// thumb
 					.wrap {
@@ -1138,10 +1139,10 @@ body {
 						}
 					}
 
-					
+
 				}
 
-				
+
 			}
 		}
 
@@ -1195,7 +1196,7 @@ body {
 			.contact-location {
 				position: sticky;
 				top: 70px;
-				
+
 				.lbl {
 					@include section-labeling();
 				}
@@ -1255,7 +1256,7 @@ body {
 								h4 {
 									color: $accent-first-color;
 								}
-								
+
 							}
 						}
 					}
@@ -1283,14 +1284,14 @@ body {
 
 					// row
 					.row {
-						
+
 						margin-bottom: 25px;
 
 						// item
 						.item {
 							margin-bottom: 20px;
 						}
-					
+
 						// li
 						.productwrap {
 							background-color: #000;
@@ -1348,7 +1349,7 @@ body {
 									@include simple-anchor(#fff,underline);
 									font-weight: bold;
 								}
-								
+
 							}
 						}
 					}
@@ -1360,21 +1361,21 @@ body {
 
 					// row
 					.row {
-						
+
 						margin-bottom: 25px;
-					
+
 						// li
 						.productwrap {
 							background-color: $accent-first-color;
 
 							// after
 							&::after {
-								
+
 								border: 2px solid $accent-first-color;
 								@include transition(all 0.3s);
 								z-index: 1;
 							}
-							
+
 							// more
 							a.more {
 								&:hover {
@@ -1519,7 +1520,7 @@ body {
 		}
 
 		/* ***********************************************
-			COMMON STYLING 
+			COMMON STYLING
 		 *********************************************** */
 
 		// container
@@ -1540,7 +1541,7 @@ body {
 					color: $accent-first-color;
 				}
 			}
-			
+
 			// input
 			.form-control, .form-select {
 				border: 0;
@@ -1652,13 +1653,13 @@ body {
 			padding: 43px 0 30px 0;
 			text-align: center;
 			border-top: 2px solid #565656;
-			
+
 			// anchor
 			a {
 				@include simple-anchor(#fff, none);
 			}
 		}
-		
+
 	}
 
 	// general styling
