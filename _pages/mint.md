@@ -23,10 +23,10 @@ bodyClass: tools
             <div class="lbl">DOMAIN KNOWLEDGE</div>
             <ul>
               <li>
-                <a href="{{ site.baseurl }}/datatransformation.html">Data Transformation</a>
+                <a href="{{ site.baseurl }}/datatransformation">Data Transformation</a>
               </li>
               <li>
-                <a href="{{ site.baseurl }}/datatransformation.html">Linked Data Integration</a>
+                <a href="{{ site.baseurl }}/datatransformation">Linked Data Integration</a>
               </li>
             </ul>
           </div>
@@ -130,7 +130,7 @@ bodyClass: tools
           long experience working with standards and have contributed in the RDF, OWL
           and SKOS Working Groups of W3C.
         </p>
-        <a href="{{ site.baseurl }}/contact.html">Let's Work Together</a>
+        <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
       <!-- character-->
       <img class="character" src="{{ site.baseurl }}/assets/img/img-character-3.png">
