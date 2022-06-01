@@ -96,7 +96,7 @@ permalink: /
           <!-- ul-->
           <ul>
             <li>
-              <a href="#">
+              <a href="{{ site.baseurl }}/mint">
                 <img src="{{ site.baseurl }}/assets/img/ic-logo-with.png">
                 <div class="text">
                   <h3>MINT </h3>
