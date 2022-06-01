@@ -1,6 +1,7 @@
 ---
 title: About Us
 layout: default
+permalink: /aboutus
 ---
 <main role="main">
   <!-- main heading-->

@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+permalink: /
 ---
 <main role="main">
   <!-- banner-->
