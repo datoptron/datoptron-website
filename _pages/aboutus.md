@@ -8,13 +8,9 @@ permalink: /aboutus
   <section class="mainheading">
     <div class="container">
       <div class="wrap">
-        <h1>Meet the minds behind <span class="green">Datoptron</span></h1>
+        <h1>What is <span class="green">Datoptron</span>?</h1>
         <p>
-          We are a group of talented people including researchers, project managers,
-          software developers, ontology engineers and machine learning experts with
-          long experience working with standards and have contributed in the RDF,
-          OWL and SKOS Working Groups of W3C. Experience in R&D projects  through
-          our participation in more than 20 EU funded projects...
+          Datoptron comes from the combination of words &ldquo;data&rdquo; and &ldquo;catoptron&rdquo;, the Greek word for a reflecting optical instrument. Data through the looking glass or data <i>as</i> a looking glass, that is. We aggregate, structure, analyze, link, enrich, and query data to uncover new perspectives and understandings. We complement data with context and meaning. Whether in culture, in business or any other domain, our methods and tools can drive you through the data looking glass.
         </p>
       </div>
     </div>
