@@ -14,7 +14,7 @@ permalink: /aboutus
           software developers, ontology engineers and machine learning experts with
           long experience working with standards and have contributed in the RDF,
           OWL and SKOS Working Groups of W3C. Experience in R&D projects  through
-          our participation in more than 20 EU funded projects..
+          our participation in more than 20 EU funded projects...
         </p>
       </div>
     </div>
