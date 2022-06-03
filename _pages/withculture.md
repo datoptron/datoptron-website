@@ -32,9 +32,13 @@ bodyClass: tools platform
             <div class="lbl">PLATFORM</div>
             <h1>WITHCulture</h1>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.
+WITHCulture is a platform that provides access to digital cultural heritage items from different repositories and  offers a number of added-value services for the creative reuse and intelligent exploitation of that content. It was designed and developed in alignment with complementary services used and
+           produced in the Europeana ecosystem, and informed by the design of respective
+           infrastructures being developed such as Europeana Labs, the Europeana Cloud and
+           LoCloud, and of more specialized applications targeting cultural heritage content
+           visualization and re-use, such as the tools and pilots of AthenaPlus and EUscreen.
             </p>
-            <a href="#">Visit Project Site</a>
+            <a href="withculture.eu/">Visit the platform</a>
           </div>
         </div>
       </div>
@@ -50,10 +54,7 @@ bodyClass: tools platform
           <img class="testi" src="{{ site.baseurl }}/assets/img/ic-testimonial.png">
           <!-- footnote-->
           <p class="footnote">
-            Since 2015, Datoptron has participated in 15+ projects for the count of the
-            Service Centre de Législation (SCL) and the Chancellerie Fédérale Suisse (ChF)
-            aimed at describing, organizing and publishing legislative data in a meaningful
-            way to be easily interpreted by humans and machines alike
+            Since 2010, the team of Datoptron's researchers and developers has participated in more than 20 European projects related to aggregation  and reuse tools for digital cultural heritage. The team has acted as one of the main technical partners in the creation and development of the European Digital Library - Europeana and has amassed considerable experience in the realization of web services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.
           </p>
           <!-- banner-->
           <div class="banner-wrap">
@@ -79,28 +80,17 @@ bodyClass: tools platform
             hidden gems to great masterpieces. Experiment with open and protected digital
             cultural content and unlock your creativity!
           </p>
-          <h3>WITH Platform</h3>
+          <h3>The WithCulture Platform</h3>
           <p>
-            WITH is a platform that exposes APIs from different portals and repositories.
-            It allows you to search for digital content from a range of different and unconnected
-            repositories and databases from a single access point. Searchable repositories include
-            Europeana, the Digital Public Library of America, YouTube, Rijks Museum, National
-            Library of Australia, Digital New Zeeland and other.
+            The platform mashups APIs from different digital CH resources, such as Europeana, the Digital Public Library of America, Rijksmuseum, the British Library, National Library of Australia, YouTube, Historypin etc, and provides a single powerful new service, which gives access to a huge set of heterogeneous items (images, videos, different metadata schemata etc). WITH supports a variety of different data models (e.g.,  EDM, LIDO etc) and formats (e.g. XML, JSON-LD), and resolves interoperability issues by performing automatic mappings in the backend.
           </p>
-          <h3>Cultural Institutions</h3>
+          <h3>Faceted search and navigation</h3>
           <p>
-            WITH is available for cultural institutions and organizations, professional users
-            and third party developers in order to easily search for the cultural resources
-            that meet their retrieval criteria so as to collect, use and re-use them to
-            promote innovation and demonstrate the social and economic value of cultural content.
+            WithCulture  offers federated and faceted search services, which enable the user to explore digital CH by applying multiple search criteria in different combinations. e.g., a user may wish to search for images from certain providers with specific rights etc. The user can navigate through the results via different presentation views and retrieve more information about items of interest.  .
           </p>
-          <h2>Lorem Ipsum Dolor Sit Amet</h2>
+          <h2>Collection management</h2>
           <p>
-            WITH was designed and developed in alignment with complementary services used and
-            produced in the Europeana ecosystem, and informed by the design of respective
-            infrastructures being developed such as Europeana Labs , the Europeana Cloud and
-            LoCloud , and of more specialized applications targeting cultural heritage content
-            visualization and re-use, such as the tools and pilots of AthenaPlus and EUscreen.
+          Via a personal workspace, users can aggregate and organise different types of cultural resources collected from external resources or uploaded by themselves and create their own collections and exhibitions using different presentation views. Users can annotate/tag cultural items and link them with external vocabularies and thesauri. The UI supports collaborative work and interactions between users so that they can create new stories together, share their creations with other users or user groups, like and comment other users’ collections, form teams etc.
           </p>
           <!-- oval-->
           <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic1.png">
