@@ -48,27 +48,27 @@ permalink: /
         <div class="row">
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">01</span>
             <h3>Data Transformation</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <p>Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">02</span>
             <h3>Linked Data Integration</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <p>With many years of experience in linked data integration, we are able to semantically link and fuse your data. We use all leading technologies with a particular focus across the semantic web stack, elasticsearch and much more to develop the best software.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">03</span>
             <h3>Linked Data Publication</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <p>Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">04</span>
             <h3>Platform Development</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <p>We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. Do you want to boost the discoverability of your vast amounts of data? Do you want to enhance access to the right information? Is the ever-growing amount of data in your company getting out of hand?</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">05</span>
             <h3>User Engagement</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <p>Efficient semantic assets as in data structures provide clear contextual meaning. That properly validate your data. That gives structure to your data and promote search and retrieval. That integrates data and information stored in various formats and different silos.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">06</span>
             <h3>Use of Standards and Vocabularies</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <p>How can data be published as Linked Data? What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? Datoptron introduces basics procedures of this transformation process.</p>
           </div>
         </div>
       </div>
