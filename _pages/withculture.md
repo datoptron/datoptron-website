@@ -56,7 +56,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           <img class="testi" src="{{ site.baseurl }}/assets/img/ic-testimonial.png">
           <!-- footnote-->
           <p class="footnote">
-            Since 2010, the team of Datoptron's researchers and developers has participated in more than 20 European projects related to aggregation  and reuse tools for digital cultural heritage. The team has acted as one of the main technical partners in the creation and development of the European Digital Library - Europeana and has amassed considerable experience in the realization of web services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.
+            Since 2010, the team of Datoptron's researchers and developers has participated in more than 20 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.
           </p>
           <!-- banner-->
           <div class="banner-wrap">
@@ -79,10 +79,10 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           <p>
             Discover digital artifacts, exhibits and collections from museums and archives
             all around the world. Explore cultural treasures in extraordinary detail from
-            hidden gems to great masterpieces. Experiment with open and protected digital
-            cultural content and unlock your creativity!
+            hidden gems to great masterpieces. Organise digital cultural items into 
+             collections and unlock your creativity!
           </p>
-          <h3>The WithCulture Platform</h3>
+          <h3>API mashup</h3>
           <p>
             The platform mashups APIs from different digital CH resources, such as Europeana, the Digital Public Library of America, Rijksmuseum, the British Library, National Library of Australia, YouTube, Historypin etc, and provides a single powerful new service, which gives access to a huge set of heterogeneous items (images, videos, different metadata schemata etc). WITH supports a variety of different data models (e.g.,  EDM, LIDO etc) and formats (e.g. XML, JSON-LD), and resolves interoperability issues by performing automatic mappings in the backend.
           </p>
@@ -90,7 +90,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           <p>
             WithCulture  offers federated and faceted search services, which enable the user to explore digital CH by applying multiple search criteria in different combinations. e.g., a user may wish to search for images from certain providers with specific rights etc. The user can navigate through the results via different presentation views and retrieve more information about items of interest.  .
           </p>
-          <h2>Collection management</h2>
+          <h3>Collection management</h3>
           <p>
           Via a personal workspace, users can aggregate and organise different types of cultural resources collected from external resources or uploaded by themselves and create their own collections and exhibitions using different presentation views. Users can annotate/tag cultural items and link them with external vocabularies and thesauri. The UI supports collaborative work and interactions between users so that they can create new stories together, share their creations with other users or user groups, like and comment other users’ collections, form teams etc.
           </p>
