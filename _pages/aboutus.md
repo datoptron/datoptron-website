@@ -25,7 +25,7 @@ permalink: /aboutus
         <h3>
            We are a group of talented people including <span class="green">researchers</span>,
            <span class="green">project managers</span>, <span class="green">software developers</span>,
-           <span class="green">ontology engineers </span>and <span class="green">machine learning </span>experts.
+           <span class="green">ontology engineers </span>, and <span class="green">machine learning </span>experts.
          </h3>
       </div>
     </div>
