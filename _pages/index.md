@@ -48,27 +48,29 @@ permalink: /
         <div class="row">
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">01</span>
             <h3>Data Transformation</h3>
-            <p>Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.</p>
+            <p>Analysing information requires structured and accessible data for best results. Data transformation enables organisations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to a semantic web format.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">02</span>
             <h3>Linked Data Integration</h3>
-            <p>With many years of experience in linked data integration, we are able to semantically link and fuse your data. We use all leading technologies with a particular focus across the semantic web stack, elasticsearch and much more to develop the best software.</p>
+            <p>Leveraging many years of experience in machine learning, we can semantically link your data. We use NLP techniques to automatically link and enrich  your data with trusted external web resources. We validate the results using a human-in-the-loop approach.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">03</span>
-            <h3>Linked Data Publication</h3>
-            <p>Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.</p>
+            <h3>Linked Data Publication and Consumption</h3>
+            <p>How can data be published as Linked Data? What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? Datoptron introduces basics procedures of this transformation process. </p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">04</span>
             <h3>Platform Development</h3>
-            <p>We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. Do you want to boost the discoverability of your vast amounts of data? Do you want to enhance access to the right information? Is the ever-growing amount of data in your company getting out of hand?</p>
+            <p>Our platform development expertise will cover all your needs. User-friendly interfaces - newest javascript frameworks - triple stores and graph databases - solid login - semantic indexing - SPARQL queries - APIs</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">05</span>
-            <h3>User Engagement</h3>
-            <p>Efficient semantic assets as in data structures provide clear contextual meaning. That properly validate your data. That gives structure to your data and promote search and retrieval. That integrates data and information stored in various formats and different silos.</p>
+            <h3>User Validation & Engagement</h3>
+            <p>Checking, Validating and Improving are essential services for ensuring high quality data. We organise Crowdsourcing campaigns to validate and imrove data. Humans are becoming part of the machine learning process where annotated data is created and be available to train networks.  </p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">06</span>
             <h3>Use of Standards and Vocabularies</h3>
-            <p>How can data be published as Linked Data? What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? Datoptron introduces basics procedures of this transformation process.</p>
+            <p>We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. We use technologies such as SKOS, RDF, OWL, SACL, SCEX, and vocabularies such as DC, DCAT-AP, Core Vocabularies, EDM</p>
+            
+            
           </div>
         </div>
       </div>

@@ -67,7 +67,7 @@ permalink: /services
               <div class="wrap"> <span class="title">LINKED DATA PUBLICATION </span><span class="num">03</span></div>
               <div class="text">
                 <p>
-                  Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.
+                  As soon as Linked Data is ready, it can be published for consumption. Depending on the application and the needs of the entrerprise, we apply a different way of publishing as Linked Data. This includes either SPARQL end-point or Linked Data Media Framgemnts technoclogies.
                 </p>
                 <a href="#">Learn More</a>
               </div>
