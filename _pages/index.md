@@ -89,7 +89,7 @@ permalink: /
           <!-- character-->
           <img class="character" src="{{ site.baseurl }}/assets/img/img-character-2.png">
           <h2>Datoptron <span class="green">Tools</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Leveraging the experience of 20 years and the participation in more than 30 R&D European funded projects, Datoptron has developed a number of tools.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
           <!-- navigation-->
           <a href="{{ site.baseurl }}/tools">View More</a>
         </div>
@@ -103,9 +103,7 @@ permalink: /
                 <div class="text">
                   <h3>MINT </h3>
                   <p>
-                    Metadata Interoperability Platform (MINT) aims to systematise
-                    and spread knowledge about participatory projects in the field
-                    of cultural heritage and beyond.
+                    Metadata Interoperability Platform (MINT) was designed and developed to facilitate aggregation initiatives for cultural heritage content and metadata in Europe. More than 15 million cultural records have been aggregated to Europeana through MINT
                   </p>
                 </div>
               </a>
@@ -117,7 +115,7 @@ permalink: /
                   <h3>SAGE </h3>
                   <p>
                     SAGE is a semantic enrichment and validation platform developed
-                    by the National Technical University of Athens (NTUA).
+                    to autimatically enrich metadata and link them to external web resources using Natural Language Processing techniques
                   </p>
                 </div>
               </a>
@@ -127,7 +125,7 @@ permalink: /
                 <img src="{{ site.baseurl }}/assets/img/ic-logo-d2.png">
                 <div class="text">
                   <h3>D2RML </h3>
-                  <p>
+                  <p> Is a mapping language, developed inhouse, and is used to traasnform any kind of data to RDF. D2RML has been used in many European R&D projects that work with Linked Data technologies
                     Language for creating RDF datasets from heterogeneous datasets.
                     The main mechanism of obtaining RDF data from a dataset is a mapping.
                   </p>
@@ -140,8 +138,7 @@ permalink: /
                 <div class="text">
                   <h3>CrowdHeritage </h3>
                   <p>
-                    CrowdHeritage is an open platform where cultural heritage institutions
-                    an share their collections’ metadata that need a fix or enrichment.
+                    CrowdHeritage is an open platform where cultural heritage institutions can share their collections’ metadata that need a fix or enrichment, and everybody can contribute to improve them. 
                   </p>
                 </div>
               </a>
@@ -159,8 +156,8 @@ permalink: /
         <h2>Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization</h2>
         <p>
           We are a group of talented people including researchers, project managers, software developers,
-          ontology engineers and machine learning experts with long experience working with standards
-          and have contributed in the RDF, OWL and SKOS Working Groups of W3C.
+          ontology engineers and machine learning experts with long experience working with standards.
+      
         </p>
         <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
