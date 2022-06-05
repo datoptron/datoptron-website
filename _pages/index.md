@@ -125,9 +125,8 @@ permalink: /
                 <img src="{{ site.baseurl }}/assets/img/ic-logo-d2.png">
                 <div class="text">
                   <h3>D2RML </h3>
-                  <p> Is a mapping language, developed inhouse, and is used to traasnform any kind of data to RDF. D2RML has been used in many European R&D projects that work with Linked Data technologies
-                    Language for creating RDF datasets from heterogeneous datasets.
-                    The main mechanism of obtaining RDF data from a dataset is a mapping.
+                  <p> Is a mapping language, developed inhouse, and is used to traasnform any kind of data to RDF. D2RML has been used in many European R&D projects that work with Linked Data technologies.
+                    
                   </p>
                 </div>
               </a>
