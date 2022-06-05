@@ -89,7 +89,7 @@ permalink: /
           <!-- character-->
           <img class="character" src="{{ site.baseurl }}/assets/img/img-character-2.png">
           <h2>Datoptron <span class="green">Tools</span></h2>
-          <p>Leveraging the experience of 20 years and the participation in more than 30 R&D European funded projects, Datoptron has developed a number of tools.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Leveraging the experience of 20 years working in the fields of Semantic Technologies and Machine Learning and the participation in more than 30 R&D European funded projects, Datoptron has developed a number of tools.</p>
           <!-- navigation-->
           <a href="{{ site.baseurl }}/tools">View More</a>
         </div>
