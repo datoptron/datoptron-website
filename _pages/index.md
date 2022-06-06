@@ -48,29 +48,30 @@ permalink: /
         <div class="row">
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">01</span>
             <h3>Data Transformation</h3>
-            <p>Analysing information requires structured and accessible data for best results. Data transformation enables organisations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to a semantic web format.</p>
+            <p>Analysing information requires structured and accessible data for best results. Data transformation procedures enable organisations to adapt the representation and format of raw data and structure them depending on their needs. Datoptron sets in place well-defined and customisable procedures for mapping between different schemata. </p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">02</span>
             <h3>Linked Data Integration</h3>
-            <p>Leveraging many years of experience in machine learning, we can semantically link your data. We use NLP techniques to automatically link and enrich  your data with trusted external web resources. We validate the results using a human-in-the-loop approach.</p>
+            <p>Leveraging many years of experience in machine learning and infromation extraction, Datoptron offers situation-appopriate solutions for making data uniform and interoperable. We use Natural Language Process, named entity extraction and pattern matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">03</span>
             <h3>Linked Data Publication and Consumption</h3>
-            <p>How can data be published as Linked Data? What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? Datoptron introduces basics procedures of this transformation process. </p>
+            <p>How can data be published as Linked Data? 
+            <!--What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? This points to transformation--> How can you unearth the knowledge underlying the data, identify hidden patterns, and discover what you are looking for? Datoptron's expertise in both relational and graph databases ensures that the right approach for storing and quering your data will be followed. From federated search and SPAQL endpoints to indexing strategies and search engine optimisation, we adopt the approach that best fits your application's queries.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">04</span>
             <h3>Platform Development</h3>
-            <p>Our platform development expertise will cover all your needs. User-friendly interfaces - newest javascript frameworks - triple stores and graph databases - solid login - semantic indexing - SPARQL queries - APIs</p>
+            <p>Our platform development expertise makes sure that the capabilities enabled by the state-of-the-art data technologies are served to the end user  in a functional and appealing way. We build on well-defined Application Programming Interfaces  and deliver user-griendly interfaces using latest frontend frameworks and UX design best practices. We develop platforms for streanlinging organsational procedures as well as platforms for citizens' and customers' engagement.</p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">05</span>
             <h3>User Validation & Engagement</h3>
-            <p>Checking, Validating and Improving are essential services for ensuring high quality data. We organise Crowdsourcing campaigns to validate and imrove data. Humans are becoming part of the machine learning process where annotated data is created and be available to train networks.  </p>
+            <p>We combine the power of state-of-the-art Artificial Intelligence tools with experts’ and crowd human intelligence for achieving high quality results and for maximising engagement.  We organise crowdsourcing campaigns and exploit human feedback to gain helful insights, fine-tune and improve the automatic processes as well as to constructfully involve various audiences. </p>
           </div>
           <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">06</span>
             <h3>Use of Standards and Vocabularies</h3>
-            <p>We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. We use technologies such as SKOS, RDF, OWL, SACL, SCEX, and vocabularies such as DC, DCAT-AP, Core Vocabularies, EDM</p>
-            
-            
+            <p>We build on established taxonomies and situation-appropriate standards in all the above-mentioned steps.  We make use of well-founded schemata, controlled vocabularies, and ontologies to represent and manage data and metadata. We opt for open standards, wherever possible, and advocate  the FAIR (Findable, Accessible, Interoperable and Reusable) principles.
+            <!--We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. We use technologies such as SKOS, RDF, OWL, SACL, SCEX, and vocabularies such as DC, DCAT-AP, Core Vocabularies, EDM.-->
+            </p>
           </div>
         </div>
       </div>
