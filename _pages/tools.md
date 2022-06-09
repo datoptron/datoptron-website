@@ -73,10 +73,10 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/mint">
                   <h3>SAGE</h3>
                   <p>
-                    SAGE is a semantic enrichment and validation platform developed by the National Technical University of Athens (NTUA).
+                    SAGE is a semantic enrichment and validation platform developed by the datoptron.
                   </p>
                 </a>
-                <a class="more" href="{{ site.baseurl }}/mint">Learn More</a>
+                <a class="more" href="{{ site.baseurl }}/sage">Learn More</a>
               </div>
             </div>
             <!-- col-->
