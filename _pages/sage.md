@@ -34,12 +34,9 @@ bodyClass: tools
         <!-- col-->
         <div class="col-xl-9 col-lg-9 col-md-9 right">
           <div class="lbl">TOOLS</div>
-          <h1>MINT</h1>
+          <h1>SAGE</h1>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Natus error sit voluptatem accusantium doloremque laudantium, totam rem
-            aperiam, eaque ipsa quae ab illo inventore..
+            SAGE is a semantic enrichment and validation platform developed by datoptron under the Europeana Generic Services project Europeana XX: Century of Change.
           </p>
           <a href="#">Visit Project Site</a>
         </div>
@@ -80,34 +77,39 @@ bodyClass: tools
         <!-- col-->
         <div class="col-xl-9 col-lg-9 col-md-12 right">
           <!-- content-->
+          <h3>About</h3>
           <p>
-            Discover digital artifacts, exhibits and collections from museums and archives
-            all around the world. Explore cultural treasures in extraordinary detail from
-            hidden gems to great masterpieces. Experiment with open and protected digital
-            cultural content and unlock your creativity!
+           The lack of rich, descriptive metadata can affect the searchability and usability of digital content from museums, libraries and archives and on Europeana. SAGE is an online system which seeks to address this issue by allowing the manipulation of metadata in the Europeana Data Model (EDM) and other formats and models (including CSV, XML, JSON, RDF) so that it can be automatically enriched through external services that employ state-of-the-art AI and web semantic technologies. 
+
           </p>
-          <h3>WITH Platform</h3>
           <p>
-            WITH is a platform that exposes APIs from different portals and repositories.
-            It allows you to search for digital content from a range of different and unconnected
-            repositories and databases from a single access point. Searchable repositories include
-            Europeana, the Digital Public Library of America, YouTube, Rijks Museum, National
-            Library of Australia, Digital New Zeeland and other.
+            The system is able to produce enrichments in the form of URIs linked to selected metadata fields, or even harvest additional information from external sources like Wikidata. The enrichments can then be manually validated through an integrated validation sub-system that allows bulk validations through text grouping and text frequency sorting. This means that the user only has to validate each text once and the changes will be applied to all the respective records, giving priority to texts that appear in more records in case a complete validation of a dataset is not feasible.
           </p>
-          <h3>Cultural Institutions</h3>
+          
           <p>
-            WITH is available for cultural institutions and organizations, professional users
-            and third party developers in order to easily search for the cultural resources
-            that meet their retrieval criteria so as to collect, use and re-use them to
-            promote innovation and demonstrate the social and economic value of cultural content.
+            Via this tool, all relevant keywords can be translated to various languages through the respective Wikidata and Getty links, in order to create a multilingual vocabulary to fit the project’s needs.
           </p>
-          <h2>Lorem Ipsum Dolor Sit Amet</h2>
+        
           <p>
-            WITH was designed and developed in alignment with complementary services used and
-            produced in the Europeana ecosystem, and informed by the design of respective
-            infrastructures being developed such as Europeana Labs , the Europeana Cloud and
-            LoCloud , and of more specialized applications targeting cultural heritage content
-            visualization and re-use, such as the tools and pilots of AthenaPlus and EUscreen.
+            The Sage tool was used in Europeana CEF Telecom project Pagode-Europeana China to automatically semantically enrich more than 20,000 records. It will also be used in the Europeana CEF Telecom project CRAFTED to analyse metadata fields and text extracted from AI content analysis tools in order to identify and remove uncertainty from named entities. The ultimate aim is to enrich more than 100,000 records and enable user validation and assessment of automatically extracted entities. 
+          </p>
+          <h3>Benefits</h3>
+          <p>
+            The platform allows cultural heritage institutions to: 
+          </p>
+          <p>
+            Integrate different types of data from multiple sources into a single Resource Description Framework (RDF) record or collection.
+            Improve searchability and indexing.
+            Access a clear overview of the results through the validation procedure which involves validation from a person.
+          </p>
+          <h3>Technical Information</h3>
+          <p>
+            The system transforms data to the Resource Description Framework (RDF) and stores them in a Virtuoso triple store, using SPARQL to retrieve and manipulate them. The external annotator services that are used for the enrichment of the metadata employ state-of-the-art technologies like BERT (an attention-based transformer deep neural network), lemmatisation, and named entity recognition and disambiguation techniques.
+          </p>
+          <p>
+            SAGE is an open-source platform under the Apache Licence 2.0. More details and link to the source code will be made publicly available upon completion of the Europeana XX: Century of Change project.
+
+
           </p>
           <!-- oval-->
           <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic1.png">
@@ -133,7 +135,7 @@ bodyClass: tools
         <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
       <!-- character-->
-      <img class="character" src="{{ site.baseurl }}/assets/img/img-character-3.png">
+      <img class="character" src="{{ site.baseurl }}/assets/img/tool_sage.png">
     </div>
   </section>
 </main>
