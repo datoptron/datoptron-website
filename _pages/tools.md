@@ -70,7 +70,7 @@ permalink: /tools
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-sage.png">
-                <a href="{{ site.baseurl }}/mint">
+                <a href="{{ site.baseurl }}/sage">
                   <h3>SAGE</h3>
                   <p>
                     SAGE is a semantic enrichment and validation platform developed by the datoptron.
