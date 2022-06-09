@@ -112,8 +112,8 @@ bodyClass: tools
 
           </p>
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic1.png">
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic2.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tool_sage.png">
+          
         </div>
       </div>
     </div>
@@ -135,7 +135,7 @@ bodyClass: tools
         <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
       <!-- character-->
-      <img class="character" src="{{ site.baseurl }}/assets/img/tool_sage.png">
+      <img class="character" src="{{ site.baseurl }}/assets/img/img-character-3.png">
     </div>
   </section>
 </main>
