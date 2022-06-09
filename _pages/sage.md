@@ -1,7 +1,7 @@
 ---
 title: Tools &amp; Projects
 layout: default
-permalink: /mint
+permalink: /sage
 logoSrc: /assets/img/ic-logo-white.png
 bodyClass: tools
 ---
