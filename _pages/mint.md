@@ -78,12 +78,12 @@ bodyClass: tools
         <div class="col-xl-9 col-lg-9 col-md-12 right">
           <!-- content-->
           <p>
-           MINT participates in aggregation, digitization and technology-enabling projects & initiatives for digital cultural heritage [1]. These typically involve the design, implementation and execution of a metadata (and/or content) ingestion strategy, according to their respective domain(s) and scope, the participating institutions and, available resources and time. MINT services compose a web based platform that is employed from the first steps of such workflows, corresponding to the ingestion, mapping, transformation and enrichment of metadata records. According to the architecture, MINT implements a variety of remediation approaches for the resulting repository that allow for the storage, delivery, access and retrieval of metadata records. Deployment and integration also involve other systems and services, such as a portal and search engine, collection management and long term preservation systems, repositories etc. 
+           MINT participates in aggregation, digitization and technology-enabling projects & initiatives for digital cultural heritage. These typically involve the design, implementation and execution of a metadata (and/or content) ingestion strategy, according to their respective domain(s) and scope, the participating institutions and, available resources and time. MINT services compose a web based platform that is employed from the first steps of such workflows, corresponding to the ingestion, mapping, transformation and enrichment of metadata records. According to the architecture, MINT implements a variety of remediation approaches for the resulting repository that allow for the storage, delivery, access and retrieval of metadata records. Deployment and integration also involve other systems and services, such as a portal and search engine, collection management and long term preservation systems, repositories etc. 
            </p>
 
 
           <p>
-          Interoperability is achieved through the use of well defined metadata models, and the alignment of the providers' records to their requirements. MINT uses a visual mapping editor for the XSL language to implement crosswalks to the reference metadata model. It is being used by a growing number of providers that align proprietary data structures to a variety of standard or aggregation- specific models, and in that way establish and maintain interoperability with aggregators and Europeana. 
+          Interoperability is achieved through the use of well defined metadata models, and the alignment of the providers' records to their requirements. MINT uses a visual mapping editor for the XSL language to implement crosswalks to the reference metadata model. It is being used by a growing number of providers that align proprietary data structures to a variety of standard or aggregation- specific models, and in that way establish and maintain interoperability with Content Providers and Europeana. 
           </p>
           <h3>Key functionalities include:</h3>
           <ul>
@@ -95,18 +95,20 @@ bodyClass: tools
   <li>Transformation and previewing (XML and HTML).</li>
   <li>Repository deployment and remediation interfaces.</li>
 </ul>
+          <p>
           <!-- oval-->
           <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mintInterface.png">
+          </p>
          <h3>MINT Technical Specifications </h3>
           <p>
             MINT handles metadata records from the content provider's delivery up to the aggregation repository(-ies), publication mechanism(s) and front-end(s). 
-It is written in JAVA, JSP, HTML and Javascript. It uses PostgreSQL as an object-relational database with Hibernate as the data persistence framework, and mongoDB as a document-oriented database. MINT is also reusing other open source development frameworks and libraries according to specific deployments and customizations (e.g. see [5]). Mint source code versions (usually project-based) are released under a free software license (GNU Affero GPL). 
+It is written in JAVA, JSP, HTML and Javascript. It uses PostgreSQL as an object-relational database with Hibernate as the data persistence framework, and mongoDB as a document-oriented database. MINT is also reusing other open source development frameworks and libraries according to specific deployments and customizations. Mint source code versions (usually project-based) are released under a free software license (GNU Affero GPL). 
 The platform offers a user and organization management system that allows the deployment and operation of different aggregation schemes with corresponding user roles and access rights. An authenticated Restful web service is currently being designed to interoperate with other user identity & authentication systems. 
 
           </p>
           <h3>Ingest </h3>
           <p>
-            Registered users can upload their metadata records in XML or CSV serialization, using the HTTP, FTP and OAI-PMH protocols. Users can also directly upload and validate records in a range of supported metadata standards (XSD). XML records are stored and indexed for statistics, previews, access from the mapping tool and subsequent services. 
+            Registered users can upload their metadata records in JSOM, OWL/RDF, XML or CSV serialization, using the HTTP, FTP and OAI-PMH protocols. Users can also directly upload and validate records in a range of supported metadata standards (XSD). XML records are stored and indexed for statistics, previews, access from the mapping tool and subsequent services. 
 Current developments aim to support relational database schemata and OWL/RDFS ontologies as input. 
 
           </p>
@@ -124,17 +126,17 @@ Current developments aim to support relational database schemata and OWL/RDFS on
           Preview interfaces present the steps of the aggregation such as the current input xml record, the XSLT code of mappings, the transformed record in the target schema, subsequent transformations from the target schema to other models of interest (e.g. Europeana's metadata schema), and available html renderings of each xml record. Users can transform their selected collections using complete and validated mappings in order to publish them in available target schemas for the required aggregation and remediation steps. 
            </p>
           <p>
-          Various additional resources such as terminologies, vocabularies, authority files and dictionaries are used to reinforce an aggregation's homogeneity and interoperability with external data sources. A typical usage scenario is the connection of a local (server) or online resource with a metadata element in order to be used during mapping/normalization. These resources can be XML, RDFS/OWL, SKOS or even proprietary systems accessed through APIs.
+          Various additional resources such as terminologies, vocabularies, authority files and dictionaries are used to reinforce an aggregation's homogeneity and interoperability with external data sources. A typical usage scenario is the connection of a local (server) or online resource with a metadata element in order to be used during mapping/normalization. These resources can be XML, RDF/OWL, SKOS or even proprietary systems accessed through APIs.
           </p>
           <p>
           Normalization services such as group editing and value mapping are currently being implemented as standalone tasks for direct imports
           </p>
            <h3>Link & Enrich </h3>
           <p>
-          Semantic web technologies are used to transform metadata records to web resources in order to participate in the emerging web of data that promotes transparency and interoperability between trusted sources. Currently, a lot of aggregations are already taking advantage of the rapidly growing linked data sources published worldwide [6]. 
+          Semantic web technologies are used to transform metadata records to web resources in order to participate in the emerging web of data that promotes transparency and interoperability between trusted sources. Currently, a lot of aggregations are already taking advantage of the rapidly growing linked data sources published worldwide. 
            </p>
           <p>
-          MINT uses 4Store and Sesame for RDFS/OWL storage and processing, and links data sources to external SPARQL endpoints using string-based and knowledge-assisted matching strategies. Entity/term extraction and/or natural language processing frameworks are evaluated to expand the number of suggested links. RabbitMQ is used to allow for a reliable, scalable and portable messaging and processing system, used in and between different services. 
+          MINT uses Virtuoso for RDFS/OWL storage and processing, and links data sources to external SPARQL endpoints using string-based and knowledge-assisted matching strategies. Entity/term extraction and/or natural language processing frameworks are evaluated to expand the number of suggested links. RabbitMQ is used to allow for a reliable, scalable and portable messaging and processing system, used in and between different services. 
           </p>
            <h3>Remediate </h3>
           <p>
