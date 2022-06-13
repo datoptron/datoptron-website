@@ -81,12 +81,14 @@ bodyClass: tools
         <div class="col-xl-9 col-lg-9 col-md-12 right">
           <!-- content-->
           <p>
-            Discover digital artifacts, exhibits and collections from museums and archives
-            all around the world. Explore cultural treasures in extraordinary detail from
-            hidden gems to great masterpieces. Experiment with open and protected digital
-            cultural content and unlock your creativity!
+           MINT facilitates the ingestion of semi-structured data and offers the ability to establish crosswalks from them to the reference schema (Carare, Lido EDM) in order to take advantage of a well-defined, machine understandable model. The underlying data serialization is in XML, while the user's mapping actions are registered as XSL transformations.
           </p>
-          <h3>WITH Platform</h3>
+          <h3>Key functionalities include:</h3>
+          <ul>
+  <li>Organization and user level access rights and role assignment.</li>
+  <li>Collection and record management (XML serialisation).</li>
+  <li>Direct import and validation according to registered schemas (XSD).</li>
+</ul>
           <p>
             WITH is a platform that exposes APIs from different portals and repositories.
             It allows you to search for digital content from a range of different and unconnected
