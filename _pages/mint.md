@@ -36,10 +36,7 @@ bodyClass: tools
           <div class="lbl">TOOLS</div>
           <h1>MINT</h1>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Natus error sit voluptatem accusantium doloremque laudantium, totam rem
-            aperiam, eaque ipsa quae ab illo inventore..
+            The MINT service facilitates upload of arbitrary record shaped data in JSON, OLW/RDF, XML or CSV; mapping into a defined xml-schema; transformation of the data into that XML and export to various targets.
           </p>
           <a href="#">Visit Project Site</a>
         </div>
@@ -113,7 +110,7 @@ The platform offers a user and organization management system that allows the de
 Current developments aim to support relational database schemata and OWL/RDFS ontologies as input. 
 
           </p>
-           <h3>Ingest </h3>
+           <h3>Processing </h3>
           <p>
             Handling of metadata records includes indexing, retrieval, update and transformation of XML files and records. XML processors (Apache Xerces, SAXON, Nux) are used for validation and transformation tasks as well as for the visualization of XML and XSLT. For issues of scalability with respect to the amount of data and concurrent heavy processing tasks, parts of the services are multi-threaded and queue processing mechanisms are implemented. 
 
