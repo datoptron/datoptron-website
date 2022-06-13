@@ -111,17 +111,40 @@ The platform offers a user and organization management system that allows the de
 Current developments aim to support relational database schemata and OWL/RDFS ontologies as input. 
 
           </p>
-          <h2>Lorem Ipsum Dolor Sit Amet</h2>
+           <h3>Ingest </h3>
           <p>
-            WITH was designed and developed in alignment with complementary services used and
-            produced in the Europeana ecosystem, and informed by the design of respective
-            infrastructures being developed such as Europeana Labs , the Europeana Cloud and
-            LoCloud , and of more specialized applications targeting cultural heritage content
-            visualization and re-use, such as the tools and pilots of AthenaPlus and EUscreen.
+            Handling of metadata records includes indexing, retrieval, update and transformation of XML files and records. XML processors (Apache Xerces, SAXON, Nux) are used for validation and transformation tasks as well as for the visualization of XML and XSLT. For issues of scalability with respect to the amount of data and concurrent heavy processing tasks, parts of the services are multi-threaded and queue processing mechanisms are implemented. 
+
           </p>
+           <h3>Align & Normalize  </h3>
+          <p>
+            MINT uses a visual mapping editor for the XSL language. Mapping is performed through drag-and- drop and input operations which are translated to the corresponding code. The editor visualizes the input and target XSDs, providing access and navigation of the structure and data of the input schema, and the structure, documentation and restrictions of the target one. It supports string manipulation functions for input elements in order to perform 1-n and m-1 (with the option between concatenation and element repetition) mappings between the two models. Additionally, structural element mappings are allowed, as well as constant or controlled value (target schema enumerations) assignment, conditional mappings (with a complex condition editor) and value mappings between input and target value lists. Mappings can be applied to ingested records, edited, downloaded and shared as templates.
+
+          </p>
+          <p>
+          Preview interfaces present the steps of the aggregation such as the current input xml record, the XSLT code of mappings, the transformed record in the target schema, subsequent transformations from the target schema to other models of interest (e.g. Europeana's metadata schema), and available html renderings of each xml record. Users can transform their selected collections using complete and validated mappings in order to publish them in available target schemas for the required aggregation and remediation steps. 
+           </p>
+          <p>
+          Various additional resources such as terminologies, vocabularies, authority files and dictionaries are used to reinforce an aggregation's homogeneity and interoperability with external data sources. A typical usage scenario is the connection of a local (server) or online resource with a metadata element in order to be used during mapping/normalization. These resources can be XML, RDFS/OWL, SKOS or even proprietary systems accessed through APIs.
+          </p>
+          <p>
+          Normalization services such as group editing and value mapping are currently being implemented as standalone tasks for direct imports
+          </p>
+           <h3>Link & Enrich </h3>
+          <p>
+          Semantic web technologies are used to transform metadata records to web resources in order to participate in the emerging web of data that promotes transparency and interoperability between trusted sources. Currently, a lot of aggregations are already taking advantage of the rapidly growing linked data sources published worldwide [6]. 
+           </p>
+          <p>
+          MINT uses 4Store and Sesame for RDFS/OWL storage and processing, and links data sources to external SPARQL endpoints using string-based and knowledge-assisted matching strategies. Entity/term extraction and/or natural language processing frameworks are evaluated to expand the number of suggested links. RabbitMQ is used to allow for a reliable, scalable and portable messaging and processing system, used in and between different services. 
+          </p>
+           <h3>Remediate </h3>
+          <p>
+          MINT is being used to publish metadata in XML, JSON or RDFS/OWL according to the mechanism and usage. Typical scenarios include an OAI-PMH repository for XML records, SPARQL endpoints for triple stores, Lucene-based indexes for search engines and Restful or Restless APIs for third party services. 
+          </p>
+
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic1.png">
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic2.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mintInterface.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mappingInterface.png">
         </div>
       </div>
     </div>
