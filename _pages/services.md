@@ -47,7 +47,7 @@ permalink: /services
               <div class="wrap"> <span class="title">DATA TRANSFORMATION </span><span class="num">01</span></div>
               <div class="text">
                 <p>
-                  Analyzing information requires structured and accessible data for best results. Data transformation enables organizations to alter the structure and format of raw data as needed. Learn how your enterprise can transform its data to perform analytics efficiently.
+                  Analysing information requires structured and accessible data for best results. Data transformation procedures enable organisations to adapt the representation and format of raw data and structure them depending on their needs. Datoptron sets in place well-defined and customisable procedures for mapping between different schemata.
                 </p>
                 <a href="{{ site.baseurl }}/datatransformation">Learn More</a>
               </div>
@@ -57,7 +57,7 @@ permalink: /services
               <div class="wrap"><span class="title">LINKED DATA INTEGRATION </span><span class="num">02</span></div>
               <div class="text">
                 <p>
-                  With many years of experience in linked data integration, we are able to semantically link and fuse your data. We use all leading technologies with a particular focus across the semantic web stack, elasticsearch and much more to develop the best software.
+                  Leveraging many years of experience in machine learning and infromation extraction, Datoptron offers situation-appopriate solutions for making data uniform and interoperable. We use Natural Language Process, named entity extraction and pattern matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.
                 </p>
                 <a href="#">Learn More</a>
               </div>
@@ -67,7 +67,7 @@ permalink: /services
               <div class="wrap"> <span class="title">LINKED DATA PUBLICATION </span><span class="num">03</span></div>
               <div class="text">
                 <p>
-                  As soon as Linked Data is ready, it can be published for consumption. Depending on the application and the needs of the entrerprise, we apply a different way of publishing as Linked Data. This includes either SPARQL end-point or Linked Data Media Framgemnts technoclogies.
+                  How can you unearth the knowledge underlying the data, identify hidden patterns, and discover what you are looking for? Datoptron's expertise in both relational and graph databases ensures that the right approach for storing and quering your data will be followed. From federated search and SPAQL endpoints to indexing strategies and search engine optimisation, we adopt the approach that best fits your application's queries.
                 </p>
                 <a href="#">Learn More</a>
               </div>
@@ -77,7 +77,7 @@ permalink: /services
               <div class="wrap"><span class="title">PLATFORM DEVELOPMENT </span><span class="num">04</span></div>
               <div class="text">
                 <p>
-                  We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. Do you want to boost the discoverability of your vast amounts of data? Do you want to enhance access to the right information? Is the ever-growing amount of data in your company getting out of hand?
+                  Our platform development expertise makes sure that the capabilities enabled by the state-of-the-art data technologies are served to the end user  in a functional and appealing way. We build on well-defined Application Programming Interfaces  and deliver user-griendly interfaces using latest frontend frameworks and UX design best practices. We develop platforms for streanlinging organsational procedures as well as platforms for citizens' and customers' engagement.
                 </p>
                 <a href="#">Learn More</a>
               </div>
@@ -87,7 +87,7 @@ permalink: /services
               <div class="wrap"> <span class="title">USER ENGAGEMENT </span><span class="num">05</span></div>
               <div class="text">
                 <p>
-                  Efficient semantic assets as in data structures provide clear contextual meaning. That properly validate your data. That gives structure to your data and promote search and retrieval. That integrates data and information stored in various formats and different silos.
+                  We combine the power of state-of-the-art Artificial Intelligence tools with experts’ and crowd human intelligence for achieving high quality results and for maximising engagement.  We organise crowdsourcing campaigns and exploit human feedback to gain helful insights, fine-tune and improve the automatic processes as well as to constructfully involve various audiences.
                 </p>
                 <a href="#">Learn More</a>
               </div>
@@ -97,7 +97,7 @@ permalink: /services
               <div class="wrap"> <span class="title">USE OF STANDARDS &amp; VOCABULARIES</span><span class="num">06</span></div>
               <div class="text">
                 <p>
-                  How can data be published as Linked Data? What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? Datoptron introduces basics procedures of this transformation process.
+                  We build on established taxonomies and situation-appropriate standards in all the above-mentioned steps.  We make use of well-founded schemata, controlled vocabularies, and ontologies to represent and manage data and metadata. We opt for open standards, wherever possible, and advocate  the FAIR (Findable, Accessible, Interoperable and Reusable) principles.
                 </p>
                 <a href="#">Learn More</a>
               </div>
