@@ -98,6 +98,8 @@ bodyClass: tools
   <li>Transformation and previewing (XML and HTML).</li>
   <li>Repository deployment and remediation interfaces.</li>
 </ul>
+          <!-- oval-->
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mintInterface.png">
          <h3>MINT Technical Specifications </h3>
           <p>
             MINT handles metadata records from the content provider's delivery up to the aggregation repository(-ies), publication mechanism(s) and front-end(s). 
@@ -143,7 +145,7 @@ Current developments aim to support relational database schemata and OWL/RDFS on
           </p>
 
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mintInterface.png">
+          
           <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mappingInterface.png">
         </div>
       </div>
