@@ -1,7 +1,7 @@
 ---
 title: Tools &amp; Projects
 layout: default
-permalink: /sage
+permalink: /d2rml
 logoSrc: /assets/img/ic-logo-white.png
 bodyClass: tools
 ---
@@ -34,11 +34,11 @@ bodyClass: tools
         <!-- col-->
         <div class="col-xl-9 col-lg-9 col-md-9 right">
           <div class="lbl">TOOLS</div>
-          <h1>SAGE</h1>
+          <h1>D2RML</h1>
           <p>
-            SAGE is a linked data generation, enrichment, publication and management tool.
+		  D2RML is a data transformation language for transforming and combining diverse data into custom RDF datasets.
           </p>
-          <a href="#">Visit Project Site</a>
+          <a href="https://apps.islab.ntua.gr/d2rml" target="_blank">Visit Project Site</a>
         </div>
       </div>
     </div>
@@ -77,24 +77,27 @@ bodyClass: tools
         <!-- col-->
         <div class="col-xl-9 col-lg-9 col-md-12 right">
           <!-- content-->
-          <!--<h3>About</h3>-->
+<!--          <h3>About</h3> -->
           <p>
-		  SAGE is a web-based tool for producing, enriching, publishing, accessing and managing RDF datasets. RDF data can be directly imported or generated from diverse, non-RDF data sources and data formats, organized in datasets, enriched using annotators wrapping web-based or other third party services, and the enrichments can be manually validated. All datasets, including any annotations, can be published in RDF stores, indexed and accessed through API calls.
-		</p>
-		<p>
-		 Powered by D2RML, SAGE can import data generated from diverse sources (e.g. relational databases, REST APIs, SPARQL endpoints, local system and remote files) and diverse formats (e.g. XML, JSON, CSV, Excel spreadsheets, plain text) using powerful, custom transformation rules that may combine data from multiple sources. Data already in RDF form can be directly imported. For more fine-grained data management and access, the imported data may be organized in multiple datasets and catalogs, whose metadata are modelled using the DCAT and VOID linked open vocabularies.
+D2RML (Data to RDF Mapping Language) is a data transformation language for defining complex data transformation workflows that can transform data obtained from diverse data sources and in diverse formats to RDF datasets, in order to be published as linked data.
           </p>
           <p>
-		  Imported data can be published in multiple RDF stores and indexed. Currently, SAGE supports the OpenLink Virtuoso and Blazegraph RDF stores. Publicly published datasets and catalogs can be individually searched, accessed through dedicated SPARQL endpoints and browsed using an embedded LodView viewer.
+
+A D2RML transformation workflow comes in the form of a D2RML document, which is itself an RDF document, that prescribes an entire data processing workflow, from the description of the data sources and the needed interactions with them so that the desired data may be obtained, to the interpretation of the obtained data, the ways the data obtained from the different data sources should be combined, and to the details of the transformation rules that should be applied to convert data elements to actual RDF triples and form RDF graphs. A D2RML transformation workflow may even be dynamic and determined by the data themselves.
           </p>
           <p>
-		  Through SAGE, selected parts of published datasets can also be annotated and enriched by invoking relevant external API services. Such services include e.g. tools linking data to relevant Wikidata, DBPedia, Geonames and other resources, or tools that detect occurrences of vocabulary terms in the data. Built-in support for NERD (named entity recognition and disambiguation), SKOS vocabulary lookup, and SPARQL query annotators is provided. The enrichments, which are modelled using the W3C annotation model, can then be manually validated through an integrated validation subsystem that allows bulk validations through text grouping and text frequency sorting, assignment of validation tasks to multiple users, and close monitoring of the overall validation process. 
+
+The current version of D2RML supports several data sources such as relational databases, REST APIs, SPARQL endpoints, as well as local system and remote files, and several commonly used data formats such as XML, JSON, CSV, Excel spreadsheets, plain text, and the several RDF serializations. Data archive formats and inline RDF data are also supported. Data items are extracted from the data sources and files using the relevant standard expression language such as SQL, SPARQL, XPath, JSON path, as well as regular expressions.
           </p>
-        
           <p>
-            SAGE has been used in several projects, including STIRData, where it has been used to transform into a common RDF model and publish as linked data millions of company data entries from several European business registries, and Europeana XX where it has been for the automatic enrichment and validation of hundreds of thousands of cultural item records.
+
+The data elements extracted from the data sources are iterated over so that transformation rules can be applied. A transformation rule, in its simplest form, is a recipe for generating the subject, predicate, object and possibly the named graph of an RDF triple from one or more data elements. Transformations may be complex and may involve conditional or switch statements, function invocations, or even interaction with more data sources. The available functions include standard string, date and numerical manipulation functions, including several relevant XPath functions.. Multiple transformation rules for single data elements as well as value pivoting are supported.
           </p>
-<!--		  
+          <p>
+
+D2RML is complemented by the D2RML processor, the software that executes a D2RML document, orchestrates the communication, interaction and retrieval of the data from the sources, applies the data transformation rules and produces the final RDF data, that may be either serialized and written to files or inserted directly into a triple store. The D2RML processor has been designed to be scalable, can make use of data caching, and can seamlessly handle data sources providing millions of data elements. 
+          </p>
+<!--
           <h3>Benefits</h3>
           <p>
             The platform allows cultural heritage institutions to: 
@@ -110,10 +113,12 @@ bodyClass: tools
           </p>
           <p>
             SAGE is an open-source platform under the Apache Licence 2.0. More details and link to the source code will be made publicly available upon completion of the Europeana XX: Century of Change project.
+
+
           </p>
 -->		  
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tool_sage.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tool_d2rml.png">
           
         </div>
       </div>

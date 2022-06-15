@@ -83,13 +83,13 @@ permalink: /tools
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-d2.png">
-                <a href="{{ site.baseurl }}/mint">
+                <a href="{{ site.baseurl }}/d2rml">
                   <h3>D2RML</h3>
                   <p>
                     Language for creating RDF datasets from heterogeneous datasets. The main mechanism of obtaining RDF data from a dataset is a mapping.
                   </p>
                 </a>
-                <a class="more" href="{{ site.baseurl }}/mint">Learn More</a>
+                <a class="more" href="{{ site.baseurl }}/d2rml">Learn More</a>
               </div>
             </div>
           </div>
