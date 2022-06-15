@@ -23,9 +23,9 @@ permalink: /aboutus
       <!-- description-->
       <div class="description">
         <h3>
-           We are a group of talented people including <span class="green">researchers</span>,
-           <span class="green">project managers</span>, <span class="green">software developers</span>,
-           <span class="green">ontology engineers </span>, and <span class="green">machine learning </span>experts.
+           We are a group of  <span class="green">researchers</span>,
+            <span class="green">software developers</span>,
+           <span class="green">ontology engineers </span>, and <span class="green">Artificial Intelligence </span>experts.
          </h3>
       </div>
     </div>
@@ -43,7 +43,7 @@ permalink: /aboutus
               </div>
               <div class="text">
                 <h3>Kasey Taylor</h3>
-                <p>Co-Founder &amp; CEO</p>
+                <p>Co-Founder &amp; Software Engineer and CEO</p>
               </div>
             </a>
           </div>
@@ -52,11 +52,11 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-2.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/kaldeli.png">
               </div>
               <div class="text">
-                <h3>Alysha Kimber</h3>
-                <p>Co-Founder &amp; Principal Data Architect</p>
+                <h3>Eirini Kaldeli</h3>
+                <p>Co-Founder &amp; Software Engineer and COO</p>
               </div>
             </a>
           </div>
@@ -68,8 +68,8 @@ permalink: /aboutus
                 <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-3.png">
               </div>
               <div class="text">
-                <h3>Dora Lindsey</h3>
-                <p>Senior Data Engineer</p>
+                <h3>Alexandros Chortaras</h3>
+                <p>Co-Founder &amp; Data Engineer and CTO</p>
               </div>
             </a>
           </div>
