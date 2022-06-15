@@ -56,19 +56,6 @@ permalink: /tools
             <!-- col-->
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
-                <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-crowd.png">
-                <a href="{{ site.baseurl }}/mint">
-                  <h3>Crowdheritage</h3>
-                  <p>
-                    CrowdHeritage is an open platform where cultural heritage institutions can share their collections’ metadata that need a fix or enrichment.
-                  </p>
-                </a>
-                <a class="more" href="{{ site.baseurl }}/mint">Learn More</a>
-              </div>
-            </div>
-            <!-- col-->
-            <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
-              <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-sage.png">
                 <a href="{{ site.baseurl }}/sage">
                   <h3>SAGE</h3>
@@ -121,6 +108,19 @@ permalink: /tools
         <div class="col-xl-8 right platformlist">
           <!-- ul-->
           <div class="row">
+            <!-- col-->
+            <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
+              <div class="productwrap">
+                <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-crowd.png">
+                <a href="{{ site.baseurl }}/crowdheritage">
+                  <h3>Crowdheritage</h3>
+                  <p>
+                    CrowdHeritage is an open platform where cultural heritage institutions can share their collections’ metadata that need a fix or enrichment.
+                  </p>
+                </a>
+                <a class="more" href="{{ site.baseurl }}/crowdheritage">Learn More</a>
+              </div>
+            </div>
             <!-- col-->
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
