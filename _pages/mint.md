@@ -122,6 +122,10 @@ Current developments aim to support relational database schemata and OWL/RDFS on
             MINT uses a visual mapping editor for the XSL language. Mapping is performed through drag-and- drop and input operations which are translated to the corresponding code. The editor visualizes the input and target XSDs, providing access and navigation of the structure and data of the input schema, and the structure, documentation and restrictions of the target one. It supports string manipulation functions for input elements in order to perform 1-n and m-1 (with the option between concatenation and element repetition) mappings between the two models. Additionally, structural element mappings are allowed, as well as constant or controlled value (target schema enumerations) assignment, conditional mappings (with a complex condition editor) and value mappings between input and target value lists. Mappings can be applied to ingested records, edited, downloaded and shared as templates.
 
           </p>
+
+          <!-- oval-->
+          
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mappingInterface.png">
           <p>
           Preview interfaces present the steps of the aggregation such as the current input xml record, the XSLT code of mappings, the transformed record in the target schema, subsequent transformations from the target schema to other models of interest (e.g. Europeana's metadata schema), and available html renderings of each xml record. Users can transform their selected collections using complete and validated mappings in order to publish them in available target schemas for the required aggregation and remediation steps. 
            </p>
@@ -143,9 +147,6 @@ Current developments aim to support relational database schemata and OWL/RDFS on
           MINT is being used to publish metadata in XML, JSON or RDFS/OWL according to the mechanism and usage. Typical scenarios include an OAI-PMH repository for XML records, SPARQL endpoints for triple stores, Lucene-based indexes for search engines and Restful or Restless APIs for third party services. 
           </p>
 
-          <!-- oval-->
-          
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mappingInterface.png">
         </div>
       </div>
     </div>
