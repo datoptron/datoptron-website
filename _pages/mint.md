@@ -36,10 +36,7 @@ bodyClass: tools
           <div class="lbl">TOOLS</div>
           <h1>MINT</h1>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Natus error sit voluptatem accusantium doloremque laudantium, totam rem
-            aperiam, eaque ipsa quae ab illo inventore..
+            The MINT service facilitates upload of arbitrary record shaped data in JSON, OLW/RDF, XML or CSV; mapping into a defined xml-schema; transformation of the data into that XML and export to various targets.
           </p>
           <a href="#">Visit Project Site</a>
         </div>
@@ -81,37 +78,74 @@ bodyClass: tools
         <div class="col-xl-9 col-lg-9 col-md-12 right">
           <!-- content-->
           <p>
-            Discover digital artifacts, exhibits and collections from museums and archives
-            all around the world. Explore cultural treasures in extraordinary detail from
-            hidden gems to great masterpieces. Experiment with open and protected digital
-            cultural content and unlock your creativity!
-          </p>
-          <h3>WITH Platform</h3>
+           MINT participates in aggregation, digitization and technology-enabling projects & initiatives for digital cultural heritage. These typically involve the design, implementation and execution of a metadata (and/or content) ingestion strategy, according to their respective domain(s) and scope, the participating institutions and, available resources and time. MINT services compose a web based platform that is employed from the first steps of such workflows, corresponding to the ingestion, mapping, transformation and enrichment of metadata records. According to the architecture, MINT implements a variety of remediation approaches for the resulting repository that allow for the storage, delivery, access and retrieval of metadata records. Deployment and integration also involve other systems and services, such as a portal and search engine, collection management and long term preservation systems, repositories etc. 
+           </p>
+
+
           <p>
-            WITH is a platform that exposes APIs from different portals and repositories.
-            It allows you to search for digital content from a range of different and unconnected
-            repositories and databases from a single access point. Searchable repositories include
-            Europeana, the Digital Public Library of America, YouTube, Rijks Museum, National
-            Library of Australia, Digital New Zeeland and other.
+          Interoperability is achieved through the use of well defined metadata models, and the alignment of the providers' records to their requirements. MINT uses a visual mapping editor for the XSL language to implement crosswalks to the reference metadata model. It is being used by a growing number of providers that align proprietary data structures to a variety of standard or aggregation- specific models, and in that way establish and maintain interoperability with Content Providers and Europeana. 
           </p>
-          <h3>Cultural Institutions</h3>
+          <h3>Key functionalities include:</h3>
+          <ul>
+  <li>Organization and user level access rights and role assignment.</li>
+  <li>Collection and record management (XML serialisation).</li>
+  <li>Direct import and validation according to registered schemas (XSD).</li>
+  <li>OAI-PMH based harvesting and publishing.</li>
+  <li>Visual mapping editor for the XSLT language.</li>
+  <li>Transformation and previewing (XML and HTML).</li>
+  <li>Repository deployment and remediation interfaces.</li>
+</ul>
           <p>
-            WITH is available for cultural institutions and organizations, professional users
-            and third party developers in order to easily search for the cultural resources
-            that meet their retrieval criteria so as to collect, use and re-use them to
-            promote innovation and demonstrate the social and economic value of cultural content.
-          </p>
-          <h2>Lorem Ipsum Dolor Sit Amet</h2>
-          <p>
-            WITH was designed and developed in alignment with complementary services used and
-            produced in the Europeana ecosystem, and informed by the design of respective
-            infrastructures being developed such as Europeana Labs , the Europeana Cloud and
-            LoCloud , and of more specialized applications targeting cultural heritage content
-            visualization and re-use, such as the tools and pilots of AthenaPlus and EUscreen.
-          </p>
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic1.png">
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic2.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mintInterface.png">
+          </p>
+         <h3>MINT Technical Specifications </h3>
+          <p>
+            MINT handles metadata records from the content provider's delivery up to the aggregation repository(-ies), publication mechanism(s) and front-end(s). 
+It is written in JAVA, JSP, HTML and Javascript. It uses PostgreSQL as an object-relational database with Hibernate as the data persistence framework, and mongoDB as a document-oriented database. MINT is also reusing other open source development frameworks and libraries according to specific deployments and customizations. Mint source code versions (usually project-based) are released under a free software license (GNU Affero GPL). 
+The platform offers a user and organization management system that allows the deployment and operation of different aggregation schemes with corresponding user roles and access rights. An authenticated Restful web service is currently being designed to interoperate with other user identity & authentication systems. 
+
+          </p>
+          <h3>Ingest </h3>
+          <p>
+            Registered users can upload their metadata records in JSOM, OWL/RDF, XML or CSV serialization, using the HTTP, FTP and OAI-PMH protocols. Users can also directly upload and validate records in a range of supported metadata standards (XSD). XML records are stored and indexed for statistics, previews, access from the mapping tool and subsequent services. 
+Current developments aim to support relational database schemata and OWL/RDFS ontologies as input. 
+
+          </p>
+           <h3>Processing </h3>
+          <p>
+            Handling of metadata records includes indexing, retrieval, update and transformation of XML files and records. XML processors (Apache Xerces, SAXON, Nux) are used for validation and transformation tasks as well as for the visualization of XML and XSLT. For issues of scalability with respect to the amount of data and concurrent heavy processing tasks, parts of the services are multi-threaded and queue processing mechanisms are implemented. 
+
+          </p>
+           <h3>Align & Normalize  </h3>
+          <p>
+            MINT uses a visual mapping editor for the XSL language. Mapping is performed through drag-and- drop and input operations which are translated to the corresponding code. The editor visualizes the input and target XSDs, providing access and navigation of the structure and data of the input schema, and the structure, documentation and restrictions of the target one. It supports string manipulation functions for input elements in order to perform 1-n and m-1 (with the option between concatenation and element repetition) mappings between the two models. Additionally, structural element mappings are allowed, as well as constant or controlled value (target schema enumerations) assignment, conditional mappings (with a complex condition editor) and value mappings between input and target value lists. Mappings can be applied to ingested records, edited, downloaded and shared as templates.
+
+          </p>
+          <p>
+          Preview interfaces present the steps of the aggregation such as the current input xml record, the XSLT code of mappings, the transformed record in the target schema, subsequent transformations from the target schema to other models of interest (e.g. Europeana's metadata schema), and available html renderings of each xml record. Users can transform their selected collections using complete and validated mappings in order to publish them in available target schemas for the required aggregation and remediation steps. 
+           </p>
+          <p>
+          Various additional resources such as terminologies, vocabularies, authority files and dictionaries are used to reinforce an aggregation's homogeneity and interoperability with external data sources. A typical usage scenario is the connection of a local (server) or online resource with a metadata element in order to be used during mapping/normalization. These resources can be XML, RDF/OWL, SKOS or even proprietary systems accessed through APIs.
+          </p>
+          <p>
+          Normalization services such as group editing and value mapping are currently being implemented as standalone tasks for direct imports
+          </p>
+           <h3>Link & Enrich </h3>
+          <p>
+          Semantic web technologies are used to transform metadata records to web resources in order to participate in the emerging web of data that promotes transparency and interoperability between trusted sources. Currently, a lot of aggregations are already taking advantage of the rapidly growing linked data sources published worldwide. 
+           </p>
+          <p>
+          MINT uses Virtuoso for RDFS/OWL storage and processing, and links data sources to external SPARQL endpoints using string-based and knowledge-assisted matching strategies. Entity/term extraction and/or natural language processing frameworks are evaluated to expand the number of suggested links. RabbitMQ is used to allow for a reliable, scalable and portable messaging and processing system, used in and between different services. 
+          </p>
+           <h3>Remediate </h3>
+          <p>
+          MINT is being used to publish metadata in XML, JSON or RDFS/OWL according to the mechanism and usage. Typical scenarios include an OAI-PMH repository for XML records, SPARQL endpoints for triple stores, Lucene-based indexes for search engines and Restful or Restless APIs for third party services. 
+          </p>
+
+          <!-- oval-->
+          
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mappingInterface.png">
         </div>
       </div>
     </div>
