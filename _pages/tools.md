@@ -112,7 +112,7 @@ permalink: /tools
               <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-crowd.png">
                 <a href="{{ site.baseurl }}/crowdheritage">
-                  <h3>Crowdheritage</h3>
+                  <h3>CrowdHeritage</h3>
                   <p>
                     CrowdHeritage is an open online platform for conducting crowdsourcing campaigns in order to enrich and validate the metadata of cultural heritage collections.
                   </p>
