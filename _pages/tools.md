@@ -46,7 +46,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/mint">
                   <h3>MINT</h3>
                   <p>
-                    The Metadata INTeroperability Platform aims to systematise and spread knowledge about participatory projects in the field of cultural heritage and beyond.
+                    The Metadata INTeroperability platform supports cultural heritage organisations to aggregate, transform, and publish their metadata records in line with established standards.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/mint">Learn More</a>
@@ -71,8 +71,8 @@ permalink: /tools
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-d2.png">
                 <a href="{{ site.baseurl }}/d2rml">
                   <h3>D2RML</h3>
-                  <p>
-                    D2RML is a language for creating RDF datasets from heterogeneous datasets. The main mechanism of obtaining RDF data from a dataset is a mapping.
+                  <p>       
+                  D2RML (Data to RDF Mapping Language) is a data transformation language for defining  data transformation workflows  in order to  publish data in heterogenous formats as linked data.   
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/d2rml">Learn More</a>
@@ -114,7 +114,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/crowdheritage">
                   <h3>CrowdHeritage</h3>
                   <p>
-                    CrowdHeritage is an open online platform for conducting crowdsourcing campaigns in order to enrich and validate the metadata of cultural heritage collections.
+                    CrowdHeritage is an online platform for conducting crowdsourcing campaigns in order to enrich and validate the metadata of cultural heritage collections.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/crowdheritage">Learn More</a>
@@ -127,7 +127,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/withculture">
                   <h3>WITHCulture</h3>
                   <p>
-                    WITHCulture aims to systematise and spread knowledge about participatory projects in the field of cultural heritage and beyond.
+                    WITHCulture provides access to digital cultural heritage items from different repositories and  offers a number of added-value services for their creative reuse.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/withculture">Learn More</a>
