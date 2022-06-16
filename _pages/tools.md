@@ -114,7 +114,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/crowdheritage">
                   <h3>CrowdHeritage</h3>
                   <p>
-                    CrowdHeritage is an open online platform for conducting crowdsourcing campaigns in order to enrich and validate the metadata of cultural heritage collections.
+                    CrowdHeritage is an online platform for conducting crowdsourcing campaigns in order to enrich and validate the metadata of cultural heritage collections.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/crowdheritage">Learn More</a>
@@ -127,7 +127,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/withculture">
                   <h3>WITHCulture</h3>
                   <p>
-                    WITHCulture aims to systematise and spread knowledge about participatory projects in the field of cultural heritage and beyond.
+                    WITHCulture provides access to digital cultural heritage items from different repositories and  offers a number of added-value services for their creative reuse.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/withculture">Learn More</a>
