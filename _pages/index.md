@@ -117,8 +117,9 @@ permalink: /
                 <div class="text">
                   <h3>SAGE </h3>
                   <p>
-                    SAGE is a semantic enrichment and validation platform developed
-                    to autimatically enrich metadata and link them to external web resources using Natural Language Processing techniques
+                    SAGE (Semantic Annotation &amp; Generation of Enrichments) is a web-based tool for generating, enriching, validating, searching and publishing data as a knowledge graph.
+                    <!--SAGE is a semantic enrichment and validation platform developed
+                    to autimatically enrich metadata and link them to external web resources using Natural Language Processing techniques.-->
                   </p>
                 </div>
               </a>

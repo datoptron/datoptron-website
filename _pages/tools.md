@@ -59,7 +59,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/sage">
                   <h3>SAGE</h3>
                   <p>
-                    SAGE (Semantic Annotation &amp; Generation of Enrichments) is a web-based tool for generating, enriching, publishing and searching data organised as a knowledge graph.
+                  SAGE (Semantic Annotation &amp; Generation of Enrichments) is a web-based tool for generating, enriching, validating, searching and publishing data as a knowledge graph.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/sage">Learn More</a>

@@ -53,7 +53,8 @@ bodyClass: tools platform
           <img class="testi" src="{{ site.baseurl }}/assets/img/ic-testimonial.png">
           <!-- footnote-->
           <p class="footnote">
-           The team of Datoptron's researchers and developers has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, neural networks, and multimedia content as well as with their extensive collaborative, coordinating, and administrative experience. The Datoptron team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of cultural heritage organisations and public administration bodies.
+           The  Datoptron team has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, and machine learning. The team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of organisations.
+           <!--of cultural heritage organisations and public administration bodies.-->
             <!-- The team of Datoptron's researchers and developers has participated in more than 30 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.-->
           </p>
           <!-- banner-->
@@ -62,16 +63,15 @@ bodyClass: tools platform
               <!-- oval-->
               <img class="oval" src="{{ site.baseurl }}/assets/img/ic-oval-6.png">
               <!-- text-->
-              <!--<h2>Successful Data Strategy</h2>
+              <h2>Successful Data Strategy</h2>
               <p>
-                Discover how Datoptron can help your organisation to enhance the value
-                of their data and become a partner in your data journey.
+                Discover how Datoptron can become a partner in your data journey and help your organisation to enhance the value of their data.
               </p>
-              <a href="#">Learn More</a>-->
-               <h2>Datoptron tools and platforms</h2>
+              <a href="{{ site.baseurl }}/services">Learn More</a>
+              <!-- <h2>Datoptron tools and platforms</h2>
               <p>
                Datoptron has developed and offers a number of tools and platforms that can streamline and facilitate various stages of the data workflow, from the aggregation, documentation, and semantic linking of data until their presentation, utilisation, and interaction with target users.
-              </p>
+              </p>-->
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@ bodyClass: tools platform
               The platform offers the possibility to cultural heritage institutions and aggregators to design and launch ad-hoc crowdsourcing campaigns for metadata quality improvement with gamification elements and verifiable results. The CrowdHeritage platform can be used in combination with AI tools that perform automatic enrichment, such as color extraction, image tagging, and automated translation. By combining human with machine inteligence we can achieve high-quality metadata at scale with minimum effort and cost. 
             </p>
             <p>
-             The platform has already hosted 28 successful crowdsourcing campaigns with more than 450 contributors, generating around 78.000 annotations and 220.000 validations, enriching more than 17.000 items and publishing more than 50.000 annotations to Europeana. 
+             The platform has been used to organise 28 successful crowdsourcing campaigns with more than 450 contributors, generating around 78.000 annotations and 220.000 validations, enriching more than 17.000 cultural heritage items and publishing more than 50.000 annotations to Europeana. 
               <!--CrowdHeritage is an open-source platform that integrates and supports the Europeana APIs and several other available APIs from cultural institutions across the world, like the Rijksmuseum and the Digital Public Library of America). The Crowdheritage platform has been developed by the <a href="https://www.ails.ece.ntua.gr/" target="_blank">National Technical University of Athens</a> in collaboration with the <a href="https://fashionheritage.eu/" target="_blank">European Fashion Heritage Association</a>, the <a href="http://www.michael-culture.eu/" target="_blank">MICHAEL Culture Association</a>, the <a href="https://www.culture.gouv.fr/en/" target="_blank">Ministry of Culture of France</a> and the <a href="https://pro.europeana.eu/organisation/europeana-foundation" target="_blank">Europeana Foundation</a>.-->
             </p>
           <!-- oval-->

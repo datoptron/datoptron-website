@@ -56,7 +56,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           <img class="testi" src="{{ site.baseurl }}/assets/img/ic-testimonial.png">
           <!-- footnote-->
           <p class="footnote">
-           The team of Datoptron's researchers and developers has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, neural networks, and multimedia content as well as with their extensive collaborative, coordinating, and administrative experience. The Datoptron team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of cultural heritage organisations and public administration bodies.
+            The  Datoptron team has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, and machine learning. The team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of organisations.
             <!-- The team of Datoptron's researchers and developers has participated in more than 30 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.-->
           </p>
           <!-- banner-->
@@ -65,12 +65,11 @@ WITHCulture is a platform that provides access to digital cultural heritage item
               <!-- oval-->
               <img class="oval" src="{{ site.baseurl }}/assets/img/ic-oval-6.png">
               <!-- text-->
-              <h2>Successful Data Strategy</h2>
+               <h2>Successful Data Strategy</h2>
               <p>
-                Discover how Datoptron can help organisation to enhance the value
-                of their data and become partner in their data journey.
+                Discover how Datoptron can become a partner in your data journey and help your organisation to enhance the value of their data.
               </p>
-              <a href="#">Learn More</a>
+              <a href="{{ site.baseurl }}/services">Learn More</a>
             </div>
           </div>
         </div>
