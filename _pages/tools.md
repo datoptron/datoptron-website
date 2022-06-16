@@ -46,7 +46,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/mint">
                   <h3>MINT</h3>
                   <p>
-                    The Metadata Interoperability Platform aims to systematise and spread knowledge about participatory projects in the field of cultural heritage and beyond.
+                    The Metadata INTeroperability Platform aims to systematise and spread knowledge about participatory projects in the field of cultural heritage and beyond.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/mint">Learn More</a>
