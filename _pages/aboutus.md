@@ -52,7 +52,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="{{ site.baseurl }}/assets/img/kaldeli.jpg">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/kaldeli_small.png">
               </div>
               <div class="text">
                 <h3>Eirini Kaldeli</h3>
