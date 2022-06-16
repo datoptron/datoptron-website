@@ -37,7 +37,7 @@ bodyClass: tools
           <h1>MINT</h1>
           <p>
             <!--The MINT tool facilitates upload of arbitrary record shaped data in JSON, OLW/RDF, XML or CSV; mapping into a defined xml-schema; transformation of the data into that XML and export to various targets.!-->
-            MINT is a source web-based platform that facilitates and supports aggregation initiatives for cultural heritage content and metadata across Europe. It is used by more than 550  organisations for the ingestion, data management, and aggregation of their metadata records and  is one of the main components used to transform and ublish data to the Europeana platform.
+            MINT is a web-based platform that facilitates initiatives for the aggregation of cultural heritage data across Europe. It is used by more than 550 cultural organisations for the ingestion, data transformation, and aggregation of their metadata records and  is one of the main components used to transform and ublish data to the Europeana platform.
           </p>
           <a href="http://mint-wordpress.image.ntua.gr/">Visit the tool</a>
         </div>
@@ -139,7 +139,7 @@ The platform offers a user and organization management system that allows the de
 
            <h3>Remediate </h3>
           <p>
-          MINT is being used to publish metadata in XML, JSON or RDFS/OWL according to the mechanism and usage. Typical scenarios include an OAI-PMH repository for XML records, SPARQL endpoints for triple stores, Lucene-based indexes for search engines and Restful or Restless APIs for third party services. 
+          MINT is being used to publish metadata in XML, JSON or RDFS/OWL according to the mechanism and usage. Typical scenarios include an OAI-PMH repository for XML records, SPARQL endpoints for triple stores, Lucene-based indexes for search engines and RESTful APIs for third party services. 
           </p>
 
         </div>
