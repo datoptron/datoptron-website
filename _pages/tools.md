@@ -110,7 +110,7 @@ permalink: /tools
             <!-- col-->
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
-                <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-crowd.png">
+                <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-crowd-white.png">
                 <a href="{{ site.baseurl }}/crowdheritage">
                   <h3>CrowdHeritage</h3>
                   <p>

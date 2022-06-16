@@ -42,7 +42,7 @@ permalink: /aboutus
                 <img class="thumb" src="{{ site.baseurl }}/assets/img/tzouvaras.png">
               </div>
               <div class="text">
-                <h3>Kasey Taylor</h3>
+                <h3>Vassilis Tzouvaras</h3>
                 <p>Co-Founder &amp; Data Engineer</p>
               </div>
             </a>
@@ -52,7 +52,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="{{ site.baseurl }}/assets/img/kaldeli.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/kaldeli.jpg">
               </div>
               <div class="text">
                 <h3>Eirini Kaldeli</h3>
@@ -94,7 +94,7 @@ permalink: /aboutus
                 <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-5.png">
               </div>
               <div class="text">
-                <h3>Spyros Mpekiaris</h3>
+                <h3>Spyros Bekiaris</h3>
                 <p>Software Engineer and Developer</p>
               </div>
             </a>
@@ -130,7 +130,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="{{ site.baseurl }}/assets/img/kaldeli.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-2.png">
               </div>
               <div class="text">
                 <h3>Orfeas Menis-Mastromichalakis</h3>
@@ -165,7 +165,7 @@ permalink: /aboutus
           and drive <span class="green">new value</span> for your organization
         </h2>
         <p>
-          We are a group of  researchers,  software developers, ontology engineers,  
+          We are a group of  researchers,  software developers, ontology engineers,
           and Artificial Intelligence experts with
           long experience on applying cutting-edge research findings and technology on real-world applications.
           <!-- working with standards and have contributed in the RDF,
