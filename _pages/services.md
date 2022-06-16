@@ -61,7 +61,7 @@ permalink: /services
               <div class="wrap"><span class="title">LINKED DATA INTEGRATION </span><span class="num">02</span></div>
               <div class="text">
                 <p>
-                  Leveraging many years of experience in machine learning and infromation extraction, Datoptron offers situation-appopriate solutions for making data uniform and interoperable. We use Natural Language Process, named entity extraction and pattern matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.
+                  Leveraging many years of experience in machine learning and infromation extraction, Datoptron offers situation-appopriate solutions for making data uniform and interoperable. We use Natural Language Process, named entity extraction, and pattern matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.
                 </p>
                 <!--<a href="{{ site.baseurl }}/sage"></a>-->
               </div>
@@ -71,7 +71,7 @@ permalink: /services
               <div class="wrap"> <span class="title">LINKED DATA PUBLICATION </span><span class="num">03</span></div>
               <div class="text">
                 <p>
-                  How can you unearth the knowledge underlying the data, identify hidden patterns, and discover what you are looking for? Datoptron's expertise in both relational and graph databases ensures that the right approach for storing and quering your data will be followed. From federated search and SPAQL endpoints to indexing strategies and search engine optimisation, we adopt the approach that best fits your application's queries.
+                  How can you unearth the knowledge underlying the data, identify hidden patterns, and discover what you are looking for? Datoptron's expertise in both relational and graph databases ensures that the appropriate approach for storing and quering your data will be followed. From federated search and SPARQL endpoints to indexing strategies and search engine optimisation, we adopt the approach that best fits your application's queries.
                 </p>
                 <!--<a href="{{ site.baseurl }}/stirdata">Learn More</a>-->
               </div>
@@ -81,7 +81,7 @@ permalink: /services
               <div class="wrap"><span class="title">PLATFORM DEVELOPMENT </span><span class="num">04</span></div>
               <div class="text">
                 <p>
-                  Our platform development expertise makes sure that the capabilities enabled by the state-of-the-art data technologies are served to the end user  in a functional and appealing way. We build on well-defined Application Programming Interfaces  and deliver user-griendly interfaces using latest frontend frameworks and UX design best practices. We develop platforms for streanlinging organsational procedures as well as platforms for citizens' and customers' engagement.
+                  Our platform development expertise makes sure that the capabilities enabled by  state-of-the-art data technologies are served to the end user  in a functional and appealing way. We build on well-defined Application Programming Interfaces  and deliver user-griendly interfaces using latest frontend frameworks and UX design best practices. We develop platforms for streanlinging organsational procedures as well as platforms for citizens' and customers' engagement.
                 </p>
                 <!--<a href="{{ site.baseurl }}/crowdheritage">Learn More</a>-->
               </div>
