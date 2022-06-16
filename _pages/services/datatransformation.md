@@ -1,7 +1,7 @@
 ---
 title: Data Transformation
 layout: default
-permalink: /datatransformation
+permalink: /services/datatransformation
 ---
 <main role="main">
   <!-- grid-->

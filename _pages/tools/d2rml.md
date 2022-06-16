@@ -23,10 +23,10 @@ bodyClass: tools
             <div class="lbl">DOMAIN KNOWLEDGE</div>
             <ul>
               <li>
-                <a href="{{ site.baseurl }}/datatransformation">Data Transformation</a>
+                <a href="{{ site.baseurl }}/services/datatransformation">Data Transformation</a>
               </li>
               <li>
-                <a href="{{ site.baseurl }}/datatransformation">Linked Data Integration</a>
+                <a href="{{ site.baseurl }}/services/datatransformation">Linked Data Integration</a>
               </li>
             </ul>
           </div>

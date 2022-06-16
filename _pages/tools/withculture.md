@@ -22,7 +22,7 @@ bodyClass: tools platform
               <!-- label-->
               <div class="lbl">DOMAIN KNOWLEDGE</div>
               <ul>
-                <!--<li><a href="{{ site.baseurl }}/datatransformation">Platform Development</a></li>-->
+                <!--<li><a href="{{ site.baseurl }}/services/datatransformation">Platform Development</a></li>-->
                 <li>Platform Development</li>
                 <li>Linked Data Integration</li>
                 <li>User Engagement</li>
