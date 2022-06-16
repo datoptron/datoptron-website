@@ -1,0 +1,46 @@
+<!-- Card -->
+<div class="profile">
+  <a href="" data-bs-toggle="modal" data-bs-target="#{{ include.modalId }}">
+    <div class="wrap">
+      <img class="thumb" src="{{ site.baseurl }}{{ include.image }}">
+    </div>
+    <div class="text">
+      <h3>{{ include.name }}</h3>
+      <p>{{ include.role }}</p>
+    </div>
+  </a>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="{{ include.modalId }}" data-bs-keyboard="true" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg">
+    <div class="modal-content">
+      <button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <div class="modal-body">
+        <div class="row modal-users">
+          <div class="col-xl-4 left col-lg-4 col-md-12">
+            <div class="wrap">
+              <img class="thumb" src="{{ site.baseurl }}{{ include.image }}">
+            </div>
+            <a class="contact" href="{{ include.linkedin }}" target="_blank">
+              Linkedin Profile
+            </a>
+          </div>
+          <div class="col-xl-8 right col-lg-8 col-md-12">
+            <h2>
+              {{ include.name }}
+            </h2>
+            <div class="designate">
+              {{ include.role }}
+            </div>
+            <p>
+              {{ include.description }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

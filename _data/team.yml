@@ -1,0 +1,62 @@
+- image: /assets/img/team/tzouvaras.webp
+  name: Vassilis Tzouvaras
+  role: Co-Founder & Data Engineer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/vassilis-tzouvaras-4052601/
+  modalId: tzouvaras-modal
+
+- image: /assets/img/team/kaldeli.webp
+  name: Eirini Kaldeli
+  role: Co-Founder & AI Engineer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/eirini-kaldeli-22a0956/
+  modalId: kaldeli-modal
+
+- image: /assets/img/team/img-user.webp
+  name: Alexandros Chortaras
+  role: Co-Founder & AI Engineer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/alexandros-chortaras-01ab8679/
+  modalId: chortaras-modal
+
+- image: /assets/img/team/img-user-4.webp
+  name: Arne Stabenau
+  role: Senior Software Engineer and Developer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/arne-stabenau/
+  modalId: stabenau-modal
+
+- image: /assets/img/team/img-user-5.webp
+  name: Spyros Bekiaris
+  role: Mid Software Engineer & Frontend Developer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/spyros-bekiaris-743644230/
+  modalId: bekiaris-modal
+
+- image: /assets/img/team/img-user-6.webp
+  name: Apostolis Karageorgopoulos
+  role: Software Developer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
+  modalId: karageorgopoulos-modal
+
+- image: /assets/img/team/img-user-1.webp
+  name: Panagiotis Tzortzis
+  role: Software Engineer and Developer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/panagiotis-tzortzis/
+  modalId: tzortzis-modal
+
+- image: /assets/img/team/img-user-2.webp
+  name: Orfeas Menis-Mastromichalakis
+  role: AI Researcher (PhD candidate)
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/orfeasmenis/
+  modalId: menis-modal
+
+- image: /assets/img/team/img-user-3.webp
+  name: Anna Christaki
+  role: Senior Software Engineer and Developer
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  linkedin: https://www.linkedin.com/in/anna-christaki-5450016/
+  modalId: christaki-modal
