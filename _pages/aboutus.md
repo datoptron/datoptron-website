@@ -65,7 +65,7 @@ permalink: /aboutus
           <div class="profile">
             <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
               <div class="wrap">
-                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-3.png">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user.png">
               </div>
               <div class="text">
                 <h3>Alexandros Chortaras</h3>
