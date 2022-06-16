@@ -11,8 +11,7 @@ permalink: /tools
       <div class="wrap">
         <h1>Tools &amp; <span class="green">Platforms</span></h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud.
-        </p>
+            Datoptron brings from the lab to the market cutting-edge technological innovations for the organisation, analysis, enrichment, and creative use of data. </p>
       </div>
     </div>
   </section>
@@ -30,7 +29,7 @@ permalink: /tools
             <!-- heads-->
             <h2>Datoptron <i>Tools</i></h2>
             <p>
-               Datoptron has developed and offers a number of methods and associated tools that can streamline and facilitate various stages of the data workflow, from the aggregation and transformation into apprpriate formats to their enrichment and further analysis to extract useful knowledge. 
+               Datoptron offers a number of methods and associated tools that can streamline and facilitate various stages of the data workflow, from their aggregation and transformation into apprpriate formats to their enrichment and further analysis to extract useful knowledge. 
             </p>
           </div>
           <!-- character-->
@@ -98,7 +97,7 @@ permalink: /tools
             <!-- heads-->
             <h2>Datoptron <span class="green">Platforms</span></h2>
             <p>
-              Datoptron has developed and offers a number of user-friendly platforms which allow users to navigate and visualise complex data, submit advanced queries to gain useful insights, and engage in interactive workflows to advance existing knowledge bases with their own contributions.
+              Datoptron offers a number of user-friendly platforms which allow users to navigate and visualise complex data, submit advanced queries to gain useful insights, and engage in interactive workflows to advance existing knowledge bases with their own contributions.
             </p>
           </div>
           <!-- character-->
