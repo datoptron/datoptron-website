@@ -82,7 +82,7 @@ bodyClass: tools
           <p>-->
           MINT handles metadata records from the content provider's delivery up to the aggregation repository(-ies), publication mechanism(s) and front-end(s). It makes data interoperable  through the use of well-defined metadata models and the alignment of the providers' records with certain requirements and schemata. MINT uses a visual mapping editor for the XSL language to implement crosswalks to the reference metadata model. It is being used by a growing number of providers that align proprietary data structures to a variety of standard or aggregation- specific models and in that way establish and maintain interoperability with other providers and Europeana. 
           </p>
-          <h3>Key functionalities include:</h3>
+         <!-- <h3>Key functionalities include:</h3>
           <ul>
   <li>Organization and user level access rights and role assignment.</li>
   <li>Collection and record management (XML serialisation).</li>
@@ -91,12 +91,12 @@ bodyClass: tools
   <li>Visual mapping editor for the XSLT language.</li>
   <li>Transformation and previewing (XML and HTML).</li>
   <li>Repository deployment and remediation interfaces.</li>
-</ul>
+</ul>-->
           <p>
           <!-- oval-->
           <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mintInterface.png">
           </p>
-        <!--> <h3>MINT Technical Specifications </h3>
+        <!-- <h3>MINT Technical Specifications </h3>
           <p>
             MINT handles metadata records from the content provider's delivery up to the aggregation repository(-ies), publication mechanism(s) and front-end(s). 
 It is written in JAVA, JSP, HTML and Javascript. It uses PostgreSQL as an object-relational database with Hibernate as the data persistence framework, and mongoDB as a document-oriented database. MINT is also reusing other open source development frameworks and libraries according to specific deployments and customizations. Mint source code versions (usually project-based) are released under a free software license (GNU Affero GPL). 
