@@ -19,8 +19,7 @@ permalink: /services
             <h2>
                What is <span class="green">Datoptron </span>doing</h2>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-            </p>
+          Datoptron brings from the lab to the market cutting-edge technological innovations for the organisation, analysis, enrichment, and creative use of data. </p>
           </div>
           <!-- character-->
           <img class="character" src="{{ site.baseurl }}/assets/img/img-character-5.png">
@@ -30,11 +29,16 @@ permalink: /services
               <!-- oval-->
               <img class="oval" src="{{ site.baseurl }}/assets/img/ic-oval-6.png">
               <!-- text-->
-              <h2>Successful Data Strategy</h2>
+              <!--<h2>Successful Data Strategy</h2>
               <p>
                 Discover how Datoptron can help organisation to enhance the value of their data and become partner in their data journey.
               </p>
-              <a href="#">Learn More</a>
+              <a href="#">Learn More</a>-->
+              <h2>Datoptron tools and platforms</h2>
+              <p>
+               Datoptron has developed and offers a number of tools and platforms that can streamline and facilitate various stages of the data workflow, from the aggregation, documentation, and semantic linking of data until their presentation, utilisation, and interaction with target users.
+              </p>
+              <!--<a href="{{ site.baseurl }}/tools"></a>-->
             </div>
           </div>
         </div>
@@ -49,7 +53,7 @@ permalink: /services
                 <p>
                   Analysing information requires structured and accessible data for best results. Data transformation procedures enable organisations to adapt the representation and format of raw data and structure them depending on their needs. Datoptron sets in place well-defined and customisable procedures for mapping between different schemata.
                 </p>
-                <a href="{{ site.baseurl }}/datatransformation">Learn More</a>
+                <!--<a href="{{ site.baseurl }}/mint">Learn More</a>-->
               </div>
             </li>
             <!-- li-->
@@ -59,7 +63,7 @@ permalink: /services
                 <p>
                   Leveraging many years of experience in machine learning and infromation extraction, Datoptron offers situation-appopriate solutions for making data uniform and interoperable. We use Natural Language Process, named entity extraction and pattern matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.
                 </p>
-                <a href="#">Learn More</a>
+                <!--<a href="{{ site.baseurl }}/sage"></a>-->
               </div>
             </li>
             <!-- li-->
@@ -69,7 +73,7 @@ permalink: /services
                 <p>
                   How can you unearth the knowledge underlying the data, identify hidden patterns, and discover what you are looking for? Datoptron's expertise in both relational and graph databases ensures that the right approach for storing and quering your data will be followed. From federated search and SPAQL endpoints to indexing strategies and search engine optimisation, we adopt the approach that best fits your application's queries.
                 </p>
-                <a href="#">Learn More</a>
+                <!--<a href="{{ site.baseurl }}/stirdata">Learn More</a>-->
               </div>
             </li>
             <!-- li-->
@@ -79,7 +83,7 @@ permalink: /services
                 <p>
                   Our platform development expertise makes sure that the capabilities enabled by the state-of-the-art data technologies are served to the end user  in a functional and appealing way. We build on well-defined Application Programming Interfaces  and deliver user-griendly interfaces using latest frontend frameworks and UX design best practices. We develop platforms for streanlinging organsational procedures as well as platforms for citizens' and customers' engagement.
                 </p>
-                <a href="#">Learn More</a>
+                <!--<a href="{{ site.baseurl }}/crowdheritage">Learn More</a>-->
               </div>
             </li>
             <!-- li-->
@@ -89,7 +93,7 @@ permalink: /services
                 <p>
                   We combine the power of state-of-the-art Artificial Intelligence tools with experts’ and crowd human intelligence for achieving high quality results and for maximising engagement.  We organise crowdsourcing campaigns and exploit human feedback to gain helful insights, fine-tune and improve the automatic processes as well as to constructfully involve various audiences.
                 </p>
-                <a href="#">Learn More</a>
+                <!--<a href="{{ site.baseurl }}/d2rml">Learn More</a>-->
               </div>
             </li>
             <!-- li-->
@@ -114,7 +118,10 @@ permalink: /services
       <div class="text">
         <h2>Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization</h2>
         <p>
-          We are a group of talented people including researchers, project managers, software developers, ontology engineers and machine learning experts with long experience working with standards and have contributed in the RDF, OWL and SKOS Working Groups of W3C.
+            We are a group of talented people including researchers, 
+          software developers, ontology engineers and machine learning experts with
+          long experience on applying cutting-edge research findings and technology on real-world applications.
+          <!--We are a group of talented people including researchers, software developers, ontology engineers, and machine learning experts with a long experience working with standards, having contributed in the RDF, OWL and SKOS Working Groups of W3C.-->
         </p>
         <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>

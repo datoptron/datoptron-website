@@ -30,7 +30,7 @@ permalink: /tools
             <!-- heads-->
             <h2>Datoptron <i>Tools</i></h2>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+               Datoptron has developed and offers a number of methods and associated tools that can streamline and facilitate various stages of the data workflow, from the aggregation and transformation into apprpriate formats to their enrichment and further analysis to extract useful knowledge. 
             </p>
           </div>
           <!-- character-->
@@ -47,7 +47,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/mint">
                   <h3>MINT</h3>
                   <p>
-                    Metadata Interoperability Platform aims to systematise and spread knowledge about participatory projects in the field of cultural heritage and beyond.
+                    The Metadata Interoperability Platform aims to systematise and spread knowledge about participatory projects in the field of cultural heritage and beyond.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/mint">Learn More</a>
@@ -60,7 +60,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/sage">
                   <h3>SAGE</h3>
                   <p>
-                    SAGE is a semantic enrichment and validation platform developed by the datoptron.
+                    SAGE is a web-based tool for generating, enriching, publishing and searching data organised as a knowledge graph.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/sage">Learn More</a>
@@ -73,7 +73,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/d2rml">
                   <h3>D2RML</h3>
                   <p>
-                    Language for creating RDF datasets from heterogeneous datasets. The main mechanism of obtaining RDF data from a dataset is a mapping.
+                    D2RML is a language for creating RDF datasets from heterogeneous datasets. The main mechanism of obtaining RDF data from a dataset is a mapping.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/d2rml">Learn More</a>
@@ -98,7 +98,7 @@ permalink: /tools
             <!-- heads-->
             <h2>Datoptron <span class="green">Platforms</span></h2>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              Datoptron has developed and offers a number of user-friendly platforms which allow users to navigate and visualise complex data, submit advanced queries to gain useful insights, and engage in interactive workflows to advance existing knowledge bases with their own contributions.
             </p>
           </div>
           <!-- character-->
@@ -115,7 +115,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/crowdheritage">
                   <h3>Crowdheritage</h3>
                   <p>
-                    CrowdHeritage is an open platform where cultural heritage institutions can share their collections’ metadata that need a fix or enrichment.
+                    CrowdHeritage is an open online platform for conducting crowdsourcing campaigns in order to enrich and validate the metadata of cultural heritage collections.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/crowdheritage">Learn More</a>
@@ -141,7 +141,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/withculture">
                   <h3>STIRData</h3>
                   <p>
-                    STIRData Project proposes the use of Linked Data and semantic technologies as the means to overcome the technical barriers that hamper the reuse of open data.
+                    STIRData employs Linked Data and semantic technologies to overcome the technical barriers that hamper the reuse of open data.
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/withculture">Learn More</a>
@@ -159,7 +159,11 @@ permalink: /tools
       <div class="text">
         <h2>Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization</h2>
         <p>
-          We are a group of talented people including researchers, project managers, software developers, ontology engineers and machine learning experts with long experience working with standards and have contributed in the RDF, OWL and SKOS Working Groups of W3C. </p>
+            We are a group of talented people including researchers, 
+          software developers, ontology engineers and machine learning experts with
+          long experience on applying cutting-edge research findings and technology on real-world applications.
+          <!--We are a group of talented people including researchers, software developers, ontology engineers, and machine learning experts with a long experience working with standards, having contributed in the RDF, OWL and SKOS Working Groups of W3C.-->
+        </p>
         <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
       <!-- character-->

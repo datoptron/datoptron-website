@@ -43,7 +43,7 @@ permalink: /aboutus
               </div>
               <div class="text">
                 <h3>Kasey Taylor</h3>
-                <p>Co-Founder &amp; Software Engineer and CEO</p>
+                <p>Co-Founder &amp; Data Engineer</p>
               </div>
             </a>
           </div>
@@ -56,7 +56,7 @@ permalink: /aboutus
               </div>
               <div class="text">
                 <h3>Eirini Kaldeli</h3>
-                <p>Co-Founder &amp; Software Engineer and COO</p>
+                <p>Co-Founder &amp; AI Engineer</p>
               </div>
             </a>
           </div>
@@ -69,7 +69,7 @@ permalink: /aboutus
               </div>
               <div class="text">
                 <h3>Alexandros Chortaras</h3>
-                <p>Co-Founder &amp; Data Engineer and CTO</p>
+                <p>Co-Founder &amp; AI Engineer</p>
               </div>
             </a>
           </div>
@@ -81,8 +81,8 @@ permalink: /aboutus
                 <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-4.png">
               </div>
               <div class="text">
-                <h3>Norm Duff</h3>
-                <p>Senior Data Engineer</p>
+                <h3>Arne Stabenau</h3>
+                <p>Senior Software Engineer and Developer</p>
               </div>
             </a>
           </div>
@@ -94,8 +94,8 @@ permalink: /aboutus
                 <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-5.png">
               </div>
               <div class="text">
-                <h3>Blair Marvyn</h3>
-                <p>AI/ML Engineer</p>
+                <h3>Spyros Mpekiaris</h3>
+                <p>Software Engineer and Developer</p>
               </div>
             </a>
           </div>
@@ -107,8 +107,47 @@ permalink: /aboutus
                 <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-6.png">
               </div>
               <div class="text">
-                <h3>Sydney Edric</h3>
-                <p>AI/ML Engineer</p>
+                <h3>Apostolis Karageorgopoulos</h3>
+                <p>Software Developer</p>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+          <div class="profile">
+            <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
+              <div class="wrap">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-1.png">
+              </div>
+              <div class="text">
+                <h3>Panagiotis Tzortzis</h3>
+                <p>Software Developer</p>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+          <div class="profile">
+            <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
+              <div class="wrap">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/kaldeli.png">
+              </div>
+              <div class="text">
+                <h3>Orfeas Menis-Mastromichalakis</h3>
+                <p>AI Researcher (PhD candidate)</p>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+          <div class="profile">
+            <a href="https://www.linkedin.com/in/vassilis-tzouvaras-4052601/" target="_blank">
+              <div class="wrap">
+                <img class="thumb" src="{{ site.baseurl }}/assets/img/img-user-3.png">
+              </div>
+              <div class="text">
+                <h3>Anna Christaki</h3>
+                <p>Senior Software Developer</p>
               </div>
             </a>
           </div>

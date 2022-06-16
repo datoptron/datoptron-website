@@ -54,10 +54,8 @@ bodyClass: tools
           <img class="testi" src="{{ site.baseurl }}/assets/img/ic-testimonial.png">
           <!-- footnote-->
           <p class="footnote">
-            Since 2015, Datoptron has participated in 15+ projects for the count of the
-            Service Centre de Législation (SCL) and the Chancellerie Fédérale Suisse (ChF)
-            aimed at describing, organizing and publishing legislative data in a meaningful
-            way to be easily interpreted by humans and machines alike
+           The team of Datoptron's researchers and developers has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, neural networks, and multimedia content as well as with their extensive collaborative, coordinating, and administrative experience. The Datoptron team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of cultural heritage organisations and public administration bodies.
+            <!-- The team of Datoptron's researchers and developers has participated in more than 30 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.-->
           </p>
           <!-- banner-->
           <div class="banner-wrap">
@@ -127,11 +125,11 @@ bodyClass: tools
         <h2>
           Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization
         </h2>
-        <p>
-          We are a group of talented people including researchers, project managers,
+         <p>
+            We are a group of talented people including researchers, 
           software developers, ontology engineers and machine learning experts with
-          long experience working with standards and have contributed in the RDF, OWL
-          and SKOS Working Groups of W3C.
+          long experience on applying cutting-edge research findings and technology on real-world applications.
+          <!--We are a group of talented people including researchers, software developers, ontology engineers, and machine learning experts with a long experience working with standards, having contributed in the RDF, OWL and SKOS Working Groups of W3C.-->
         </p>
         <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>

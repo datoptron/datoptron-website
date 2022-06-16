@@ -17,7 +17,7 @@ permalink: /
         <p>
           Datoptron is a spinoff company of the National Technical University of
           Athens in the area of Artificial Intelligence. We leverage 20 years
-          experience in Semantic Technologies, Machine Learning and Crowdsourcing.
+          experience in Semantic Technologies, Machine Learning, and Crowdsourcing.
         </p>
         <a href="{{ site.baseurl }}/aboutus">Learn More</a>
       </div>
@@ -90,7 +90,7 @@ permalink: /
           <!-- character-->
           <img class="character" src="{{ site.baseurl }}/assets/img/img-character-2.png">
           <h2>Datoptron <span class="green">Tools</span></h2>
-          <p>Leveraging the experience of 20 years working in the fields of Semantic Technologies and Machine Learning and the participation in more than 30 R&D European funded projects, Datoptron has developed a number of tools.</p>
+          <p>Leveraging the experience of 20 years working in the fields of Semantic Technologies and Machine Learning and the participation in more than 30 R&D European-funded projects, Datoptron has developed a number of tools.</p>
           <!-- navigation-->
           <a href="{{ site.baseurl }}/tools">View More</a>
         </div>
@@ -127,7 +127,6 @@ permalink: /
                 <div class="text">
                   <h3>D2RML </h3>
                   <p> Is a mapping language, developed inhouse, and is used to traasnform any kind of data to RDF. D2RML has been used in many European R&D projects that work with Linked Data technologies.
-                    
                   </p>
                 </div>
               </a>
@@ -155,7 +154,7 @@ permalink: /
       <div class="text">
         <h2>Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization</h2>
         <p>
-          We are a group of talented people including researchers, project managers, software developers,
+          We are a group of talented people including researchers, software developers,
           ontology engineers and machine learning experts with long experience working with standards.
       
         </p>
