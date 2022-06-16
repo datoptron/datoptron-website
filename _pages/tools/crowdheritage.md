@@ -1,7 +1,7 @@
 ---
 title: CrowdHeritage
 layout: default
-permalink: /crowdheritage
+permalink: /tools/crowdheritage
 logoSrc: /assets/img/ic-logo-white-alt.png
 bodyClass: tools platform
 ---
@@ -36,7 +36,7 @@ bodyClass: tools platform
               CrowdHeritage is an online platform for conducting  crowdsourcing campaigns that aim to improve the quality of cultural heritage metadata. Through a user friendly interface which supports playful features such as leaderboards and rewards, users are invited to enrich CH metadata with new annotations or to validate (up- or down-vote) existing ones  produced either automatically by AI-driven tools or added by other users of the platform.
               <!--The scope of the platform is to use the power of the crowd in order to improve the metadata quality of digital cultural heritage content stored in <a href="https://www.europeana.eu/en" target="_blank">Europeana</a>, the European portal for cultural heritage, and in the databases of cultural heritage institutions across Europe.-->
             </p>
-            
+
             <a href="https://crowdheritage.eu">Visit the platform</a>
           </div>
         </div>
@@ -82,10 +82,10 @@ bodyClass: tools platform
               The lack of granular and rich descriptive metadata highly affects the searchability and usability of the digital content stored in museums, libraries and archives and on Europeana, thus often frustrating the user experience on these institutions’ portals. In this context, crowdsourcing can offer a great opportunity for improving the metadata quality of digital cultural content in a scalable way, while at the same time engaging different user communities - from students and educators to culture lovers and citizens at large- and raising awareness about cultural heritage assets.
             </p>
             <p>
-              The platform offers the possibility to cultural heritage institutions and aggregators to design and launch ad-hoc crowdsourcing campaigns for metadata quality improvement with gamification elements and verifiable results. The CrowdHeritage platform can be used in combination with AI tools that perform automatic enrichment, such as color extraction, image tagging, and automated translation. By combining human with machine inteligence we can achieve high-quality metadata at scale with minimum effort and cost. 
+              The platform offers the possibility to cultural heritage institutions and aggregators to design and launch ad-hoc crowdsourcing campaigns for metadata quality improvement with gamification elements and verifiable results. The CrowdHeritage platform can be used in combination with AI tools that perform automatic enrichment, such as color extraction, image tagging, and automated translation. By combining human with machine inteligence we can achieve high-quality metadata at scale with minimum effort and cost.
             </p>
             <p>
-             The platform has been used to organise 28 successful crowdsourcing campaigns with more than 450 contributors, generating around 78.000 annotations and 220.000 validations, enriching more than 17.000 cultural heritage items and publishing more than 50.000 annotations to Europeana. 
+             The platform has been used to organise 28 successful crowdsourcing campaigns with more than 450 contributors, generating around 78.000 annotations and 220.000 validations, enriching more than 17.000 cultural heritage items and publishing more than 50.000 annotations to Europeana.
               <!--CrowdHeritage is an open-source platform that integrates and supports the Europeana APIs and several other available APIs from cultural institutions across the world, like the Rijksmuseum and the Digital Public Library of America). The Crowdheritage platform has been developed by the <a href="https://www.ails.ece.ntua.gr/" target="_blank">National Technical University of Athens</a> in collaboration with the <a href="https://fashionheritage.eu/" target="_blank">European Fashion Heritage Association</a>, the <a href="http://www.michael-culture.eu/" target="_blank">MICHAEL Culture Association</a>, the <a href="https://www.culture.gouv.fr/en/" target="_blank">Ministry of Culture of France</a> and the <a href="https://pro.europeana.eu/organisation/europeana-foundation" target="_blank">Europeana Foundation</a>.-->
             </p>
           <!-- oval-->
@@ -104,7 +104,7 @@ bodyClass: tools platform
           Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization
         </h2>
         <p>
-          We are a group of talented people including researchers, 
+          We are a group of talented people including researchers,
           software developers, ontology engineers and machine learning experts with
           long experience on applying cutting-edge research findings and technology on real-world applications.
         </p>

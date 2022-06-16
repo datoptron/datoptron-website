@@ -53,7 +53,7 @@ permalink: /services
                 <p>
                   Analysing information requires structured and accessible data for best results. Data transformation procedures enable organisations to adapt the representation and format of raw data and structure them depending on their needs. Datoptron sets in place well-defined and customisable procedures for mapping between different schemata.
                 </p>
-                <!--<a href="{{ site.baseurl }}/mint">Learn More</a>-->
+                <!--<a href="{{ site.baseurl }}/tools/mint">Learn More</a>-->
               </div>
             </li>
             <!-- li-->
@@ -63,7 +63,7 @@ permalink: /services
                 <p>
                   Leveraging many years of experience in machine learning and infromation extraction, Datoptron offers situation-appopriate solutions for making data uniform and interoperable. We use Natural Language Process, named entity extraction, and pattern matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.
                 </p>
-                <!--<a href="{{ site.baseurl }}/sage"></a>-->
+                <!--<a href="{{ site.baseurl }}/tools/sage"></a>-->
               </div>
             </li>
             <!-- li-->
@@ -73,7 +73,7 @@ permalink: /services
                 <p>
                   How can you unearth the knowledge underlying the data, identify hidden patterns, and discover what you are looking for? Datoptron's expertise in both relational and graph databases ensures that the appropriate approach for storing and quering your data will be followed. From federated search and SPARQL endpoints to indexing strategies and search engine optimisation, we adopt the approach that best fits your application's queries.
                 </p>
-                <!--<a href="{{ site.baseurl }}/stirdata">Learn More</a>-->
+                <!--<a href="{{ site.baseurl }}/tools/stirdata">Learn More</a>-->
               </div>
             </li>
             <!-- li-->
@@ -83,7 +83,7 @@ permalink: /services
                 <p>
                   Our platform development expertise makes sure that the capabilities enabled by  state-of-the-art data technologies are served to the end user  in a functional and appealing way. We build on well-defined Application Programming Interfaces  and deliver user-griendly interfaces using latest frontend frameworks and UX design best practices. We develop platforms for streanlinging organsational procedures as well as platforms for citizens' and customers' engagement.
                 </p>
-                <!--<a href="{{ site.baseurl }}/crowdheritage">Learn More</a>-->
+                <!--<a href="{{ site.baseurl }}/tools/crowdheritage">Learn More</a>-->
               </div>
             </li>
             <!-- li-->
@@ -93,7 +93,7 @@ permalink: /services
                 <p>
                   We combine the power of state-of-the-art Artificial Intelligence tools with experts’ and crowd human intelligence for achieving high quality results and for maximising engagement.  We organise crowdsourcing campaigns and exploit human feedback to gain helful insights, fine-tune and improve the automatic processes as well as to constructfully involve various audiences.
                 </p>
-                <!--<a href="{{ site.baseurl }}/d2rml">Learn More</a>-->
+                <!--<a href="{{ site.baseurl }}/tools/d2rml">Learn More</a>-->
               </div>
             </li>
             <!-- li-->

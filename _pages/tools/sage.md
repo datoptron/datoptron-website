@@ -1,7 +1,7 @@
 ---
 title: Tools &amp; Projects
 layout: default
-permalink: /sage
+permalink: /tools/sage
 logoSrc: /assets/img/ic-logo-white.png
 bodyClass: tools
 ---
@@ -86,16 +86,16 @@ bodyClass: tools
 		  Imported data can be published in multiple RDF stores and indexed. Currently, SAGE supports the OpenLink Virtuoso and Blazegraph RDF stores. Publicly published datasets and catalogs can be individually searched, accessed through dedicated SPARQL endpoints and browsed using an embedded LodView viewer.
           </p>
           <p>
-		  Through SAGE, selected parts of published datasets can also be annotated and enriched by invoking relevant external API services. Such services include e.g. tools linking data to relevant Wikidata, DBPedia, Geonames and other resources, or tools that detect occurrences of vocabulary terms in the data. Built-in support for NERD (named entity recognition and disambiguation), SKOS vocabulary lookup, and SPARQL query annotators is provided. The enrichments, which are modelled using the W3C annotation model, can then be manually validated through an integrated validation subsystem that allows bulk validations through text grouping and text frequency sorting, assignment of validation tasks to multiple users, and close monitoring of the overall validation process. 
+		  Through SAGE, selected parts of published datasets can also be annotated and enriched by invoking relevant external API services. Such services include e.g. tools linking data to relevant Wikidata, DBPedia, Geonames and other resources, or tools that detect occurrences of vocabulary terms in the data. Built-in support for NERD (named entity recognition and disambiguation), SKOS vocabulary lookup, and SPARQL query annotators is provided. The enrichments, which are modelled using the W3C annotation model, can then be manually validated through an integrated validation subsystem that allows bulk validations through text grouping and text frequency sorting, assignment of validation tasks to multiple users, and close monitoring of the overall validation process.
           </p>
-        
+
           <p>
             SAGE has been used in several projects, including STIRData, where it has been used to transform into a common RDF model and publish as linked data millions of company data entries from several European business registries, and Europeana XX where it has been for the automatic enrichment and validation of hundreds of thousands of cultural item records.
           </p>
-<!--		  
+<!--
           <h3>Benefits</h3>
           <p>
-            The platform allows cultural heritage institutions to: 
+            The platform allows cultural heritage institutions to:
           </p>
           <p>
             Integrate different types of data from multiple sources into a single Resource Description Framework (RDF) record or collection.
@@ -109,10 +109,10 @@ bodyClass: tools
           <p>
             SAGE is an open-source platform under the Apache Licence 2.0. More details and link to the source code will be made publicly available upon completion of the Europeana XX: Century of Change project.
           </p>
--->		  
+-->
           <!-- oval-->
           <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tool_sage.png">
-          
+
         </div>
       </div>
     </div>
@@ -126,7 +126,7 @@ bodyClass: tools
           Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization
         </h2>
          <p>
-            We are a group of talented people including researchers, 
+            We are a group of talented people including researchers,
           software developers, ontology engineers and machine learning experts with
           long experience on applying cutting-edge research findings and technology on real-world applications.
           <!--We are a group of talented people including researchers, software developers, ontology engineers, and machine learning experts with a long experience working with standards, having contributed in the RDF, OWL and SKOS Working Groups of W3C.-->

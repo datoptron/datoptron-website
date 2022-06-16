@@ -101,7 +101,7 @@ permalink: /
           <!-- ul-->
           <ul>
             <li>
-              <a href="{{ site.baseurl }}/mint">
+              <a href="{{ site.baseurl }}/tools/mint">
                 <img src="{{ site.baseurl }}/assets/img/ic-logo-with.png">
                 <div class="text">
                   <h3>MINT </h3>

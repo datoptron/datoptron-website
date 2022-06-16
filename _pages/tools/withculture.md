@@ -1,7 +1,7 @@
 ---
 title: Withculture
 layout: default
-permalink: /withculture
+permalink: /tools/withculture
 logoSrc: /assets/img/ic-logo-white-alt.png
 bodyClass: tools platform
 ---
@@ -79,7 +79,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           <p>
             Discover digital artifacts, exhibits and collections from museums and archives
             all around the world. Explore cultural treasures in extraordinary detail from
-            hidden gems to great masterpieces. Organise digital cultural items into 
+            hidden gems to great masterpieces. Organise digital cultural items into
              collections and unlock your creativity!
           </p>
           <h3>API mashup</h3>
@@ -110,7 +110,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           Discover how you can embrace your data, explore <span class="green">new insights </span>and drive <span class="green">new value </span>for your organization
         </h2>
          <p>
-          We are a group of talented people including researchers, 
+          We are a group of talented people including researchers,
           software developers, ontology engineers and machine learning experts with
           long experience on applying cutting-edge research findings and technology on real-world applications.
         </p>

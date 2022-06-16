@@ -1,7 +1,7 @@
 ---
 title: STIRData
 layout: default
-permalink: /stirdata
+permalink: /tools/stirdata
 ---
 <main role="main">
   <!-- call to action-->
@@ -14,7 +14,7 @@ permalink: /stirdata
           and drive <span class="green">new value</span> for your organization
         </h2>
           <p>
-            We are a group of talented people including researchers, 
+            We are a group of talented people including researchers,
           software developers, ontology engineers and machine learning experts with
           long experience on applying cutting-edge research findings and technology on real-world applications.
           <!--We are a group of talented people including researchers, software developers, ontology engineers, and machine learning experts with a long experience working with standards, having contributed in the RDF, OWL and SKOS Working Groups of W3C.-->

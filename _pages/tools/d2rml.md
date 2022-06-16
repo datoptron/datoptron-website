@@ -1,7 +1,7 @@
 ---
 title: Tools &amp; Projects
 layout: default
-permalink: /d2rml
+permalink: /tools/d2rml
 logoSrc: /assets/img/ic-logo-white.png
 bodyClass: tools
 ---
@@ -38,7 +38,7 @@ bodyClass: tools
           <p>
 		  D2RML is a data transformation language for transforming and combining diverse data into custom RDF datasets.
           </p>
-          <a href="https://apps.islab.ntua.gr/d2rml" target="_blank">Visit Project Site</a>
+          <a href="https://apps.islab.ntua.gr/tools/d2rml" target="_blank">Visit Project Site</a>
         </div>
       </div>
     </div>
@@ -95,12 +95,12 @@ The data elements extracted from the data sources are iterated over so that tran
           </p>
           <p>
 
-D2RML is complemented by the D2RML processor, the software that executes a D2RML document, orchestrates the communication, interaction and retrieval of the data from the sources, applies the data transformation rules and produces the final RDF data, that may be either serialized and written to files or inserted directly into a triple store. The D2RML processor has been designed to be scalable, can make use of data caching, and can seamlessly handle data sources providing millions of data elements. 
+D2RML is complemented by the D2RML processor, the software that executes a D2RML document, orchestrates the communication, interaction and retrieval of the data from the sources, applies the data transformation rules and produces the final RDF data, that may be either serialized and written to files or inserted directly into a triple store. The D2RML processor has been designed to be scalable, can make use of data caching, and can seamlessly handle data sources providing millions of data elements.
           </p>
 <!--
           <h3>Benefits</h3>
           <p>
-            The platform allows cultural heritage institutions to: 
+            The platform allows cultural heritage institutions to:
           </p>
           <p>
             Integrate different types of data from multiple sources into a single Resource Description Framework (RDF) record or collection.
@@ -116,10 +116,10 @@ D2RML is complemented by the D2RML processor, the software that executes a D2RML
 
 
           </p>
--->		  
+-->
           <!-- oval-->
           <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tool_d2rml.png">
-          
+
         </div>
       </div>
     </div>
