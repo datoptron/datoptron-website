@@ -4,7 +4,7 @@
 	// body
 	body {
 		main[role=main] {
-			
+
 		}
 	}
 }
@@ -16,7 +16,7 @@
 	body {
 		main[role=main] {
 
-		   
+
 		}
 	}
 }
@@ -28,7 +28,7 @@
 	body {
 		main[role=main] {
 
-		   
+
 		}
 	}
 }
@@ -36,18 +36,18 @@
 // `xxl` applies to x-large devices (large desktops, less than 1400px)
 @media (max-width: 1399.98px) {
 
-	
+
 
 	// body
 	body {
 		main[role=main] {
-			
+
 			// tools
 			section.tools {
 
 				// right
 				.right.platformlist, .right.toolslist {
-					
+
 					// row
 					.row {
 						.productwrap {
@@ -56,10 +56,10 @@
 					}
 				}
 			}
-		  
+
 		}
 	}
-	
+
 }
 
 // `xl` applies to large devices (desktops, less than 1200px)
@@ -275,13 +275,13 @@
 
 		// footer
 		footer {
-			
+
 			// top
 			.top {
 
 				// left
 				.left {
-					
+
 					ul.social {
 						border-bottom: 2px solid #565656;
 						padding-bottom: 50px;
@@ -291,7 +291,7 @@
 				// right
 				.right {
 					padding-top: 50px;
-					
+
 					nav {
 						.footernav {
 							width: 33.33%;
@@ -309,7 +309,7 @@
 			}
 		}
 
-	   
+
 	}
 }
 
@@ -395,7 +395,7 @@
 									border-radius: 0;
 									background: none;
 									padding: 14px 20px;
-									color: #fff;	
+									color: #fff;
 									&:hover {
 										background-color: lighten(#000,10%)
 									}
@@ -406,7 +406,7 @@
 										border-radius: 0 0 3px 3px;
 									}
 								}
-								
+
 							}
 						}
 					}
@@ -416,7 +416,19 @@
 
 		// main
 		main[ role="main" ] {
-
+			// footer
+			.modal {
+					// users list
+				.modal-users {
+					// left
+					.right {
+						padding-left: 0;
+					}
+					.left {
+						margin-bottom: 30px;
+					}
+				}
+			}
 			// home services
 			section.home-services {
 				// character
@@ -429,7 +441,7 @@
 					width: 65%;
 				}
 			}
-			
+
 			// home banner
 			section.home-banner {
 
@@ -461,7 +473,7 @@
 				&.service {
 					padding: 50px 0 30px 0
 				}
-				
+
 				// left
 				.left {
 					.character {
@@ -595,7 +607,7 @@
 				.wrap {
 					h1, p {
 						width: 100%;
-						
+
 					}
 					h1 {
 						font-size: 32px;
@@ -607,7 +619,7 @@
 			}
 
 			section.tools-detail {
-				
+
 				// banner
 				.banner-wrap {
 					display: none;
@@ -645,7 +657,7 @@
 			// services
 			.services {
 				padding-left: 0;
-				
+
 
 				// li
 				li {
@@ -656,7 +668,7 @@
 							width: 54%;
 						}
 					}
-					
+
 					// right
 					&.sideright {
 						&:last-child {
@@ -665,7 +677,7 @@
 								padding-bottom: 0;
 							}
 						}
-					}		
+					}
 				}
 			}
 
@@ -711,7 +723,7 @@
 
 				ul {
 					width: 100%;
-					
+
 					li {
 						.description {
 							padding-bottom: 30px;
@@ -729,12 +741,6 @@
 				}
 			}
 		}
-
-		// footer
-		footer {
-
-		   
-		}
 	}
 }
 
@@ -747,11 +753,11 @@
 		//padding-right: var(--bs-gutter-x,1.5rem);
 	}
 
-	
+
 	// body
 	body {
 
-		
+
 
 		main[role=main] {
 
@@ -766,10 +772,10 @@
 					width: 100%;
 				}
 			}
-		   
+
 			// home projects
 			section.home-projects {
-				
+
 				// left
 				.left {
 					p {
@@ -788,7 +794,7 @@
 
 				// right
 				.right.platformlist, .right.toolslist {
-					
+
 					// row
 					.row {
 						.productwrap {
@@ -826,7 +832,7 @@
 
 			// services
 			.services {
-				
+
 				// li
 				li {
 
@@ -846,7 +852,7 @@
 
 			section.twocolumns {
 
-				
+
 				&.privacy {
 					margin-bottom: 0;
 					.row {
@@ -863,8 +869,8 @@
 				}
 			}
 
-			
-			
+
+
 		}
 
 		// footer
@@ -882,7 +888,7 @@
 			}
 		}
 
-		
+
 	}
 }
 
@@ -895,7 +901,7 @@
 		padding-right: var(--bs-gutter-x,1.5rem);
 	}
 
-	// 
+	//
 	body {
 
 		// header
@@ -916,12 +922,12 @@
 				.testimonial {
 					padding: 30px 30px 20px 30px;
 				}
-				
+
 			}
 
 			// services
 			.services {
-				
+
 				// li
 				li {
 					margin-bottom: 10px;
@@ -1016,7 +1022,7 @@
 								img {
 									display: none;
 								}
-								
+
 							}
 							&::before {
 								display: none;
@@ -1038,7 +1044,7 @@
 					}
 				}
 			}
-		   
+
 		}
 
 		// footer
@@ -1059,10 +1065,3 @@
 		}
 	}
 }
-
-
-
-
-
-
-
