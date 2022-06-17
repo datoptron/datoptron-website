@@ -111,7 +111,7 @@ bodyClass: tools
           </p>
 -->
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tool_sage.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/tool_sage.webp">
 
         </div>
       </div>

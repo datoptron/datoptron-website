@@ -118,7 +118,7 @@ D2RML is complemented by the D2RML processor, the software that executes a D2RML
           </p>
 -->
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tool_d2rml.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/tool_d2rml.webp">
 
         </div>
       </div>

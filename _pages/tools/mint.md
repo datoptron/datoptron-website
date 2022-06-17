@@ -94,7 +94,7 @@ bodyClass: tools
 </ul>-->
           <p>
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mintInterface.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/mintInterface.webp">
           </p>
         <!-- <h3>MINT Technical Specifications </h3>
           <p>
@@ -118,7 +118,7 @@ The platform offers a user and organization management system that allows the de
 
           <!-- oval-->
 
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/mappingInterface.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/mappingInterface.webp">
           <p>
           Preview interfaces present the steps of the aggregation such as the current input xml record, the XSLT code of mappings, the transformed record in the target schema, subsequent transformations from the target schema to other models of interest (e.g. Europeana's metadata schema), and available html renderings of each xml record. Users can transform their selected collections using complete and validated mappings in order to publish them in available target schemas for the required aggregation and remediation steps.
            </p>

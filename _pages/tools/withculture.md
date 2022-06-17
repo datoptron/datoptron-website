@@ -40,7 +40,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
            LoCloud, and of more specialized applications targeting cultural heritage content
            visualization and re-use, such as the tools and pilots of AthenaPlus and EUscreen.
             </p>
-            <a href="withculture.eu/">Visit the platform</a>
+            <a href="https://withculture.eu">Visit the platform</a>
           </div>
         </div>
       </div>
@@ -95,8 +95,8 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           Via a personal workspace, users can aggregate and organise different types of cultural resources collected from external resources or uploaded by themselves and create their own collections and exhibitions using different presentation views. Users can annotate/tag cultural items and link them with external vocabularies and thesauri. The UI supports collaborative work and interactions between users so that they can create new stories together, share their creations with other users or user groups, like and comment other users’ collections, form teams etc.
           </p>
           <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic1.png">
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic2.png">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/with_1.webp">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/with_2.webp">
         </div>
       </div>
     </div>
