@@ -77,20 +77,28 @@ bodyClass: tools platform
         </div>
         <!-- col-->
         <div class="col-xl-9 col-lg-9 col-md-12 right">
-          <!-- content-->
-         <p>
-              The lack of granular and rich descriptive metadata highly affects the searchability and usability of the digital content stored in museums, libraries and archives and on Europeana, thus often frustrating the user experience on these institutions’ portals. In this context, crowdsourcing can offer a great opportunity for improving the metadata quality of digital cultural content in a scalable way, while at the same time engaging different user communities - from students and educators to culture lovers and citizens at large- and raising awareness about cultural heritage assets.
-            </p>
-            <p>
-              The platform offers the possibility to cultural heritage institutions and aggregators to design and launch ad-hoc crowdsourcing campaigns for metadata quality improvement with gamification elements and verifiable results. The CrowdHeritage platform can be used in combination with AI tools that perform automatic enrichment, such as color extraction, image tagging, and automated translation. By combining human with machine inteligence we can achieve high-quality metadata at scale with minimum effort and cost.
-            </p>
-            <p>
-             The platform has been used to organise 28 successful crowdsourcing campaigns with more than 450 contributors, generating around 78.000 annotations and 220.000 validations, enriching more than 17.000 cultural heritage items and publishing more than 50.000 annotations to Europeana.
-              <!--CrowdHeritage is an open-source platform that integrates and supports the Europeana APIs and several other available APIs from cultural institutions across the world, like the Rijksmuseum and the Digital Public Library of America). The Crowdheritage platform has been developed by the <a href="https://www.ails.ece.ntua.gr/" target="_blank">National Technical University of Athens</a> in collaboration with the <a href="https://fashionheritage.eu/" target="_blank">European Fashion Heritage Association</a>, the <a href="http://www.michael-culture.eu/" target="_blank">MICHAEL Culture Association</a>, the <a href="https://www.culture.gouv.fr/en/" target="_blank">Ministry of Culture of France</a> and the <a href="https://pro.europeana.eu/organisation/europeana-foundation" target="_blank">Europeana Foundation</a>.-->
-            </p>
-          <!-- oval-->
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic1.png">
-          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/img-content-pic2.png">
+          <p>
+            The lack of granular and rich descriptive metadata highly affects the searchability and usability of the digital content stored in museums, libraries and archives and on Europeana, thus often frustrating the user experience on these institutions’ portals. In this context, crowdsourcing can offer a great opportunity for improving the metadata quality of digital cultural content in a scalable way, while at the same time engaging different user communities - from students and educators to culture lovers and citizens at large- and raising awareness about cultural heritage assets.
+          </p>
+          <p>
+            The platform offers the possibility to cultural heritage institutions and aggregators to design and launch ad-hoc crowdsourcing campaigns for metadata quality improvement with gamification elements and verifiable results. The CrowdHeritage platform can be used in combination with AI tools that perform automatic enrichment, such as color extraction, image tagging, and automated translation. By combining human with machine inteligence we can achieve high-quality metadata at scale with minimum effort and cost.
+          </p>
+          <p>
+           The platform has been used to organise 28 successful crowdsourcing campaigns with more than 450 contributors, generating around 78.000 annotations and 220.000 validations, enriching more than 17.000 cultural heritage items and publishing more than 50.000 annotations to Europeana.
+            <!--CrowdHeritage is an open-source platform that integrates and supports the Europeana APIs and several other available APIs from cultural institutions across the world, like the Rijksmuseum and the Digital Public Library of America). The Crowdheritage platform has been developed by the <a href="https://www.ails.ece.ntua.gr/" target="_blank">National Technical University of Athens</a> in collaboration with the <a href="https://fashionheritage.eu/" target="_blank">European Fashion Heritage Association</a>, the <a href="http://www.michael-culture.eu/" target="_blank">MICHAEL Culture Association</a>, the <a href="https://www.culture.gouv.fr/en/" target="_blank">Ministry of Culture of France</a> and the <a href="https://pro.europeana.eu/organisation/europeana-foundation" target="_blank">Europeana Foundation</a>.-->
+          </p>
+          <p>
+            On the platform's landing page, the users can browse through the available crowdsourcing campaigns, see their progress and select the ones they wish to contribute to.
+          </p>
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/crowdheritage_1.webp">
+          <p>
+            On a campaign's summary page, the users can view the campaign's details, browse through the campaign's collections and see a leaderboard with the campaign's most active users.
+          </p>
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/crowdheritage_2.webp">
+          <p>
+            On the item page, the users can view the item of a collection, its accompanying metadata and a list of the accumulated annotations for the item. The logged in users also have the ability to contribute either with their own tags, or by upvoting/downvoting existing ones.
+          </p>
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/crowdheritage_3.webp">
         </div>
       </div>
     </div>
