@@ -12,17 +12,21 @@
   linkedin: https://www.linkedin.com/in/eirini-kaldeli-22a0956/
   modalId: kaldeli-modal
 
+<<<<<<< HEAD
+- image: /assets/img/team/alexandros_chortaras_1.webp
+=======
 - image: /assets/img/team/chortaras.webp
+>>>>>>> af102bfdda78abb9a97944c8cdd0bbffe2d57319
   name: Alexandros Chortaras
   role: Co-Founder & Data Engineer
   description: Alexandros Chortaras is a researcher at the Artificial Intelligence and Learning Systems Laboratory in the School of Electrical and Computer Engineering of the National Technical University of Athens, where he is working on logic-based knowledge representation formalisms, the development of efficient reasoning and query answering algorithms over expressive knowledge bases, and the linking of semantic descriptions with existing databases. He is an expert on the latest technologies for representing knowledge on the Semantic Web. He has participated in several national and European research projects, where he has modeled, using logic-based formalisms, various knowledge domains in order to support the provision of intelligent services by the end-systems. He has published several research papers in international journals and conferences. Alexandros Chortaras is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens from which he has received also his PhD. He has also received the MSc in Advanced Computing and the MSc in Scientific, Technical and Medical Translation with Translation Technology from Imperial College London and the MSc in Finance from the Birkbeck College of the University of London.
   linkedin: https://www.linkedin.com/in/achort/
   modalId: chortaras-modal
 
-- image: /assets/img/team/img-user-4.webp
+- image: /assets/img/team/arnestabenau.webp
   name: Arne Stabenau
   role: Senior Software Engineer & Backend Developer
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Arne Stabenau graduated in Computer Science in Germany with a subsidiary subject of Biochemistry. In his early years he worked in Germany and England in the area of bioinformatics. For the last ten years he has worked at the National Technical Univeristy of Athens in the area of cultural heritage. He uses Java and various Database and Web technologies to ingest, index and manage cultural metadata. As coauthor of the MINT tool he participated in projects like Athena, Athena Plus, Carare, EUscreen, EUscreenXL, Europeana Fashion, DM2E, Linked Heritage, Locloud, Europeana Sounds, Europeana Photography. He gave workshops to teach the tools usage, provided online user support, developed new features and in case of EUscreenXL served on the PMB. Currently he serves in the EUscreen Foundation as Board member, to keep the network of AV broadcasters and archivists created in the EUscreen projects alive.
   linkedin: https://www.linkedin.com/in/arne-stabenau/
   modalId: stabenau-modal
 
