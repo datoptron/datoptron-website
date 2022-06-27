@@ -18,7 +18,7 @@ bodyClass: tools
             <!-- oval-->
             <img class="oval" src="{{ site.baseurl }}/assets/img/ic-oval-6.png">
             <!-- logo-->
-            <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-mint-white.png">
+            <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-sage-white.png">
             <!-- label-->
             <div class="lbl">DOMAIN KNOWLEDGE</div>
             <ul>

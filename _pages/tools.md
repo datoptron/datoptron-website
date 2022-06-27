@@ -137,13 +137,13 @@ permalink: /tools
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-stirdata-white.png">
-                <a href="{{ site.baseurl }}/tools/withculture">
+                <a href="{{ site.baseurl }}/tools/stirdata">
                   <h3>STIRData</h3>
                   <p>
                     STIRData employs Linked Data and semantic technologies to overcome the technical barriers that hamper the reuse of open data.
                   </p>
                 </a>
-                <a class="more" href="{{ site.baseurl }}/tools/withculture">Learn More</a>
+                <a class="more" href="{{ site.baseurl }}/tools/stirdata">Learn More</a>
               </div>
             </div>
           </div>
