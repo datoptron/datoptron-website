@@ -1,7 +1,7 @@
 - image: /assets/img/team/tzouvaras.webp
   name: Vassilis Tzouvaras
   role: Co-Founder & Data Engineer
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Dr. Vassilis Tzouvaras has received the B-Eng in the Department of Electronic & Systems Engineering of Essex University, the M-Eng in the Department of Automatic Control & Systems Engineering of Sheffield University, UK, and the Ph.D. in the Department of Electrical and Computer Engineering of the National Technical University of Athens in the field of knowledge technologies (extending OWL with fuzzy set operators). Since 2005, he is a senior researcher at the Artificial Intelligence and Learning Systems Laboratory of NTUA carrying out research in the areas of knowledge representation, ontology engineering, reasoning and semantic search. He is active in the Europeana developments and many related projects (Athena, Videoactive, Euscreen, eCreative, EuropeanaConnect, Europeana V01, LoCloud, Carare, Eclap, eFashion, LinkedHeritage). He has published 15 journal papers and 60 conference papers.
   linkedin: https://www.linkedin.com/in/vassilis-tzouvaras-4052601/
   modalId: tzouvaras-modal
 
@@ -29,28 +29,28 @@
 - image: /assets/img/team/img-user-5.webp
   name: Spyros Bekiaris
   role: Mid Software Engineer & Frontend Developer
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Spyros Bekiaris is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens. His major was in Computer Systems and Software and his diploma thesis was about the Design and Development of a Crowdsourcing Platform for metadata enrichment in Digital Cultural Heritage. The result of his thesis was the development of the platform WITHcrowd, which was the basis of the implementation of various crowdsourcing projects. Recently, he started working as a software developer and engineer for the Intelligent Systems, Content & Interaction Lab of NTUA. He participates in the European project "Crowd Heritage" which aims at improving the quality of Europeana's digital content by enriching metadata of selected cultural items. He is also involved in the laboratory's projects MINT and WITH, where he authors code and implements many of their core features. He uses a wide variety of Database and Web technologies and he is tasked with the responsibilities of a Full Stack Developer.
   linkedin: https://www.linkedin.com/in/spyros-bekiaris-743644230/
   modalId: bekiaris-modal
 
 - image: /assets/img/team/img-user-6.webp
   name: Apostolis Karageorgopoulos
   role: Junior Software Developer
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Apostolos Karageorgopoulos is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in March of 2021 in the field of Information Technology and fields of specification Computer Software, Computer Systems, Signals, Automatic Control and Robotics. His diploma thesis was “Development of software for investigation of energy markets price forecasting using machine learning techniques”. Since May 2021, he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems (AILS) Laboratory of the National Τechnical University of Athens. He participates in various projects that are developed in the AILS Laboratory aiming at the use of Linked Data and semantic technologies, such as SAGE and STIRData.
   linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
   modalId: karageorgopoulos-modal
 
 - image: /assets/img/team/img-user-1.webp
   name: Panagiotis Tzortzis
   role: Mid Software Engineer & Backend Developer
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Panagiotis Tzortzis is a graduate of Electronics And Computer Engineering School of NTUA, Athens, with a thesis focused on analyzing performance of Blockchain Systems on various factors of interest. His research interests are focused on the field of Distributed Computing, Artificial Intelligence and Software Develompent. He is employed as a Software Engineer at Artificial Intelligence and Learning Systems Laboratory, at NTUA, having responsibilities that include server-side (backend) development, code quality and testing. He has participated in various projects of the lab, like EuropeanaXX - Century of Change, STIRData and MINT, implementing different features and working with various technology stacks.
   linkedin: https://www.linkedin.com/in/panagiotis-tzortzis/
   modalId: tzortzis-modal
 
 - image: /assets/img/team/img-user.webp
   name: Orfeas Menis-Mastromichalakis
   role: AI Researcher (PhD candidate)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Orfeas Menis - Mastromichalakis is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in November of 2019 in the field of Information Technology and his diploma thesis topic was “Art Style Recognition of Artworks with Convolutional Neural Networks”. Since then he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems Laboratory of the National Τechnical University of Athens, where he holds the position of Ph.D. student and researcher since October 2020. His research interests include Artificial Neural Networks, Image Processing and Analysis with CNNs, Explainable Artificial Intelligence (XAI), Natural Language Processing (NLP), as well as the social impact and ethics of AI.
   linkedin: https://www.linkedin.com/in/orfeasmenis/
   modalId: menis-modal
 
