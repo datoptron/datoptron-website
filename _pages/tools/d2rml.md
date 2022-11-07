@@ -54,10 +54,7 @@ bodyClass: tools
           <img class="testi" src="{{ site.baseurl }}/assets/img/ic-testimonial.png">
           <!-- footnote-->
           <p class="footnote">
-            Since 2015, Datoptron has participated in 15+ projects for the count of the
-            Service Centre de Législation (SCL) and the Chancellerie Fédérale Suisse (ChF)
-            aimed at describing, organizing and publishing legislative data in a meaningful
-            way to be easily interpreted by humans and machines alike
+            The  Datoptron team has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, and machine learning. The team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of organisations.
           </p>
           <!-- banner-->
           <div class="banner-wrap">
