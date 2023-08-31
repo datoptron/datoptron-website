@@ -36,8 +36,7 @@ bodyClass: tools platform
               CrowdHeritage is an online platform for conducting  crowdsourcing campaigns that aim to improve the quality of cultural heritage metadata. Through a user friendly interface which supports playful features such as leaderboards and rewards, users are invited to enrich CH metadata with new annotations or to validate (up- or down-vote) existing ones  produced either automatically by AI-driven tools or added by other users of the platform.
               <!--The scope of the platform is to use the power of the crowd in order to improve the metadata quality of digital cultural heritage content stored in <a href="https://www.europeana.eu/en" target="_blank">Europeana</a>, the European portal for cultural heritage, and in the databases of cultural heritage institutions across Europe.-->
             </p>
-
-            <a href="https://crowdheritage.eu">Visit the platform</a>
+            <a href="https://crowdheritage.eu" target="_blank">Learn more about CrowdHeritage</a>
           </div>
         </div>
       </div>
@@ -55,7 +54,7 @@ bodyClass: tools platform
           <p class="footnote">
            The  Datoptron team has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, and machine learning. The team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of organisations.
            <!--of cultural heritage organisations and public administration bodies.-->
-            <!-- The team of Datoptron's researchers and developers has participated in more than 30 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.-->
+            <!-- The team of Datoptron's researchers and developers has participated in more than 30 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of cultural data.-->
           </p>
           <!-- banner-->
           <div class="banner-wrap">
@@ -81,7 +80,7 @@ bodyClass: tools platform
             The lack of granular and rich descriptive metadata highly affects the searchability and usability of the digital content stored in museums, libraries and archives and on Europeana, thus often frustrating the user experience on these institutions’ portals. In this context, crowdsourcing can offer a great opportunity for improving the metadata quality of digital cultural content in a scalable way, while at the same time engaging different user communities - from students and educators to culture lovers and citizens at large- and raising awareness about cultural heritage assets.
           </p>
           <p>
-            The platform offers the possibility to cultural heritage institutions and aggregators to design and launch ad-hoc crowdsourcing campaigns for metadata quality improvement with gamification elements and verifiable results. The CrowdHeritage platform can be used in combination with AI tools that perform automatic enrichment, such as color extraction, image tagging, and automated translation. By combining human with machine inteligence we can achieve high-quality metadata at scale with minimum effort and cost.
+            The platform offers the possibility to cultural heritage institutions and aggregators to design and launch ad-hoc crowdsourcing campaigns for metadata quality improvement with gamification elements and verifiable results. The CrowdHeritage platform can be used in combination with AI tools that perform automatic enrichment, such as color extraction, image tagging, and automated translation. By combining human with machine intelligence we can achieve high-quality metadata at scale with minimum effort and cost.
           </p>
           <p>
            The platform has been used to organise 28 successful crowdsourcing campaigns with more than 450 contributors, generating around 78.000 annotations and 220.000 validations, enriching more than 17.000 cultural heritage items and publishing more than 50.000 annotations to Europeana.

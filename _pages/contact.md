@@ -12,7 +12,7 @@ permalink: /contact
         <h1>Contact <span class="green">Us</span></h1>
         <p>
           Get to know each other and start planning for your Successful Data Strategy
-          with Datoptron. You can contact us on the below location or use the following form below.
+          with Datoptron. You can contact via e-mail or telephone, or by using the following form.
         </p>
       </div>
     </div>

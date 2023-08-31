@@ -23,10 +23,10 @@ bodyClass: tools
             <div class="lbl">DOMAIN KNOWLEDGE</div>
             <ul>
               <li>
-                <a href="{{ site.baseurl }}/services/datatransformation">Data Transformation</a>
+                Data Transformation
               </li>
               <li>
-                <a href="{{ site.baseurl }}/services/datatransformation">Linked Data Integration</a>
+                Linked Data Integration
               </li>
             </ul>
           </div>
@@ -38,7 +38,7 @@ bodyClass: tools
           <p>
 		  D2RML is a data transformation language for transforming and combining diverse data into custom RDF datasets.
           </p>
-          <a href="https://apps.islab.ntua.gr/tools/d2rml" target="_blank">Visit Project Site</a>
+          <a href="http://apps.islab.ntua.gr/d2rml/" target="_blank">Learn more about D2RML</a>
         </div>
       </div>
     </div>
@@ -67,7 +67,7 @@ bodyClass: tools
                 Discover how Datoptron can help organisation to enhance the value
                 of their data and become partner in their data journey.
               </p>
-              <a href="#">Learn More</a>
+              <a href="{{ site.baseurl }}/services">Learn More</a>
             </div>
           </div>
         </div>

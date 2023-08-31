@@ -40,7 +40,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
            LoCloud, and of more specialized applications targeting cultural heritage content
            visualization and re-use, such as the tools and pilots of AthenaPlus and EUscreen.
             </p>
-            <a href="https://withculture.eu">Visit the platform</a>
+            <a href="https://withculture.eu" target="_blank">Learn more about WITHCulture</a>
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@ WITHCulture is a platform that provides access to digital cultural heritage item
           <!-- footnote-->
           <p class="footnote">
             The  Datoptron team has participated in more than 30 European research and development projects, contributing with their leading expertise in  knowledge representation and reasoning, semantic web technologies, and machine learning. The team has been one of the main technical partners in the development of the European Digital Library - Europeana and offers tools used by hundreds of organisations.
-            <!-- The team of Datoptron's researchers and developers has participated in more than 30 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of culutral data.-->
+            <!-- The team of Datoptron's researchers and developers has participated in more than 30 European projects related to aggregation and reuse techniques for digital cultural heritage. The team has acted as one of the main technical partners in the development of the European Digital Library - Europeana and has amassed considerable experience in the realization of services that allow the aggregation, harmonisation, analysis, discovery, enrichment, and creative reuse of cultural data.-->
           </p>
           <!-- banner-->
           <div class="banner-wrap">
