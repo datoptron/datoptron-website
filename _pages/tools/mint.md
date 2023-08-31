@@ -23,10 +23,10 @@ bodyClass: tools
             <div class="lbl">DOMAIN KNOWLEDGE</div>
             <ul>
               <li>
-                <a href="{{ site.baseurl }}/services/datatransformation">Data Transformation</a>
+                Data Transformation
               </li>
               <li>
-                <a href="{{ site.baseurl }}/services/datatransformation">Linked Data Integration</a>
+                Linked Data Integration
               </li>
             </ul>
           </div>
@@ -37,9 +37,9 @@ bodyClass: tools
           <h1>MINT</h1>
           <p>
             <!--The MINT tool facilitates upload of arbitrary record shaped data in JSON, OLW/RDF, XML or CSV; mapping into a defined xml-schema; transformation of the data into that XML and export to various targets.!-->
-            MINT is a web-based platform that facilitates initiatives for the aggregation of cultural heritage data across Europe. It is used by more than 550 cultural organisations for the ingestion, data transformation, and aggregation of their metadata records and  is one of the main components used to transform and ublish data to the Europeana platform.
+            MINT is a web-based platform that facilitates initiatives for the aggregation of cultural heritage data across Europe. It is used by more than 550 cultural organisations for the ingestion, data transformation, and aggregation of their metadata records and  is one of the main components used to transform and publish data to the Europeana platform.
           </p>
-          <a href="http://mint-wordpress.image.ntua.gr/">Visit the tool</a>
+          <a href="http://mint-wordpress.image.ntua.gr/" target="_blank">Learn more about MINT</a>
         </div>
       </div>
     </div>

@@ -29,7 +29,7 @@ permalink: /tools
             <!-- heads-->
             <h2>Datoptron <i>Tools</i></h2>
             <p>
-               Datoptron offers a number of methods and associated tools that can streamline and facilitate various stages of the data workflow, from their aggregation and transformation into apprpriate formats to their enrichment and further analysis to extract useful knowledge. 
+               Datoptron offers a number of methods and associated tools that can streamline and facilitate various stages of the data workflow, from their aggregation and transformation into appropriate formats to their enrichment and further analysis aiming to extract useful knowledge. 
             </p>
           </div>
           <!-- character-->
@@ -72,7 +72,7 @@ permalink: /tools
                 <a href="{{ site.baseurl }}/tools/d2rml">
                   <h3>D2RML</h3>
                   <p>       
-                  D2RML (Data to RDF Mapping Language) is a data transformation language for defining  data transformation workflows  in order to  publish data in heterogenous formats as linked data.   
+                  D2RML (Data to RDF Mapping Language) is a data transformation language for defining  data transformation workflows  in order to  publish data in heterogeneous formats as linked data.   
                   </p>
                 </a>
                 <a class="more" href="{{ site.baseurl }}/tools/d2rml">Learn More</a>
@@ -134,6 +134,7 @@ permalink: /tools
               </div>
             </div>
             <!-- col-->
+            <!--
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-stirdata-white.png">
@@ -146,6 +147,7 @@ permalink: /tools
                 <a class="more" href="{{ site.baseurl }}/tools/stirdata">Learn More</a>
               </div>
             </div>
+            -->
           </div>
         </div>
       </div>

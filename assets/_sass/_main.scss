@@ -1785,5 +1785,9 @@ body {
 	}
 }
 
+a.anchor-link {
+	@include simple-anchor( $text-first-color, underline);
+}
+
 // responsive
 @import "responsive.scss";

@@ -11,12 +11,10 @@ permalink: /privacy
       <div class="wrap">
         <h1>Privacy <span class="green">Policy</span></h1>
         <p>
-          At Datoptron - Give meaning to your data, accessible from www.datoptron.gr,
-          one of our main priorities is the privacy of our visitors. This Privacy
+          At Datoptron, one of our main priorities is the privacy of our visitors. This Privacy
           Policy document contains types of information that is collected and recorded
-          by Datoptron - Give meaning to your data and how we use it. If you have
-          additional questions or require more information about our Privacy Policy,
-          do not hesitate to contact us.
+          by Datoptron and how we use it. If you have additional questions or require more information about our Privacy Policy,
+          do not hesitate to <a class="anchor-link" href="{{ site.baseurl }}/contact">contact us</a>.
         </p>
       </div>
     </div>
