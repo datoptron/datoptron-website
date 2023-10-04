@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/plain.min.css">
+<body class="{% if page.bodyClass %}{{ page.bodyClass }}{% else %}{% endif %}">
+{{content}}
+</body>
+{% include script.html %}
+</html>
