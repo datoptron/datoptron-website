@@ -13,13 +13,11 @@ permalink: /
         <h1>
            Give Meaning to your <span class="green">Data</span>
         </h1>
-        <h4>We keep your data organised, well-formed and semantically linked.</h4>
-        <p>
-          Datoptron is a spinoff company of the National Technical University of
-          Athens in the area of Artificial Intelligence. We leverage 20 years
-          experience in Semantic Technologies, Machine Learning, and Crowdsourcing.
-        </p>
-        <a href="{{ site.baseurl }}/aboutus">Learn More</a>
+        <h3 class="mt-3">
+          We leverage 20 years experience in Semantic Technologies, Machine Learning, and Crowdsourcing.
+          Datoptron is a spinoff company of the National Technical University of Athens in the area of Artificial Intelligence.
+        </h3>
+        <a href="{{ site.baseurl }}/aboutus" class="mt-3">Learn More</a>
       </div>
       <!-- right-->
       <div class="right">
@@ -40,45 +38,18 @@ permalink: /
       <!-- character-->
       <img class="character" src="{{ site.baseurl }}/assets/img/img-character-1.png">
       <!-- label-->
-      <div class="lbl">OUR SERVICES</div>
-      <h2> <span class="green">Organised Data </span>driven by experiences in Semantic Technologies and Machine Learning</h2>
-      <!-- service list-->
-      <div class="service-list">
-        <!-- row-->
-        <div class="row">
-          <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">01</span>
-            <h3>Data Transformation</h3>
-            <p>Analysing information requires structured and accessible data for best results. Data transformation procedures enable organisations to adapt the representation and format of raw data and structure them depending on their needs. Datoptron sets in place well-defined and customisable procedures for mapping between different schemata. </p>
-          </div>
-          <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">02</span>
-            <h3>Linked Data Integration</h3>
-            <p>
-              Datoptron offers situation-appropriate solutions for making data uniform and interoperable. We use Natural Language Processing, Named-entity Recognition and Pattern Matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.
-            <!--Leveraging many years of experience in machine learning and information extraction, Datoptron offers situation-appropriate solutions for making data uniform and interoperable. We use Natural Language Process, named entity extraction and pattern matching techniques to automatically link and enrich your data with trusted external web resources. We validate the results using a human-in-the-loop approach.-->
-            </p>
-          </div>
-          <div class="item col-xl-4 col-lg-4 col-md-6"><span class="number">03</span>
-            <h3>Linked Data Publication and Consumption</h3>
-            <p>How can data be published as Linked Data? 
-            <!--What kind of actions have to be taken in order to transform data according to Berners-Lee’s four principles? This points to transformation--> How can you unearth the knowledge underlying the data, identify hidden patterns, and discover what you are looking for? Datoptron's expertise in both relational and graph databases ensures that the appropriate approach for storing and querying your data will be followed.<!-- From federated search and SPARQL endpoints to indexing strategies and search engine optimisation, we adopt the approach that best fits your application's queries.-->
-            </p>
-          </div>
-          <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">04</span>
-            <h3>Platform Development</h3>
-            <p>Our platform development expertise makes sure that the capabilities enabled by  state-of-the-art data technologies are served to the end user in a functional and appealing way. We build on well-defined Application Programming Interfaces and deliver user-friendly interfaces using best practices regarding the UI and UX of your applications. <!--We develop platforms for streamlining organisational procedures as well as platforms for citizens' and customers' engagement.--></p>
-          </div>
-          <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">05</span>
-            <h3>User Validation & Engagement</h3>
-            <p>We combine the power of state-of-the-art Artificial Intelligence tools with experts’ and crowd's human intelligence for achieving high quality results and for maximising the user engagement.  We organise crowdsourcing campaigns and exploit human feedback in order to gain helpful insights, fine-tune and improve the automatic processes as well as to constructively involve various audiences. </p>
-          </div>
-          <div class="item col-xl-4 col-lg-4 col-md-6"> <span class="number">06</span>
-            <h3>Use of Standards and Vocabularies</h3>
-            <p>We build situation-appropriate standards in all the aforementioned cases, making use of well-founded schemata, controlled vocabularies, and ontologies to represent and manage data and metadata. We opt for open standards, wherever possible, and advocate the FAIR (Findable, Accessible, Interoperable and Reusable) principles.
-            <!--We use taxonomies, thesauri, controlled vocabularies, and ontologies to manage your data. We use technologies such as SKOS, RDF, OWL, SACL, SCEX, and vocabularies such as DC, DCAT-AP, Core Vocabularies, EDM.-->
-            </p>
-          </div>
-        </div>
+      <div class="lbl">TESTIMONIALS</div>
+      <h2>
+        <span class="green">Datoptron</span> has helped teams gain value from their data across a wide array of countries and domains.
+      </h2>
+      <h3>
+        Datoptron team has participated in more than 30 European research and development projects.
+      </h3>
+      <!-- testimonials -->
+      <div class="row testimonials-carousel">
+        {% include testimonial-carousel.html %}
       </div>
+      <a href="{{ site.baseurl }}/services" class="button-link mt-5">What We Do</a>
     </div>
   </section>
   <!-- projects-->
@@ -114,7 +85,7 @@ permalink: /
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="{{ site.baseurl }}/tools/sage">
                 <img src="{{ site.baseurl }}/assets/img/ic-logo-sage.png">
                 <div class="text">
                   <h3>SAGE </h3>
@@ -127,7 +98,7 @@ permalink: /
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="{{ site.baseurl }}/tools/d2rml">
                 <img src="{{ site.baseurl }}/assets/img/ic-logo-d2.png">
                 <div class="text">
                   <h3>D2RML </h3>
@@ -137,7 +108,7 @@ permalink: /
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="{{ site.baseurl }}/tools/crowdheritage">
                 <img src="{{ site.baseurl }}/assets/img/ic-logo-crowd.png">
                 <div class="text">
                   <h3>CrowdHeritage </h3>
@@ -161,7 +132,6 @@ permalink: /
         <p>
           We are a group of talented people including researchers, software developers,
           ontology engineers and machine learning experts with long experience in working with standards.
-      
         </p>
         <a href="{{ site.baseurl }}/contact">Let's Work Together</a>
       </div>
