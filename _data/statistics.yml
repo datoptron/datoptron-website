@@ -1,5 +1,5 @@
 - icon: /assets/img/stat_icons/project.png
-  metric: projects
+  metric: projects involved
   amount: 30
   plus: true
 
@@ -24,6 +24,6 @@
   plus: false
 
 - icon: /assets/img/stat_icons/countries.png
-  metric: countries
+  metric: countries represented
   amount: 15
   plus: false
