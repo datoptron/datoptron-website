@@ -1,0 +1,29 @@
+- icon: /assets/img/stat_icons/project.png
+  metric: projects
+  amount: 30
+  plus: true
+
+- icon: /assets/img/stat_icons/organisation.png
+  metric: organisations using our tools
+  amount: 100
+  plus: true
+
+- icon: /assets/img/stat_icons/tools.png
+  metric: tools and platforms developed
+  amount: 6
+  plus: false
+
+- icon: /assets/img/stat_icons/team.png
+  metric: team members
+  amount: 12
+  plus: false
+
+- icon: /assets/img/stat_icons/experience.png
+  metric: years of experience in data
+  amount: 15
+  plus: false
+
+- icon: /assets/img/stat_icons/countries.png
+  metric: countries
+  amount: 15
+  plus: false
