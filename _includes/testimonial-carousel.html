@@ -1,0 +1,54 @@
+<div class="swiper">
+    <div class="swiper-wrapper">
+        {% for testimonial in site.data.testimonials %}
+        <div class="swiper-slide">
+            {% include testimonial-card.html
+                image = testimonial.image
+                name = testimonial.name
+                role = testimonial.role
+                text = testimonial.text
+            %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+    const swiper = new Swiper('.swiper', {
+        observer: true,
+        observeParents: true,
+        allowTouchMove: true,
+        loop: true,
+        freeMode: true,
+        speed: 10000,
+        spaceBetween: 20,
+        autoplay: {
+            delay: 1,
+            disableOnInteraction: false,
+        },
+        slidesPerView: 'auto',
+        breakpoints: {
+            320: {
+                slidesPerView: '1',
+            },
+            480: {
+                slidesPerView: '1',
+            },
+            640: {
+                slidesPerView: '1.15',
+            },
+            768: {
+                slidesPerView: '1.25',
+            },
+            1024: {
+                slidesPerView: '1.75',
+            },
+            // 1112: {
+            //     slidesPerView: '2',
+            // },
+            // 1290: {
+            //     slidesPerView: '2.25',
+            // },
+        },
+    });
+</script>

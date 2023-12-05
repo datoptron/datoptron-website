@@ -1,0 +1,27 @@
+<div class="testimonial_card">
+    <div class="testimonial_image">
+        <img src="{{ site.baseurl }}{{ include.image }}" loading="lazy" alt="{{ include.name }}">
+    </div>
+    <div class="testimonial_body">
+        <div class="testimonial_image_mobile">
+            <img src="{{ site.baseurl }}{{ include.image }}" loading="lazy" alt="{{ include.name }}">
+        </div>
+        <div class="testimonial_upper__head">
+            <div class="testimonial_upper__text">
+                <h3 class="name">
+                    {{ include.name }}
+                </h3>
+                <h4 class="role">
+                    {{ include.role }}
+                </h4>
+            </div>
+        </div>
+        <div class="testimonial_text">
+            <p>
+                <i class="fa fa-quote-left me-1" aria-hidden="true"></i>
+                <span>{{ include.text }}</span>
+                <i class="fa fa-quote-right ms-1" aria-hidden="true"></i>
+            </p>
+        </div>
+    </div>
+</div>

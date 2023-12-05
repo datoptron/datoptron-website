@@ -4,6 +4,15 @@ layout: default
 permalink: /aboutus
 ---
 <main role="main">
+  <!-- statistics -->
+  <section class="mainheading">
+    <div class="container">
+      <div class="wrap">
+        <h1>About the <span class="green">Team</span></h1>
+        {% include statistics.html %}
+      </div>
+    </div>
+  </section>
   <!-- main heading-->
   <section class="mainheading">
     <div class="container">

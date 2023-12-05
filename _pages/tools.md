@@ -11,7 +11,9 @@ permalink: /tools
       <div class="wrap">
         <h1>Tools &amp; <span class="green">Platforms</span></h1>
         <p>
-            Datoptron brings from the lab to the market cutting-edge technological innovations for the organisation, analysis, enrichment, and creative use of data. The tools and platforms developed by Datoptron have been successfully used in the cultural heritage and public administration domains by hundreds of organisations.</p>
+          The tools and platforms developed by Datoptron have been <strong>successfully used in the cultural heritage and public administration domains by hundreds of organisations</strong>.
+          Datoptron brings from the lab to the market cutting-edge technological innovations for the organisation, analysis, enrichment, and creative use of data.
+        </p>
       </div>
     </div>
   </section>
