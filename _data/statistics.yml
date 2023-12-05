@@ -15,7 +15,7 @@
 
 - icon: /assets/img/stat_icons/team.png
   metric: team members
-  amount: 12
+  amount: 8
   plus: false
 
 - icon: /assets/img/stat_icons/experience.png
