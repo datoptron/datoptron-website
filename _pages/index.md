@@ -15,7 +15,7 @@ permalink: /
         </h1>
         <h3 class="mt-3">
           We leverage 20 years experience in Semantic Technologies, Machine Learning, and Crowdsourcing.
-          Datoptron is a spinoff company of the National Technical University of Athens in the area of Artificial Intelligence.
+          Datoptron is a spinoff company of the National Technical University of Athens in the area of Artificial Intelligence and Data Management.
         </h3>
         <a href="{{ site.baseurl }}/aboutus" class="mt-3">Learn More</a>
       </div>
