@@ -47,86 +47,119 @@ permalink: /contact
         <!-- right-->
         <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 right">
           <!-- form-->
-          <div class="contact-form form">
-            <!-- row-->
-            <div class="row">
-              <!-- col-->
-              <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 leftform">
-                <!-- label-->
-                <div class="input">
-                  <label class="form-label" for="form-fullname">
-                     FULLNAME <span class="mandatory">*</span>
-                  </label>
-                  <input class="form-control" id="form-fullname" type="text" placeholder="Please fill your fullname">
+          <form
+            id="contact-form"
+            class="contact-form form"
+            method="POST"
+            onsubmit="submitForm()"
+          >
+            <fieldset id="fs-frm-inputs">
+                <!-- row-->
+                <div class="row">
+                  <!-- col-->
+                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 leftform">
+                    <!-- label-->
+                    <div class="input">
+                      <label class="form-label" for="form-fullname">
+                         FULLNAME <span class="mandatory">*</span>
+                      </label>
+                      <input 
+                        name="Full Name"
+                        class="form-control"
+                        id="form-fullname"
+                        type="text"
+                        placeholder="Please fill your fullname"
+                        oninput="validateForm()"
+                      >
+                    </div>
+                    <!-- label-->
+                    <div class="input">
+                      <label class="form-label" for="form-email">
+                         EMAIL <span class="mandatory">*</span>
+                      </label>
+                      <input
+                        name="E-mail"
+                        class="form-control"
+                        id="form-email"
+                        type="text"
+                        placeholder="Please fill your email"
+                        oninput="validateForm()"
+                      >
+                    </div>
+                    <!-- label-->
+                    <div class="input">
+                      <label class="form-label" for="form-company">
+                         COMPANY
+                      </label>
+                      <input name="Company" class="form-control" id="form-company" type="text" placeholder="Please fill your organisation">
+                    </div>
+                  </div>
+                  <!-- col-->
+                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 rightform">
+                    <!-- label-->
+                    <div class="input">
+                      <label class="form-label" for="selectCountry">
+                         COUNTRY
+                      </label>
+                      <select name="Country" class="form-select" id="selectCountry" aria-label="Default select example">
+                        <option selected disabled>Select your country</option>
+                      </select>
+                    </div>
+                    <!-- label-->
+                    <div class="input">
+                      <label class="form-label" for="form-phone">
+                         PHONE
+                      </label>
+                      <input name="Phone Number" class="form-control" id="form-phone" type="text" placeholder="Please fill your phone number">
+                    </div>
+                    <!-- label-->
+                    <div class="input">
+                      <label class="form-label" for="form-job">
+                         JOB TITLE
+                      </label>
+                      <input name="Job Title" class="form-control" id="form-job" type="text" placeholder="Please fill your job title">
+                    </div>
+                  </div>
                 </div>
-                <!-- label-->
-                <div class="input">
-                  <label class="form-label" for="form-email">
-                     EMAIL <span class="mandatory">*</span>
-                  </label>
-                  <input class="form-control" id="form-email" type="text" placeholder="Please fill your email">
+                <!-- row-->
+                <div class="row">
+                  <!-- col-->
+                  <div class="col-xl-12">
+                    <!-- label-->
+                    <div class="input">
+                      <label class="form-label" for="form-message">
+                         WHAT CAN WE DO FOR YOU<span class="mandatory">*</span>
+                      </label>
+                      <textarea
+                        name="Message"
+                        id="form-message"
+                        class="form-control"
+                        rows="5"
+                        placeholder="Please fill your inquiries here."
+                        oninput="validateForm()"
+                      ></textarea>
+                    </div>
+                    <!-- input-->
+                    <div class="input">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        id="form-privacy"
+                        onchange="validateForm()"
+                      >
+                      <label class="form-check-label" for="form-privacy">
+                        I agree to send my information with you and understand that it will be used
+                        as described in the <a href="{{ site.baseurl }}/privacy">Privacy Policy</a>
+                      </label>
+                    </div>
+                    <!-- input-->
+                    <div class="input">
+                      <button class="btn btn-dark" type="submit" id="submit-btn" disabled="true">Send Message</button>
+                    </div>
+                  </div>
                 </div>
-                <!-- label-->
-                <div class="input">
-                  <label class="form-label" for="form-company">
-                     COMPANY <span class="mandatory"></span>
-                  </label>
-                  <input class="form-control" id="form-company" type="text" placeholder="Please fill your organisation">
-                </div>
-              </div>
-              <!-- col-->
-              <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 rightform">
-                <!-- label-->
-                <div class="input">
-                  <label class="form-label" for="selectCountry">
-                     COUNTRY<span class="mandatory"></span>
-                  </label>
-                  <select class="form-select" id="selectCountry" aria-label="Default select example">
-                    <option selected disabled>Select your country</option>
-                  </select>
-                </div>
-                <!-- label-->
-                <div class="input">
-                  <label class="form-label" for="form-phone">
-                     PHONE <span class="mandatory"></span>
-                  </label>
-                  <input class="form-control" id="form-phone" type="text" placeholder="Please fill your phone number">
-                </div>
-                <!-- label-->
-                <div class="input">
-                  <label class="form-label" for="form-phone">
-                     JOB TITLE <span class="mandatory"></span>
-                  </label>
-                  <input class="form-control" id="form-phone" type="text" placeholder="Please fill your job title">
-                </div>
-              </div>
-            </div>
-            <!-- row-->
-            <div class="row">
-              <!-- col-->
-              <div class="col-xl-12">
-                <!-- label-->
-                <div class="input">
-                  <label class="form-label" for="form-phone">
-                     WHAT CAN WE DO FOR YOU<span class="mandatory">*</span>
-                  </label>
-                  <textarea class="form-control" rows="5" placeholder="Please fill your inquiries here."></textarea>
-                </div>
-                <!-- input-->
-                <div class="input">
-                  <input class="form-check-input" type="checkbox" value="" id="form-privacy">
-                  <label class="form-check-label" for="form-privacy">
-                    I agree to send my information with you and understand that it will be used
-                    as described in the <a href="{{ site.baseurl }}/privacy">Privacy Policy</a>
-                  </label>
-                </div>
-                <!-- input-->
-                <div class="input">
-                  <button class="btn btn-dark" type="button">Send Message</button>
-                </div>
-              </div>
-            </div>
-          </div>
+            </fieldset>
+          </form>
         </div>
       </div>
     </div>
@@ -154,3 +187,5 @@ permalink: /contact
 </main>
 
 <script src="{{ site.baseurl }}/assets/js/countries.js"></script>
+<script src="{{ site.baseurl }}/assets/js/form.js"></script>
+
