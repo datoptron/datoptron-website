@@ -1537,6 +1537,10 @@ body {
     }
   }
 }
+.btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed !important;
+}
 a.anchor-link {
   @include simple-anchor($text-first-color, underline);
 }

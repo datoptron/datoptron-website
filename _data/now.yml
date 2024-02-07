@@ -1,0 +1,15 @@
+- title: ASKA
+  description: Promoting the Cultural Content of the American School of Classical Studies in Athens (ASKSA) with the help of Artificial Intelligence (2024-2025). Datoptron is subcontracted with tasks related to metadata management and the promotion of ASKSA’s digital collections through interactive means and citizen engagement.
+  link: https://www.ascsa.edu.gr/ascsa-espa-project
+
+- title: AI4Culture
+  description: An AI platform for the cultural heritage data space (2023-2025). Funded under the Digital Europe Programme, the project aims to develop a suite of AI tools and an online capacity building hub for the application of artificial intelligence technologies in the cultural heritage sector.
+  link: https://pro.europeana.eu/project/ai4culture-an-ai-platform-for-the-cultural-heritage-data-space
+
+- title: DE-BIAS
+  description: Detecting and cur(at)ing harmful language in cultural heritage collections  (2023-2024). DE-BIAS promotes a more inclusive and respectful approach to describing cultural heritage (ongoing). Datoptron is developing a tool, to be integrated into the Europeana backend framework, that automatically detects biased terms in cultural heritage textual metadata.
+  link: https://pro.europeana.eu/project/de-bias
+
+- title: DS4CH
+  description: Data Space for Cultural Heritage DS4CH - deployment of the common European data space (2023-2024). Datoptron is responsible for supporting through its technical tools the process of metadata aggregation and automatic enrichment.
+  link: https://pro.europeana.eu/page/data-space-deployment
