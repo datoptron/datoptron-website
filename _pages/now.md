@@ -10,7 +10,7 @@ permalink: /now
       <div class="wrap">
         <h1 class="mb-5">What we do <span class="green">Now</span></h1>
         <h3>
-          This is a <a href="https://nownownow.com/about" target="_blank">now page</a>. We list here all the running projects and where we are focusing right now.
+          This is a <a href="https://nownownow.com/about" target="_blank" class="anchor-link">now page</a>. We list here all the running projects and where we are focusing right now.
         </h3>
       </div>
     </div>
@@ -19,12 +19,12 @@ permalink: /now
     <div class="container">
       {% for project in site.data.now %}
       <div class="row mb-5">
-        <div class="col col-3">
+        <div class="col col-md-3 col-12">
           <h4 class="pt-1">{{ project.title }}</h4>
         </div>
-        <div class="col col-9">
+        <div class="col col-md-9 col-12">
           <p class="mb-2">{{ project.description }}</p>
-          <a href="{{ project.link }}" target="_blank">Learn more ></a>
+          <a href="{{ project.link }}" target="_blank" class="learn-more">Learn more</a>
         </div>
       </div>
       {% endfor %}
