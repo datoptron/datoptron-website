@@ -35,7 +35,7 @@
 
 - image: /assets/img/team/tolis.webp
   name: Apostolis Karageorgopoulos
-  role: Junior Software Developer
+  role: Software Engineer & Frontend Developer
   description: Apostolos Karageorgopoulos is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in March of 2021 in the field of Information Technology and fields of specification Computer Software, Computer Systems, Signals, Automatic Control and Robotics. His diploma thesis was “Development of software for investigation of energy markets price forecasting using machine learning techniques”. Since May 2021, he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems (AILS) Laboratory of the National Τechnical University of Athens. He participates in various projects that are developed in the AILS Laboratory aiming at the use of Linked Data and semantic technologies, such as SAGE and STIRData.
   linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
   modalId: karageorgopoulos-modal
@@ -49,7 +49,7 @@
 
 - image: /assets/img/team/mavrotas.webp
   name: Leonidas Mavrotas
-  role: Software Engineer and Frontend Developer
+  role: Software Engineer & Frontend Developer
   description: Leonidas Mavrotas is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens with a diploma thesis focused on investigating and advancing the attributes of Augmented Reality (AR) tools in modern applications. He has since worked as a frontend developer, with a focus on integrating 3D environments in browser applications and a key interest in modern libraries and efficient frontend applications design. Since November of 2023, he works as a software engineer and frontend developer at the Intelligent Systems, Content & Interaction Lab of NTUA, participating in various projects developed by the lab team.
   linkedin: https://www.linkedin.com/in/leonidas-mavrotas/
   modalId: mavrotas-modal
