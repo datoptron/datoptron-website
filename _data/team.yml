@@ -47,12 +47,26 @@
   linkedin: https://www.linkedin.com/in/panagiotis-tzortzis/
   modalId: tzortzis-modal
 
+- image: /assets/img/team/mavrotas.webp
+  name: Leonidas Mavrotas
+  role: Software Engineer and Frontend Developer
+  description: Leonidas Mavrotas is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens with a diploma thesis focused on investigating and advancing the attributes of Augmented Reality (AR) tools in modern applications. He has since worked as a frontend developer, with a focus on integrating 3D environments in browser applications and a key interest in modern libraries and efficient frontend applications design. Since November of 2023, he works as a software engineer and frontend developer at the Intelligent Systems, Content & Interaction Lab of NTUA, participating in various projects developed by the lab team.
+  linkedin: https://www.linkedin.com/in/leonidas-mavrotas/
+  modalId: mavrotas-modal
+
 #- image: /assets/img/team/img-user-3.webp
 #  name: Anna Christaki
 #  role: Senior Software Engineer & Frontend Developer
 #  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 #  linkedin: https://www.linkedin.com/in/anna-christaki-5450016/
 #  modalId: christaki-modal
+
+- image: /assets/img/team/koutkias.webp
+  name: Vagelis Koutkias
+  role: Engineering Manager & Growth
+  description: Vagelis worked for years in the fintech sector at XM - <a href="http://trading.com/" target="_blank">Trading.com</a>. He has worked as a team lead and the past years he transitioned to a tech lead. His main focus was frontend and most specifically mobile development.<br/>He frequently writes about software things <a href="https://thinkingonsoftwareandlife.substack.com/" target="_blank">here</a> and random thoughts <a href="https://thinkingonthings.substack.com/" target="_blank">here</a>.
+  linkedin: https://www.linkedin.com/in/vagelis-koutkias-66b58a69/
+  modalId: koutkias-modal
 
 - image: /assets/img/team/orfeas.webp
   name: Orfeas Menis-Mastromichalakis
