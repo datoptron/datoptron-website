@@ -54,14 +54,14 @@
   linkedin: https://www.linkedin.com/in/leonidas-mavrotas/
   modalId: mavrotas-modal
 
-  - image: /assets/img/team/tolis.webp
+- image: /assets/img/team/tolis.webp
   name: Apostolis Karageorgopoulos
   role: Software Engineer & Frontend Developer
   description: Apostolos Karageorgopoulos is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in March of 2021 in the field of Information Technology and fields of specification Computer Software, Computer Systems, Signals, Automatic Control and Robotics. His diploma thesis was “Development of software for investigation of energy markets price forecasting using machine learning techniques”. Since May 2021, he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems (AILS) Laboratory of the National Τechnical University of Athens. He participates in various projects that are developed in the AILS Laboratory aiming at the use of Linked Data and semantic technologies, such as SAGE and STIRData.
   linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
   modalId: karageorgopoulos-modal
 
-  - image: /assets/img/team/orfeas.webp
+- image: /assets/img/team/orfeas.webp
   name: Orfeas Menis-Mastromichalakis
   role: AI Researcher (PhD candidate)
   description: Orfeas Menis - Mastromichalakis is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in November of 2019 in the field of Information Technology and his diploma thesis topic was “Art Style Recognition of Artworks with Convolutional Neural Networks”. Since then he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems Laboratory of the National Τechnical University of Athens, where he holds the position of Ph.D. student and researcher since October 2020. His research interests include Artificial Neural Networks, Image Processing and Analysis with CNNs, Explainable Artificial Intelligence (XAI), Natural Language Processing (NLP), as well as the social impact and ethics of AI.
