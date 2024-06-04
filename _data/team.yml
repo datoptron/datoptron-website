@@ -19,6 +19,13 @@
   linkedin: https://www.linkedin.com/in/achort/
   modalId: chortaras-modal
 
+- image: /assets/img/team/koutkias.webp
+  name: Vagelis Koutkias
+  role: Engineering Manager & Growth
+  description: Vagelis worked for years in the fintech sector at XM - <a href="http://trading.com/" target="_blank">Trading.com</a>. He has worked as a team lead and the past years he transitioned to a tech lead. His main focus was frontend and most specifically mobile development.<br/>He frequently writes about software things <a href="https://thinkingonsoftwareandlife.substack.com/" target="_blank">here</a> and random thoughts <a href="https://thinkingonthings.substack.com/" target="_blank">here</a>.
+  linkedin: https://www.linkedin.com/in/vagelis-koutkias-66b58a69/
+  modalId: koutkias-modal
+
 - image: /assets/img/team/stabenau.webp
   name: Arne Stabenau
   role: Senior Software Engineer & Backend Developer
@@ -32,13 +39,6 @@
   description: Spyros Bekiaris is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens. His major was in Computer Systems and Software and his diploma thesis was about the Design and Development of a Crowdsourcing Platform for metadata enrichment in Digital Cultural Heritage. The result of his thesis was the development of the platform WITHcrowd, which was the basis of the implementation of various crowdsourcing projects. Recently, he started working as a software developer and engineer for the Intelligent Systems, Content & Interaction Lab of NTUA. He participates in the European project "Crowd Heritage" which aims at improving the quality of Europeana's digital content by enriching metadata of selected cultural items. He is also involved in the laboratory's projects MINT and WITH, where he authors code and implements many of their core features. He uses a wide variety of Database and Web technologies and he is tasked with the responsibilities of a Full Stack Developer.
   linkedin: https://www.linkedin.com/in/spyros-bekiaris-743644230/
   modalId: bekiaris-modal
-
-- image: /assets/img/team/tolis.webp
-  name: Apostolis Karageorgopoulos
-  role: Software Engineer & Frontend Developer
-  description: Apostolos Karageorgopoulos is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in March of 2021 in the field of Information Technology and fields of specification Computer Software, Computer Systems, Signals, Automatic Control and Robotics. His diploma thesis was “Development of software for investigation of energy markets price forecasting using machine learning techniques”. Since May 2021, he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems (AILS) Laboratory of the National Τechnical University of Athens. He participates in various projects that are developed in the AILS Laboratory aiming at the use of Linked Data and semantic technologies, such as SAGE and STIRData.
-  linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
-  modalId: karageorgopoulos-modal
 
 - image: /assets/img/team/tzortzis-avatar.webp
   name: Panagiotis Tzortzis
@@ -54,6 +54,20 @@
   linkedin: https://www.linkedin.com/in/leonidas-mavrotas/
   modalId: mavrotas-modal
 
+  - image: /assets/img/team/tolis.webp
+  name: Apostolis Karageorgopoulos
+  role: Software Engineer & Frontend Developer
+  description: Apostolos Karageorgopoulos is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in March of 2021 in the field of Information Technology and fields of specification Computer Software, Computer Systems, Signals, Automatic Control and Robotics. His diploma thesis was “Development of software for investigation of energy markets price forecasting using machine learning techniques”. Since May 2021, he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems (AILS) Laboratory of the National Τechnical University of Athens. He participates in various projects that are developed in the AILS Laboratory aiming at the use of Linked Data and semantic technologies, such as SAGE and STIRData.
+  linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
+  modalId: karageorgopoulos-modal
+
+  - image: /assets/img/team/orfeas.webp
+  name: Orfeas Menis-Mastromichalakis
+  role: AI Researcher (PhD candidate)
+  description: Orfeas Menis - Mastromichalakis is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in November of 2019 in the field of Information Technology and his diploma thesis topic was “Art Style Recognition of Artworks with Convolutional Neural Networks”. Since then he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems Laboratory of the National Τechnical University of Athens, where he holds the position of Ph.D. student and researcher since October 2020. His research interests include Artificial Neural Networks, Image Processing and Analysis with CNNs, Explainable Artificial Intelligence (XAI), Natural Language Processing (NLP), as well as the social impact and ethics of AI.
+  linkedin: https://www.linkedin.com/in/orfeasmenis/
+  modalId: menis-modal
+
 #- image: /assets/img/team/img-user-3.webp
 #  name: Anna Christaki
 #  role: Senior Software Engineer & Frontend Developer
@@ -61,23 +75,9 @@
 #  linkedin: https://www.linkedin.com/in/anna-christaki-5450016/
 #  modalId: christaki-modal
 
-- image: /assets/img/team/koutkias.webp
-  name: Vagelis Koutkias
-  role: Engineering Manager & Growth
-  description: Vagelis worked for years in the fintech sector at XM - <a href="http://trading.com/" target="_blank">Trading.com</a>. He has worked as a team lead and the past years he transitioned to a tech lead. His main focus was frontend and most specifically mobile development.<br/>He frequently writes about software things <a href="https://thinkingonsoftwareandlife.substack.com/" target="_blank">here</a> and random thoughts <a href="https://thinkingonthings.substack.com/" target="_blank">here</a>.
-  linkedin: https://www.linkedin.com/in/vagelis-koutkias-66b58a69/
-  modalId: koutkias-modal
-
-- image: /assets/img/team/orfeas.webp
-  name: Orfeas Menis-Mastromichalakis
-  role: AI Researcher (PhD candidate)
-  description: Orfeas Menis - Mastromichalakis is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in November of 2019 in the field of Information Technology and his diploma thesis topic was “Art Style Recognition of Artworks with Convolutional Neural Networks”. Since then he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems Laboratory of the National Τechnical University of Athens, where he holds the position of Ph.D. student and researcher since October 2020. His research interests include Artificial Neural Networks, Image Processing and Analysis with CNNs, Explainable Artificial Intelligence (XAI), Natural Language Processing (NLP), as well as the social impact and ethics of AI.
-  linkedin: https://www.linkedin.com/in/orfeasmenis/
-  modalId: menis-modal
-
-- image: /assets/img/team/markou.jpg
-  name: Christos Markou
-  role: Administrative Assistant
-  description: Christos Markou is a Public Health Undergraduate at the Department of Public and Community Health, University of West Attica. His thesis is on the development of an infodemiology methodology using Big Data for Public Health purposes. As an undergraduate, he became a member of the Special Academic Unit for the Study of Smoking Behaviour, in which he has worked on infodemiology applications in smoking, COVID-19 child vaccines, climate change, and extreme weather events in Greece. Later on, he served as a working group member of the Global Youth Tobacco Survey 2023 in Greece, responsible for the project management of the study. He's interested in Public Health, Public Health Governance, Healthcare Data Analytics, European Health Data Space, and all kinds of AI applications in Public Health.
-  linkedin: https://www.linkedin.com/in/christos-markou-6476b4199/
-  modalId: markou-modal
+# - image: /assets/img/team/markou.jpg
+#   name: Christos Markou
+#   role: Administrative Assistant
+#   description: Christos Markou is a Public Health Undergraduate at the Department of Public and Community Health, University of West Attica. His thesis is on the development of an infodemiology methodology using Big Data for Public Health purposes. As an undergraduate, he became a member of the Special Academic Unit for the Study of Smoking Behaviour, in which he has worked on infodemiology applications in smoking, COVID-19 child vaccines, climate change, and extreme weather events in Greece. Later on, he served as a working group member of the Global Youth Tobacco Survey 2023 in Greece, responsible for the project management of the study. He's interested in Public Health, Public Health Governance, Healthcare Data Analytics, European Health Data Space, and all kinds of AI applications in Public Health.
+#   linkedin: https://www.linkedin.com/in/christos-markou-6476b4199/
+#   modalId: markou-modal
