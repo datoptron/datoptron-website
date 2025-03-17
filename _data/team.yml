@@ -19,33 +19,12 @@
   linkedin: https://www.linkedin.com/in/achort/
   modalId: chortaras-modal
 
-- image: /assets/img/team/koutkias.webp
-  name: Vagelis Koutkias
-  role: Engineering Manager & Growth
-  description: Vagelis worked for years in the fintech sector at XM - <a href="http://trading.com/" target="_blank">Trading.com</a>. He has worked as a team lead and the past years he transitioned to a tech lead. His main focus was frontend and most specifically mobile development.<br/>He frequently writes about software things <a href="https://thinkingonsoftwareandlife.substack.com/" target="_blank">here</a> and random thoughts <a href="https://thinkingonthings.substack.com/" target="_blank">here</a>.
-  linkedin: https://www.linkedin.com/in/vagelis-koutkias-66b58a69/
-  modalId: koutkias-modal
-
 - image: /assets/img/team/stabenau.webp
   name: Arne Stabenau
   role: Senior Software Engineer & Backend Developer
   description: Arne Stabenau graduated in Computer Science in Germany with a subsidiary subject of Biochemistry. In his early years he worked in Germany and England in the area of bioinformatics. For the last ten years he has worked at the National Technical Univeristy of Athens in the area of cultural heritage. He uses Java and various Database and Web technologies to ingest, index and manage cultural metadata. As coauthor of the MINT tool he participated in projects like Athena, Athena Plus, Carare, EUscreen, EUscreenXL, Europeana Fashion, DM2E, Linked Heritage, Locloud, Europeana Sounds, Europeana Photography. He gave workshops to teach the tools usage, provided online user support, developed new features and in case of EUscreenXL served on the PMB. Currently he serves in the EUscreen Foundation as Board member, to keep the network of AV broadcasters and archivists created in the EUscreen projects alive.
   linkedin: https://www.linkedin.com/in/arne-stabenau/
   modalId: stabenau-modal
-
-- image: /assets/img/team/bekiaris.webp
-  name: Spyros Bekiaris
-  role: Mid Software Engineer & Frontend Developer
-  description: Spyros Bekiaris is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens. His major was in Computer Systems and Software and his diploma thesis was about the Design and Development of a Crowdsourcing Platform for metadata enrichment in Digital Cultural Heritage. The result of his thesis was the development of the platform WITHcrowd, which was the basis of the implementation of various crowdsourcing projects. Recently, he started working as a software developer and engineer for the Intelligent Systems, Content & Interaction Lab of NTUA. He participates in the European project "Crowd Heritage" which aims at improving the quality of Europeana's digital content by enriching metadata of selected cultural items. He is also involved in the laboratory's projects MINT and WITH, where he authors code and implements many of their core features. He uses a wide variety of Database and Web technologies and he is tasked with the responsibilities of a Full Stack Developer.
-  linkedin: https://www.linkedin.com/in/spyros-bekiaris-743644230/
-  modalId: bekiaris-modal
-
-- image: /assets/img/team/tzortzis-avatar.webp
-  name: Panagiotis Tzortzis
-  role: Mid Software Engineer & Backend Developer
-  description: Panagiotis Tzortzis is a graduate of Electronics And Computer Engineering School of NTUA, Athens, with a thesis focused on analyzing performance of Blockchain Systems on various factors of interest. His research interests are focused on the field of Distributed Computing, Artificial Intelligence and Software Develompent. He is employed as a Software Engineer at Artificial Intelligence and Learning Systems Laboratory, at NTUA, having responsibilities that include server-side (backend) development, code quality and testing. He has participated in various projects of the lab, like EuropeanaXX - Century of Change, STIRData and MINT, implementing different features and working with various technology stacks.
-  linkedin: https://www.linkedin.com/in/panagiotis-tzortzis/
-  modalId: tzortzis-modal
 
 - image: /assets/img/team/mavrotas.webp
   name: Leonidas Mavrotas
@@ -54,19 +33,40 @@
   linkedin: https://www.linkedin.com/in/leonidas-mavrotas/
   modalId: mavrotas-modal
 
-- image: /assets/img/team/tolis.webp
-  name: Apostolis Karageorgopoulos
-  role: Software Engineer & Frontend Developer
-  description: Apostolos Karageorgopoulos is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in March of 2021 in the field of Information Technology and fields of specification Computer Software, Computer Systems, Signals, Automatic Control and Robotics. His diploma thesis was “Development of software for investigation of energy markets price forecasting using machine learning techniques”. Since May 2021, he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems (AILS) Laboratory of the National Τechnical University of Athens. He participates in various projects that are developed in the AILS Laboratory aiming at the use of Linked Data and semantic technologies, such as SAGE and STIRData.
-  linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
-  modalId: karageorgopoulos-modal
-
 - image: /assets/img/team/orfeas.webp
   name: Orfeas Menis-Mastromichalakis
   role: AI Researcher (PhD candidate)
   description: Orfeas Menis - Mastromichalakis is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in November of 2019 in the field of Information Technology and his diploma thesis topic was “Art Style Recognition of Artworks with Convolutional Neural Networks”. Since then he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems Laboratory of the National Τechnical University of Athens, where he holds the position of Ph.D. student and researcher since October 2020. His research interests include Artificial Neural Networks, Image Processing and Analysis with CNNs, Explainable Artificial Intelligence (XAI), Natural Language Processing (NLP), as well as the social impact and ethics of AI.
   linkedin: https://www.linkedin.com/in/orfeasmenis/
   modalId: menis-modal
+ 
+#  - image: /assets/img/team/koutkias.webp
+#   name: Vagelis Koutkias
+#   role: Engineering Manager & Growth
+#   description: Vagelis worked for years in the fintech sector at XM - <a href="http://trading.com/" target="_blank">Trading.com</a>. He has worked as a team lead and the past years he transitioned to a tech lead. His main focus was frontend and most specifically mobile development.<br/>He frequently writes about software things <a href="https://thinkingonsoftwareandlife.substack.com/" target="_blank">here</a> and random thoughts <a href="https://thinkingonthings.substack.com/" target="_blank">here</a>.
+#   linkedin: https://www.linkedin.com/in/vagelis-koutkias-66b58a69/
+#   modalId: koutkias-modal
+
+# - image: /assets/img/team/bekiaris.webp
+#   name: Spyros Bekiaris
+#   role: Mid Software Engineer & Frontend Developer
+#   description: Spyros Bekiaris is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens. His major was in Computer Systems and Software and his diploma thesis was about the Design and Development of a Crowdsourcing Platform for metadata enrichment in Digital Cultural Heritage. The result of his thesis was the development of the platform WITHcrowd, which was the basis of the implementation of various crowdsourcing projects. Recently, he started working as a software developer and engineer for the Intelligent Systems, Content & Interaction Lab of NTUA. He participates in the European project "Crowd Heritage" which aims at improving the quality of Europeana's digital content by enriching metadata of selected cultural items. He is also involved in the laboratory's projects MINT and WITH, where he authors code and implements many of their core features. He uses a wide variety of Database and Web technologies and he is tasked with the responsibilities of a Full Stack Developer.
+#   linkedin: https://www.linkedin.com/in/spyros-bekiaris-743644230/
+#   modalId: bekiaris-modal
+
+# - image: /assets/img/team/tzortzis-avatar.webp
+#   name: Panagiotis Tzortzis
+#   role: Mid Software Engineer & Backend Developer
+#   description: Panagiotis Tzortzis is a graduate of Electronics And Computer Engineering School of NTUA, Athens, with a thesis focused on analyzing performance of Blockchain Systems on various factors of interest. His research interests are focused on the field of Distributed Computing, Artificial Intelligence and Software Develompent. He is employed as a Software Engineer at Artificial Intelligence and Learning Systems Laboratory, at NTUA, having responsibilities that include server-side (backend) development, code quality and testing. He has participated in various projects of the lab, like EuropeanaXX - Century of Change, STIRData and MINT, implementing different features and working with various technology stacks.
+#   linkedin: https://www.linkedin.com/in/panagiotis-tzortzis/
+#   modalId: tzortzis-modal
+
+# - image: /assets/img/team/tolis.webp
+#   name: Apostolis Karageorgopoulos
+#   role: Software Engineer & Frontend Developer
+#   description: Apostolos Karageorgopoulos is a graduate of the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). He completed his undergraduate studies in March of 2021 in the field of Information Technology and fields of specification Computer Software, Computer Systems, Signals, Automatic Control and Robotics. His diploma thesis was “Development of software for investigation of energy markets price forecasting using machine learning techniques”. Since May 2021, he works as a Software Engineer and Research Associate in the Artificial Intelligence and Learning Systems (AILS) Laboratory of the National Τechnical University of Athens. He participates in various projects that are developed in the AILS Laboratory aiming at the use of Linked Data and semantic technologies, such as SAGE and STIRData.
+#   linkedin: https://www.linkedin.com/in/apostolis-karageorgopoulos/
+#   modalId: karageorgopoulos-modal
 
 #- image: /assets/img/team/img-user-3.webp
 #  name: Anna Christaki
