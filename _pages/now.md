@@ -32,7 +32,7 @@ permalink: /now
       {% endfor %}
     </div>
   </section>
-  <section class="past-section mb-5">
+  <section class="past-section mainheading mb-5">
     <div class="container">
       <div class="wrap">
         <h1 class="mb-5">Past Projects</h1>
