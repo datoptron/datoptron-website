@@ -48,7 +48,7 @@ permalink: /now
         </div>
         <div class="col col-md-9 col-12">
           <p class="mb-2">{{ project.description }}</p>
-          {% if link in project %}
+          {% if project.link %}
           <a href="{{ project.link }}" target="_blank" class="learn-more">Learn more</a>
           {% endif %}
         </div>
