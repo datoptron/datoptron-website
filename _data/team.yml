@@ -26,13 +26,6 @@
   linkedin: https://www.linkedin.com/in/arne-stabenau/
   modalId: stabenau-modal
 
-- image: /assets/img/team/mavrotas.webp
-  name: Leonidas Mavrotas
-  role: Software Engineer & Frontend Developer
-  description: Leonidas Mavrotas is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens with a diploma thesis focused on investigating and advancing the attributes of Augmented Reality (AR) tools in modern applications. He has since worked as a frontend developer, with a focus on integrating 3D environments in browser applications and a key interest in modern libraries and efficient frontend applications design. Since November of 2023, he works as a software engineer and frontend developer at the Intelligent Systems, Content & Interaction Lab of NTUA, participating in various projects developed by the lab team.
-  linkedin: https://www.linkedin.com/in/leonidas-mavrotas/
-  modalId: mavrotas-modal
-
 - image: /assets/img/team/orfeas.webp
   name: Orfeas Menis-Mastromichalakis
   role: AI Researcher (PhD candidate)
@@ -40,12 +33,19 @@
   linkedin: https://www.linkedin.com/in/orfeasmenis/
   modalId: menis-modal
  
-#  - image: /assets/img/team/koutkias.webp
-#   name: Vagelis Koutkias
-#   role: Engineering Manager & Growth
-#   description: Vagelis worked for years in the fintech sector at XM - <a href="http://trading.com/" target="_blank">Trading.com</a>. He has worked as a team lead and the past years he transitioned to a tech lead. His main focus was frontend and most specifically mobile development.<br/>He frequently writes about software things <a href="https://thinkingonsoftwareandlife.substack.com/" target="_blank">here</a> and random thoughts <a href="https://thinkingonthings.substack.com/" target="_blank">here</a>.
-#   linkedin: https://www.linkedin.com/in/vagelis-koutkias-66b58a69/
-#   modalId: koutkias-modal
+- image: /assets/img/team/default-avatar.webp
+  name: Jason Liartis
+  role: AI Researcher (PhD candidate)
+  description: Jason is a researcher and software engineer focusing on the field of eXplainable Artificial Intelligence. He completed his undergraduate studies at the National Technical University of Athens (NTUA). During his thesis he studied the use of Semantic Web technologies for producing explanations of black-box AI systems. He is currently a PhD student at the Artificial Intelligence and Learning Systems Laboratory at NTUA. He is also working as a Software and Machine Learning Engineer on the field of Natural Language Processing.
+  linkedin: https://www.linkedin.com/in/jason-liartis-02b971334/
+  modalId: liartis-modal
+
+- image: /assets/img/team/mavrotas.webp
+  name: Leonidas Mavrotas
+  role: Software Engineer & Frontend Developer
+  description: Leonidas Mavrotas is a graduate of the School of Electrical and Computer Engineering of National Technical University of Athens with a diploma thesis focused on investigating and advancing the attributes of Augmented Reality (AR) tools in modern applications. He has since worked as a frontend developer, with a focus on integrating 3D environments in browser applications and a key interest in modern libraries and efficient frontend applications design. Since November of 2023, he works as a software engineer and frontend developer at the Intelligent Systems, Content & Interaction Lab of NTUA, participating in various projects developed by the lab team.
+  linkedin: https://www.linkedin.com/in/leonidas-mavrotas/
+  modalId: mavrotas-modal
 
 # - image: /assets/img/team/bekiaris.webp
 #   name: Spyros Bekiaris
