@@ -1,5 +1,5 @@
 ---
-title: What We Do Now
+title: What We Do
 layout: default
 permalink: /now
 ---
@@ -10,7 +10,7 @@ permalink: /now
       <div class="wrap">
         <h1 class="mb-5">What we do <span class="green">Now</span></h1>
         <h3>
-          This is a <a href="https://nownownow.com/about" target="_blank" class="anchor-link">now page</a>. We list here all the running projects and where we are focusing right now.
+          We list here all the running projects and where we are focusing right now.
         </h3>
       </div>
     </div>
@@ -24,7 +24,33 @@ permalink: /now
         </div>
         <div class="col col-md-9 col-12">
           <p class="mb-2">{{ project.description }}</p>
+          {% if link in project %}
           <a href="{{ project.link }}" target="_blank" class="learn-more">Learn more</a>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  <section class="past-section mb-5">
+    <div class="container">
+      <div class="wrap">
+        <h1 class="mb-5">Past Projects</h1>
+      </div>
+    </div>
+  </section>
+  <section class="my-5 pt-4">
+    <div class="container">
+      {% for project in site.data.past %}
+      <div class="row mb-5">
+        <div class="col col-md-3 col-12">
+          <h4 class="pt-1">{{ project.title }}</h4>
+        </div>
+        <div class="col col-md-9 col-12">
+          <p class="mb-2">{{ project.description }}</p>
+          {% if link in project %}
+          <a href="{{ project.link }}" target="_blank" class="learn-more">Learn more</a>
+          {% endif %}
         </div>
       </div>
       {% endfor %}
