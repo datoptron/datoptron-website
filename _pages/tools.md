@@ -44,6 +44,19 @@ permalink: /tools
             <!-- col-->
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
+                <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-debias.png">
+                <a href="{{ site.baseurl }}/tools/debias">
+                  <h3>DE-BIAS</h3>
+                  <p>
+                    The DE-BIAS Tool detects outdated and potentially harmful language in descriptions of cultural heritage collections. It was developed by the DE-BIAS project.
+                  </p>
+                </a>
+                <a class="more" href="{{ site.baseurl }}/tools/debias">Learn More</a>
+              </div>
+            </div>
+            <!-- col-->
+            <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
+              <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-mint.png">
                 <a href="{{ site.baseurl }}/tools/mint">
                   <h3>MINT</h3>
