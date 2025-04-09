@@ -36,7 +36,7 @@ bodyClass: tools platform
             <p>
 			STIRData is an online platform for searching, navigating, synthetically analysing, and visualising company-related open data content coming from different sources in a homogeneous, supporting a number of cross-border and cross-domain reuse scenarios. These sources include company registries, sources discoverable via the European Data Portal (EDP) and other open data platforms. The offered functionalities are exposed via an open Application Programming Interface (API), so that they can be reused by other digital public services or applications developed by data and ICT companies.
             </p>
-            <a href="https://portal.stirdata.eu">Visit the platform</a>
+            <a href="https://portal.stirdata.eu">Learn more about STIRData</a>
           </div>
         </div>
       </div>
@@ -72,6 +72,26 @@ bodyClass: tools platform
         <div class="col-xl-9 col-lg-9 col-md-12 right">
           <!-- content-->
           <p>
+          STIRData provides a user-friendly interface to explore in a uniform manner business registry data from 13 European countries.
+          </p>
+          <p>
+          The STIRData approach to technical interoperability is based on linked data, and the approach to semantic interoperability is based on a common data specification that reuses the European Core Vocabularies. 
+          </p>
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/stirdata_1.webp">
+          <p>
+          The platform adopts a fully decentralised architecture. It assumes that each dataset resides in a separate remote SPARQL endpoint. Apart from some basic information about each dataset, it also centrally stores copies of the shared NUTS, LAU and NACE vocabularies. In addition, to improve performance of the user facing platform, centrally stored precomputed statistics data and indexes have been added as extensions to the basic platform architecture, making it less dependent on the performance characteristics of the source SPARQL endpoints.
+          </p>
+          <p>
+          For most of the supported countries, the business registry data have been transformed to the common linked data based representation using the <a href="https://datoptron.com/tools/sage" target="_blank">SAGE</a> tool, which retrieves the data in their original format from the business registries, maps them to the common model, enriches them using the NUTS, LAU and NACE vocabularies, and finally publishes the resulting linked data representation in the SPARQL endpoints.
+          </p>
+          <p>
+          The STIRData compliant business registry datasets offered by the platform are discovered automatically by scheduled tasks that periodically check for new datasets in the Official portal for European data, as well as for updates of already included datasets. Datasets not yet available in the official portal for European data can be registered manually; in either case, the only required information is a link to the respective SPARQL endpoint. 
+          </p>
+          <p>
+          The platform enables the end user to make complex search queries to retrieve lists of companies that satisfy conditions based on location, economic activity, and registration date. For example, a user may request all companies registered in the Oslo area in Norway and in the Prague area in Czechia after a certain date that perform one of a specific set of economic activities.
+          </p>
+          <p>
+          Statistical views are also provided, showcasing an analysis of the distribution of companies in the subregions and subactivities specified in a query. Statistics provide useful, compact overviews of the underlying data and allow users to browse through the location and/or the economic activity hierarchies, displaying the corresponding statistical information.
           </p>
           <!-- oval-->
         </div>

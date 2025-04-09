@@ -149,7 +149,6 @@ permalink: /tools
               </div>
             </div>
             <!-- col-->
-            <!--
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-stirdata-white.png">
@@ -162,7 +161,6 @@ permalink: /tools
                 <a class="more" href="{{ site.baseurl }}/tools/stirdata">Learn More</a>
               </div>
             </div>
-            -->
           </div>
         </div>
       </div>
