@@ -73,6 +73,7 @@ bodyClass: tools
         </div>
         <!-- col-->
         <div class="col-xl-9 col-lg-9 col-md-12 right">
+          <img class="thumbnail" src="{{ site.baseurl }}/assets/img/tools/debias_1.webp">
           <!-- content-->
           <h3>About the Tool</h3>
           <p>
