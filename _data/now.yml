@@ -15,5 +15,5 @@
   link: https://pro.europeana.eu/page/data-space-deployment
 
 - title: DE-TOEX
-  description: DEtection of  TOxic and hateful speech with EXplanations (2025). The project develops an approach to the automatic detection of toxic speech  related to political groups and their members. The approach combines LLMs with a semantic vocabulary on derogatory language and traditional NLP techniques and offers explanations as to why certain expressions are considered offensive within a specific context.
-
+  description: DEtection of  TOxic and hateful speech with EXplanations (2025). The project develops an approach to the automatic detection of toxic speech  related to political groups and their members. The approach combines LLMs with a semantic vocabulary on derogatory language and traditional NLP techniques and offers explanations as to why certain expressions are considered offensive within a specific context. The detoex tool we have developed is available in the link below.
+  link: https://github.com/ails-lab/detoex
