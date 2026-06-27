@@ -1,0 +1,13 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:4.2.2
+    command: jekyll serve --watch --force_polling --livereload --host 0.0.0.0
+    ports:
+      - "4000:4000"   # site
+      - "35729:35729" # livereload
+    volumes:
+      - .:/srv/jekyll
+      - bundle:/usr/local/bundle
+
+volumes:
+  bundle:

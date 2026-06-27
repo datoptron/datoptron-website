@@ -138,19 +138,6 @@ permalink: /tools
             <!-- col-->
             <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
               <div class="productwrap">
-                <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-with-white.png">
-                <a href="{{ site.baseurl }}/tools/withculture">
-                  <h3>WITHCulture</h3>
-                  <p>
-                    WITHCulture provides access to digital cultural heritage items from different repositories and  offers a number of added-value services for their creative reuse.
-                  </p>
-                </a>
-                <a class="more" href="{{ site.baseurl }}/tools/withculture">Learn More</a>
-              </div>
-            </div>
-            <!-- col-->
-            <div class="col-xxl-4 col-xl-6 col-lg-4 col-md-6 item">
-              <div class="productwrap">
                 <img class="logo" src="{{ site.baseurl }}/assets/img/ic-logo-stirdata-white.png">
                 <a href="{{ site.baseurl }}/tools/stirdata">
                   <h3>STIRData</h3>
