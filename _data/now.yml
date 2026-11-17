@@ -1,19 +1,19 @@
+- title: EDP
+  description: Since October 2026, Datoptron has been part of the consortium, alongside Telekom and PPMI, that delivers services for the European Data Portal under a 54-month contract with the Publications Office of the European Union. Datoptron is responsible for the portal’s data harvesting and other core data components.
+  link: https://data.europa.eu/en
+
+- title: CULTUR.ACT
+  description: Horizon Europe-funded project (2026-2029) designed to bring the European Collaborative Cloud for Cultural Heritage (ECCCH) to life through real-world testing and adoption.
+  link: https://www.digitalheritage.ee/research-projects/cultur-act
+
+- title: Env Legislation
+  description: Datoptron participates as a subcontractor in a project that supports the European Commission with a new study on the “Stress Test Focusing on the Digital Dimension of European Environmental Legislation.” It is responsible for aspects related to semantic modelling, RDF automation and machine-readable legislation outputs.
+  link: https://technopolis-group.com/new/technopolis-group-supports-european-commission-study-on-the-digital-dimension-of-environmental-legislation/
+
 - title: CORDIS
   description: Improving and enriching the data of the Community Research and Development Information Service (CORDIS) of the Europena Commission using Linked Data and AI technologies. Datoptron is currently responsible for tasks related to the reconciliation of organizations that have participated in EU research projects over the last four decades.
   link: https://cordis.europa.eu/
 
-- title: ASKSA
-  description: Promoting the Cultural Content of the American School of Classical Studies in Athens (ASKSA) with the help of Artificial Intelligence (2024-2025). Datoptron is subcontracted with tasks related to metadata management and the promotion of ASKSA’s digital collections through interactive means and citizen engagement.
-  link: https://www.ascsa.edu.gr/ascsa-espa-project
-
-- title: AI4Culture
-  description: An AI platform for the cultural heritage data space (2023-2025). Funded under the Digital Europe Programme, the project aims to develop a suite of AI tools and an online capacity building hub for the application of artificial intelligence technologies in the cultural heritage sector.
-  link: https://pro.europeana.eu/project/ai4culture-an-ai-platform-for-the-cultural-heritage-data-space
-
 - title: DS4CH
   description: Data Space for Cultural Heritage DS4CH - deployment of the common European data space (2023-2024). Datoptron is responsible for supporting through its technical tools the process of metadata aggregation and automatic enrichment.
   link: https://pro.europeana.eu/page/data-space-deployment
-
-- title: DE-TOEX
-  description: DEtection of  TOxic and hateful speech with EXplanations (2025). The project develops an approach to the automatic detection of toxic speech  related to political groups and their members. The approach combines LLMs with a semantic vocabulary on derogatory language and traditional NLP techniques and offers explanations as to why certain expressions are considered offensive within a specific context. The detoex tool we have developed is available in the link below.
-  link: https://github.com/ails-lab/detoex
